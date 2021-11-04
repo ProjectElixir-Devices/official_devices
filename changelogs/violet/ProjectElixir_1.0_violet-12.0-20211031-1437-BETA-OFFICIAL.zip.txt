@@ -1,0 +1,9 @@
+Selinux is Enforcing now
+Fixed Voip Echo related issues in whatsapp
+Fixed HD playback in Amazon Prime
+Improved Sound Quality 
+sepolicy: Address hal_drm & hidl_base denials
+CTS Pass by default
+Gapps Included ! 
+Misc Changes and a lot of Fixes
+Reporting bugs without proper logs will be considered as a feature : )
