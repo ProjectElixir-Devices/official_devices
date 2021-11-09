@@ -1,0 +1,5 @@
+HOTFIX
+-Fixed hotspot toggle issue
+-Fixed goodix fp
+-Fixed ok google
+-Other under the hood improvements
