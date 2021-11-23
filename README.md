@@ -49,6 +49,7 @@ Xiaomi Mi 9 (cepheus) by Mehdi
 ```bash
 Realme 2 Pro (RMX1801) by Abhishek
 Realme XT (RMX1921) by Probir
+Realme C3/Narzo 10A (RMX2020) by Anoos
 ```
 
 ## - Meizu Devices
