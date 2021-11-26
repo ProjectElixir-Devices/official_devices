@@ -12,6 +12,7 @@ Project Elixir is another aftermarket AOSP ROM which basically offers minimal UI
 ## - Xiaomi (Redmi Series)
 ```bash
 Redmi S2/Y2 (ysl) by Sushmit
+Redmi Note 7/7s (lavender) by Soham
 Redmi Note 7 Pro (violet) by Saurav
 Redmi Note 9S (curtana_global) by Tushar
 Redmi Note 9 Pro (curtana/joyeuse) by Tushar
@@ -24,7 +25,7 @@ Redmi K30 (phoenix) by Ankit
 
 ## - Xiaomi (Poco Series)
 ```bash
-Xiaomi Poco F1 (beryllium) by David
+Xiaomi Poco F1 (beryllium) by Prabh
 Xiaomi Poco M2 pro (Gram) by Tushar
 Xiaomi Poco X2 (phoenix) by Ankit
 Xiaomi Poco X3 Pro (vayu/bhima) by Pritish
@@ -32,6 +33,7 @@ Xiaomi Poco X3 Pro (vayu/bhima) by Pritish
 
 ## - Xiaomi (Mi Series)
 ```bash
+Xiaomi Mi A3 (laurel_sprout) by H3M3L
 Xiaomi Mi 9 (cepheus) by Mehdi
 ```
 
@@ -48,8 +50,10 @@ Xiaomi Mi 9 (cepheus) by Mehdi
 ## - Realme Devices
 ```bash
 Realme 2 Pro (RMX1801) by Abhishek
-Realme XT (RMX1921) by Probir
 Realme C3/Narzo 10A (RMX2020) by Anoos
+Realme 5/5i/5s Unified (RMX1911/1925/2030) by Takumi
+Realme XT (RMX1921) by Probir
+Realme X7 MAX (RMX3031) by Nishant
 ```
 
 ## - Meizu Devices
