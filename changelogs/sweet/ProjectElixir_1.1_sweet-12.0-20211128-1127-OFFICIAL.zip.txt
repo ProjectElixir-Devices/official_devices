@@ -1,0 +1,10 @@
+Elixir v1.1 HOTFix Build:
+
+Changelogs:
+*Fixed UI Lags,Shutters etc issue
+*Fixed audio bug on some apps like MS Teams
+*Else same as v1.1 build
+
+//Credits:
+@daniml3 for base trees and kernel
+
