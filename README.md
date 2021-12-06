@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/NdMZ3h4.png" />
+  <img src="https://i.imgur.com/snHlKrS.jpg" />
 </p>
 
 
@@ -12,13 +12,8 @@ Project Elixir is another aftermarket AOSP ROM which basically offers minimal UI
 ## - Xiaomi (Redmi Series)
 ```bash
 Redmi S2/Y2 (ysl) by Sushmit
-Redmi Note 7/7s (lavender) by Soham
 Redmi Note 7 Pro (violet) by Saurav
-Redmi Note 9S (curtana_global) by Tushar
-Redmi Note 9 Pro (curtana/joyeuse) by Tushar
-Redmi Note 9 Pro MAX (excalibur) by Tushar
 Redmi Note 10 (mojito/sunny) by Jaydeep
-Redmi Note 10 Lite (curtana) by Tushar
 Redmi Note 10 Pro/Max (sweet/sweetin) by itsXRP
 Redmi K30 (phoenix) by Ankit
 ```
@@ -26,7 +21,6 @@ Redmi K30 (phoenix) by Ankit
 ## - Xiaomi (Poco Series)
 ```bash
 Xiaomi Poco F1 (beryllium) by Prabh
-Xiaomi Poco M2 pro (Gram) by Tushar
 Xiaomi Poco X2 (phoenix) by Ankit
 Xiaomi Poco X3 Pro (vayu/bhima) by Pritish
 ```
@@ -49,11 +43,12 @@ Xiaomi Mi 9 (cepheus) by Mehdi
 
 ## - Realme Devices
 ```bash
+Realme 3/3i (RMX1821) by Pritish
 Realme 2 Pro (RMX1801) by Abhishek
+Realme C2 (RMX1941) by Sundram
 Realme C3/Narzo 10A (RMX2020) by Anoos
 Realme 5/5i/5s Unified (RMX1911/1925/2030) by Takumi
 Realme XT (RMX1921) by Probir
-Realme X7 MAX (RMX3031) by Nishant
 ```
 
 ## - Meizu Devices
@@ -77,6 +72,12 @@ You must fulfill the following requirements before applying:
 # XDA 
 
 - [XDA Template is Here](https://github.com/Project-Elixir/docs/blob/master/xda_template.txt)
+
+
+<p align="center">
+  <img src="https://i.imgur.com/vDVCAR5.jpg" />
+</p>
+
 
 ## For adding your device to the list of OFFICIALLY supported devices, you need to contact us on Telegram profiles below with device name and device, vendor, kernel trees.
 
