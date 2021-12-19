@@ -1,0 +1,18 @@
+Elixir v1.2 v2 Changelogs:
+
+*December Security Patch
+*Added Notch Bar Killer (Under Developer Options/Device Cutout)
+*Latest Vantom Kernel
+*Import HotwordEnrollment from OnePlus 8 Pro (Faster OK Google)
+*Cleanup some cleanup powerhint
+*Games Max FPS Added to source
+*Google Dialer Call Recording Works
+*More Smoother Experience
+*Blah Blah Blah
+*Many more underhood stuff
+
+Credits:
+
+@daniml3 for base trees
+@Vantom and @redline_soee for kernel
+@Dedvinci_Cruz for testing all time
