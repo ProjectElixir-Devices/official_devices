@@ -1,0 +1,20 @@
+- Source upstream
+- Go Enforcing
+- Updated Kernel to latest 4.14.258 tag
+- Switched to OSS AIDL Light hal
+- Use arch armv8-2a-dotprod variant
+- Updated rounded corners
+- Fix All Brightness issues 
+- Enable freeform multiwindow
+- Performance improvements
+- Fix touch issues at corners
+- Updated to P6 offline charging
+- Added RealmeDirac
+- Enable One-handed mode
+- Drop few oppo shits
+- Fix Deep sleep
+- Add OpenGL ES and update Vulkan dEQP feature flags
+- Include c2 media codecs
+- Added Always on Display
+- Updated MTK powerhints from A.61
+- Fixed Mobile Legends crash
