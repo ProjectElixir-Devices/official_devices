@@ -23,6 +23,7 @@ Redmi K30 (phoenix) by Ankit
 Xiaomi Poco F1 (beryllium) by Prabh
 Xiaomi Poco X2 (phoenix) by Ankit
 Xiaomi Poco X3 Pro (vayu/bhima) by Pritish
+Xiaomi Poco F3/11x/K40 (Alioth/Aliothin) by Dark_phoenix
 ```
 
 ## - Xiaomi (Mi Series)
