@@ -50,6 +50,7 @@ Realme C2 (RMX1941) by Sundram
 Realme C3/Narzo 10A (RMX2020) by Anoos
 Realme 5/5i/5s Unified (RMX1911/1925/2030) by Takumi
 Realme XT (RMX1921) by Probir
+Realme 6 pro (RMX2061/2063) by Aman
 ```
 
 ## - Meizu Devices
