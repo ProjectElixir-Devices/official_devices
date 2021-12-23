@@ -1,0 +1,6 @@
+Elixir 1.2 Changelog:
+
+*December SP
+*Fixed Video recording sound bug
+*LegionX kernel
+*Many more Rom side and kernel side changes
