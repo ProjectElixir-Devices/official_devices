@@ -60,7 +60,7 @@ Realme 6 pro (RMX2061/2063) by Aman
 
 ## - Asus Devices
 ```bash
-Asus Zenfone Max Pro M1 (X00TD) by Pritish
+Asus Zenfone Max Pro M1 (X00TD) by Harshhaa Reddy Pamarthi
 ```
 
 # Maintainership 
