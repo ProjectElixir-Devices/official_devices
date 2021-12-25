@@ -16,7 +16,7 @@ Redmi Note 7 Pro (violet) by Saurav
 Redmi Note 10 (mojito/sunny) by Jaydeep
 Redmi Note 10 Pro/Max (sweet/sweetin) by itsXRP
 Redmi K30 (phoenix) by Ankit
-Redmi Note 9 Pro 5G (gauguinpro) by Hridaya & Yash 
+Redmi Note 9 Pro 5G (gauguinpro) by Hridaya & Yasin 
 ```
 
 ## - Xiaomi (Poco Series)
@@ -31,8 +31,8 @@ Xiaomi Poco F3/11x/K40 (Alioth/Aliothin) by Dark_phoenix
 ```bash
 Xiaomi Mi A3 (laurel_sprout) by H3M3L
 Xiaomi Mi 9 (cepheus) by Mehdi
-Xiaomi Mi 10i 5G (gauguininpro) by Hridaya & Yash 
-Xiaomi Mi 10T Lite (gauguin_global) by Hridaya & Yash 
+Xiaomi Mi 10i 5G (gauguininpro) by Hridaya & Yasin
+Xiaomi Mi 10T Lite (gauguin_global) by Hridaya & Yasin
 ```
 
 ## - Nokia Devices
