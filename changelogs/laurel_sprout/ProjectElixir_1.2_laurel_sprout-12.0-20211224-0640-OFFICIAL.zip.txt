@@ -1,0 +1,6 @@
+Elixir 1.2 Changelog (laurel_sprout)
+
+Initial A12 Build
+Redfin Dec FP
+Built-in GCam Go
+Updated to Lineage Kernel 4.14.255
