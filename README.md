@@ -13,6 +13,7 @@ Project Elixir is another aftermarket AOSP ROM which basically offers minimal UI
 ```bash
 Redmi S2/Y2 (ysl) by Sushmit
 Redmi Note 7 Pro (violet) by Saurav
+Redmi Note 7 (lavender) by Aaradhay Vijay
 Redmi Note 10 (mojito/sunny) by Jaydeep
 Redmi Note 10 Pro/Max (sweet/sweetin) by itsXRP
 Redmi K30 (phoenix) by Ankit
