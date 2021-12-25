@@ -1,0 +1,12 @@
+- Initial official OSS Build.
+- Reworked the statusbar dimensions.
+- Used Gcam Go Prebuilt.
+- Used Minimum/Maximum refresh rate option.
+- Used ArrowOS kernel for this build.
+- Bluetooth disabled by default when startup(previously was ON everytime you reboot).
+- Added 4 color modes.
+- DT2W working.
+
+Notes:
+- Its OSS build so MUST CLEAN FLASH.
+- Flash latest stock Android 11 firmwares, then flash the ROM.
