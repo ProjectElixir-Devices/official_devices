@@ -1,5 +1,0 @@
-Upstreamed Kernel
-
-Minor improvements
-
-December Security Patch

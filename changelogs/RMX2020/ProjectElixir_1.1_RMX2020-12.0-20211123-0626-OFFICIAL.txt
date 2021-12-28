@@ -1,5 +1,0 @@
-- Initial Android 12 Build
-- Initial VNDK31 Source built vendor build
-- Updated to DRM 1.4 from Redmi Ares 
-- Updated libudf from Redmi Ares
-- Updated to AIDL Vibration HAL from Nokia Ronin

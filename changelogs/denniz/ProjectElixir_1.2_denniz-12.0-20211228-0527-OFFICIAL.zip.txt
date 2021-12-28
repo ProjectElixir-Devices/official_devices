@@ -1,9 +1,0 @@
-Elixir 1.2 Changelog:
-
-*Initial Build
-*Built-in GCam Go
-
-Credits:
-
-@ManshuTyagi for Realme X7 Max trees
-@NishantKumar6342 for helping 

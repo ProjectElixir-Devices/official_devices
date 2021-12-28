@@ -1,5 +1,0 @@
-Inlined Kharame.129
-Selinux Permissive
-Gapps Included
-Cts Passes
-Initial a12 build

@@ -1,4 +1,0 @@
-SeLinux Enforcing
-Low Brightness on Custom Roms Fixed
-Fingerprint Scanner Issues Fixed
-Inlined Kharame.129

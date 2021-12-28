@@ -1,8 +1,0 @@
-Fixed Turbo Charge indication
-Fixed google voice recorder
-Fixed sound fix distortion on wired headphones
-Fixed spotify volume changes between songs
-Fixed low speaker volume
-
-credits for testing
-@itsfsl @Teenarp2003 @arbatashu @soumalya_19
