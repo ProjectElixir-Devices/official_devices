@@ -8,5 +8,5 @@
 - DT2W working.
 
 Notes:
-- Its OSS build so MUST CLEAN FLASH.
+- Its OSS build so MUST CLEAN FLASH if from MIUI based vendor.
 - Flash latest stock Android 11 firmwares, then flash the ROM.
