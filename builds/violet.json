@@ -4,12 +4,12 @@
     "maintainer": "",
     "username": "",
     "group": "",
-   "datetime": ,
+   "datetime": 1641999720,
    "error": false,
-   "filehash": "684290bc0fa960dfd5d94299138b60c1",
-   "filename": "ProjectElixir_1.2_violet-12.0-20211220-1608-OFFICIAL.zip",
-   "id": "dff66896331438b1cfd1d9221cd08e96bd9cbe96",
-   "size": 1497920213,
-   "url": "https://sourceforge.net/projects/project-elixir/files/twelve/violet/ProjectElixir_1.2_violet-12.0-20211220-1608-OFFICIAL.zip/download",
+   "filehash": "d1b25d3e6bb69fcd4bbd04aae2f2e9b47deb0733",
+   "filename": "ProjectElixir_1.3_violet-12.0-20220112-1502-OFFICIAL.zip",
+   "id": "6e6a4b5cfc365595d720835bbfc5d17245dc2afd2074687a131fd5849441e7c2",
+   "size": 1507421281,
+   "url": "https://true-mirror-69.gitsauraj.workers.dev/0:/ProjectElixir_1.3_violet-12.0-20220112-1502-OFFICIAL.zip",
    "version": "Twelve"
 }
