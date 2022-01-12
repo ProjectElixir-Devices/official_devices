@@ -1,9 +1,15 @@
 {
     "name": "",
     "codename": "",
-    "filename": "",
-    "version": "",
     "maintainer": "",
     "username": "",
-    "group": ""
+    "group": "",
+   "datetime": ,
+   "error": false,
+   "filehash": "684290bc0fa960dfd5d94299138b60c1",
+   "filename": "ProjectElixir_1.2_violet-12.0-20211220-1608-OFFICIAL.zip",
+   "id": "dff66896331438b1cfd1d9221cd08e96bd9cbe96",
+   "size": 1497920213,
+   "url": "https://sourceforge.net/projects/project-elixir/files/twelve/violet/ProjectElixir_1.2_violet-12.0-20211220-1608-OFFICIAL.zip/download",
+   "version": "Twelve"
 }
