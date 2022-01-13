@@ -1,15 +1,10 @@
 {
-    "name": "",
-    "codename": "",
-    "maintainer": "",
-    "username": "",
-    "group": "",
-   "datetime": 1641999720,
+   "datetime": 1642090380,
    "error": false,
-   "filehash": "d1b25d3e6bb69fcd4bbd04aae2f2e9b47deb0733",
-   "filename": "ProjectElixir_1.3_violet-12.0-20220112-1502-OFFICIAL.zip",
-   "id": "6e6a4b5cfc365595d720835bbfc5d17245dc2afd2074687a131fd5849441e7c2",
-   "size": 1507421281,
-   "url": "https://true-mirror-69.gitsauraj.workers.dev/0:/ProjectElixir_1.3_violet-12.0-20220112-1502-OFFICIAL.zip",
+   "filehash": "220ea2c3144cd69dc741d68f19d74aa38c1d47dc",
+   "filename": "ProjectElixir_1.3_violet-12.0-20220113-1613-OFFICIAL.zip",
+   "id": "c1eabf82d6e970bfd618815a83802107520c1e457cdabf0501ae4b786a0fb254",
+   "size": 1507240208,
+   "url": "https://true-mirror-69.gitsauraj.workers.dev/0:/ProjectElixir_1.3_violet-12.0-20220113-1613-OFFICIAL.zip",
    "version": "Twelve"
 }
