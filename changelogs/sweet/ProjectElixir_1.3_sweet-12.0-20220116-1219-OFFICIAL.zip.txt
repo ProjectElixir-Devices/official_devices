@@ -1,0 +1,8 @@
+## 1.3 SWEET
+
+- Jan Reven SP
+- Implemented Thermals
+- Fixed DC Dimming issue(Thanks to someone)
+- Implemented Clear Speaker
+- Set default Settings Global DEVICE_NAME to MIUI Type
+- Many underhood changes to trees and UI not more smooth
