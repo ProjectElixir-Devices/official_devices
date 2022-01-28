@@ -1,14 +1,14 @@
 {
 "error":false,
-"filename": "",
-"datetime": ,
-"size":,
-"url":"", 
-"filehash":"",
-"version": "",
-"id": "", 
-"tg_username": "",
-"device_name":"",
-"device":"",
-"xda_thread":""
+"filename": "ProjectElixir_1.4_violet-12.0-20220128-1202-OFFICIAL.zip",
+"datetime": 1643371320,
+"size": 1515446209,
+"url":"https://sourceforge.net/projects/noobsbuild/files/ProjectElixir_1.4_violet-12.0-20220128-1202-OFFICIAL.zip", 
+"filehash":"2d3c85ab231cdb32c215b27c5645779b",
+"version": "12",
+"id": "064c3391fe5cf6cdda122aebbd03f6c652b4a78fee92cb79174cb33d0cdd7527",
+"tg_username": "ugly_kid_af",
+"device_name":"Redmi Note 7 Pro",
+"device":"violet",
+"xda_thread":"https://forum.xda-developers.com/t/rom-12-0-violet-project-elixir-official-twelve-aosp.4351993/"
 }
