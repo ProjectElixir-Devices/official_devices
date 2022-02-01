@@ -16,7 +16,7 @@ Redmi Note 6 Pro (tulip) by RahulPalXDA
 Redmi Note 7 Pro (violet) by Saurav
 Redmi Note 7 (lavender) by Aaradhay Vijay
 Redmi Note 10 (mojito/sunny) by Jaydeep
-Redmi Note 10 Pro/Max (sweet/sweetin) by itsXRP
+Redmi Note 10 Pro/Max (sweet/sweetin) by zaidkhan0997
 Redmi K30 (phoenix) by Ankit
 Redmi Note 9 Pro 5G (gauguinpro) by Hridaya & Yasin 
 ```
