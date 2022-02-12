@@ -56,6 +56,8 @@ Realme C2 (RMX1941) by Sundram
 Realme C3/Narzo 10A (RMX2020) by Anoos
 Realme 5/5i/5s Unified (RMX1911/1925/2030) by Takumi
 Realme XT (RMX1921) by Probir
+Realme X3 (RMX2081) by Patriot
+Realme X3 SuperZOOM (RMX2081) by Patriot
 Realme 6 pro (RMX2061/2063) by Aman
 ```
 
