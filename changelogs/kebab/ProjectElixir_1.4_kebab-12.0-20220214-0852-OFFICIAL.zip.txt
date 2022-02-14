@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: OnePlus 8T/9R (kebab/lemonades)
+Device maintainer: Amsal Khan
+
+===== 14 February, 2022 =====
+- Initial A12 Official Build
+- Inbuilt OnePlus OOSCam, Gallery, Dolby and DeviceSettings
+- Safetynet passes by default
+- Using IllusionX kernel 4.19.226
+- Enforcing Build
