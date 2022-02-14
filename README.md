@@ -71,6 +71,12 @@ Realme 6 pro (RMX2061/2063) by Aman
 Asus Zenfone Max Pro M1 (X00TD) by Harshhaa Reddy Pamarthi
 ```
 
+## - OnePlus Devices
+```bash
+OnePlus 8T(kebab) by Viper_1057 or Amsal1
+OnePlus 9R(lemonades) by Viper_1057 or Amsal1
+```
+
 # Maintainership 
 
 You must fulfill the following requirements before applying:
