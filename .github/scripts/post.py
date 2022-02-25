@@ -98,7 +98,10 @@ def get_info(ID):
         DEVICE_NAME = info['device_name']
         CODENAME =  info['device']
         MAINNTAINER = info['tg_username']
-        XDA = info['xda_thread']
+        try:
+            XDA = info['xda_thread']
+        except KeyError:
+            XDA = None
         DOWNLOAD_URL = info['url']
         DATE_TIME = datetime.datetime.fromtimestamp(int(info['datetime']))
         MD5 = info['filehash']
@@ -152,12 +155,19 @@ def message_content(information):
 # Prepare buttons for message
 def button(information):
     buttons = InlineKeyboardMarkup()
-    buttons.row_width = 3
-    button1 = InlineKeyboardButton(text="Channel", url=f"https://t.me/Elixir_Updates")
-    button2 = InlineKeyboardButton(text="XDA", url=f"{information['xda']}")
-    button3 = InlineKeyboardButton(text="Support", url=f"https://t.me/Elixir_Discussion")
-    button4 = InlineKeyboardButton(text="Download", url=f"https://projectelixiros.com/download")
-    return buttons.add(button1, button2, button3, button4)
+    if information['xda'] is None:
+        buttons.row_width = 2
+        button1 = InlineKeyboardButton(text="Channel", url=f"https://t.me/Elixir_Updates")
+        button2 = InlineKeyboardButton(text="Support", url=f"https://t.me/Elixir_Discussion")
+        button3 = InlineKeyboardButton(text="Download", url=f"https://projectelixiros.com/download")
+        return buttons.add(button1, button2, button3)
+    else:
+        buttons.row_width = 3
+        button1 = InlineKeyboardButton(text="Channel", url=f"https://t.me/Elixir_Updates")
+        button2 = InlineKeyboardButton(text="XDA", url=f"{information['xda']}")
+        button3 = InlineKeyboardButton(text="Support", url=f"https://t.me/Elixir_Discussion")
+        button4 = InlineKeyboardButton(text="Download", url=f"https://projectelixiros.com/download")
+        return buttons.add(button1, button2, button3, button4)
 
 # Send updates to channel and commit changes in repo
 def tg_message():
