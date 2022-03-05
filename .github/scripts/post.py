@@ -229,9 +229,12 @@ def tg_log():
     msg = ""
     msg += f"<b>Project Elixir Devices Update Status</b>\n\n"
     msg += f"<b>The following devices have been updated in the current month</b> <code>(after {str(month_start)} hours)</code><b>:</b> "
-    for device in Updated:
-        msg += f"\n<b>{count}.</b> <code>{device['device_name']} ({device['codename']})</code> <b>-</b> <a href='https://t.me/{device['maintainer']}'>{device['maintainer']}</a>"
-        count += 1
+    if len(Updated) == 0:
+        msg += f"<code>None</code>"
+    else:
+        for device in Updated:
+            msg += f"\n<b>{count}.</b> <code>{device['device_name']} ({device['codename']})</code> <b>-</b> <a href='https://t.me/{device['maintainer']}'>{device['maintainer']}</a>"
+            count += 1
     msg += "\n\n"
     count = 1
     msg += f"<b>The following devices have not been updated in the current month:</b> "
