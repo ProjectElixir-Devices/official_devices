@@ -1,0 +1,5 @@
+• Kernel upstream to 4.9.304
+• Merge "LA.UM.10.3.r1-01000-sdm845.0" tag into kernel
+• Misc fixes & improvements
+• CTS passes by default
+• Please remove pin/pass before ota update
