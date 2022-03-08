@@ -147,7 +147,7 @@ def message_content(information):
     msg += f"<b>Build Date:</b> <code>{information['datetime']} UTC</code>\n\n"
     msg += f"<b>Source Changelogs:</b> <a href='https://projectelixiros.com/changelog'>Here</a>\n"
     msg += f"<b>Device Changelogs:</b> <a href='https://github.com/ProjectElixir-Devices/Changelogs/blob/snow/{information['codename']}.md'>Here</a>\n\n"
-    msg += f"<b>Screenshots:</b> <a href='https://t.me/Elixir_SS'>Here</a>\n"
+    msg += f"<b>Screenshots:</b> <a href='https://projectelixiros.com/gallery'>Here</a>\n"
     msg += f"<b>MD5:</b> <code>{information['md5']}</code>\n\n"
     msg += f"<b>Donate:</b>\n<b>UPI:</b> <code>dwarmachine24@oksbi</code> <code>dwarmachine24@paytm</code>\n<b>PayPal:</b> https://www.paypal.me/uglykid24"
     return msg
