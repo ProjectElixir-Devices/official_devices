@@ -1,14 +1,14 @@
 {
 "error":false,
-"filename": "ProjectElixir_1.4_gauguin-12.0-20220212-1301-OFFICIAL.zip",
-"datetime": 1644670860,
-"size": 1932429890,
-"url":"https://downloads.projectelixiros.com/twelve/miatoll/ProjectElixir_1.4_gauguin-12.0-20220212-1301-OFFICIAL.zip", 
-"filehash":"4a8df47aec2a03bf71a0b079f22a944f",
+"filename": "ProjectElixir_1.5_gauguin-12.0-20220308-1931-OFFICIAL.zip",
+"datetime": 1646767860,
+"size": 1886736588,
+"url":"https://downloads.projectelixiros.com/twelve/gauguin/ProjectElixir_1.5_gauguin-12.0-20220308-1931-OFFICIAL.zip", 
+"filehash":"b325c4ffc9c6085640ea8d6d50bf962a",
 "version": "12",
-"id": "82bcc3361e9ce5fbe93882c4f31a8340ffe648851e5c0d896deba91df6ab6383",
-"tg_username": "TheKid",
+"id": "ff229d0c1e18bdcfe2e3c9706efee20b0bf15bcbf54e4d86ce367cbb8b3db447",
+"tg_username": "i_am_miki",
 "device_name": "Redmi Note 9 Pro/Mi 10i/10T Lite",
 "device":"gauguin",
-"xda_thread":"https://forum.xda-developers.com/t/official-12-0-project-elixir-for-mi-10i-5g-mi-10t-lite-redmi-note-9-pro-5g-gauguin-gauguininpro-gauguinpro-rom-aosp.4379411/"
+"xda_thread":"https://forum.xda-developers.com/t/rom-12-0-gauguin-project-elixir-official-twelve-aosp.4413287/"
 }
