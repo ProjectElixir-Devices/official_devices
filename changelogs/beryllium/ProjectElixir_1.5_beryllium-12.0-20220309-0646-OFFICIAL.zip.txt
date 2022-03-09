@@ -1,0 +1,5 @@
+- Switched back to QTI BT Stack
+- Addressed various sepolicy denials
+- Added Quick Tap
+- Updated Kernel to Lineage 4.9.304
+
