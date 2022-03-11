@@ -1,0 +1,16 @@
+Elixir 1.5 Changelog (X00TD)
+
+Used speed tuning for performance critical applications
+Added memory optimizations
+Disabled camera perflock
+Audio: Removed surround recording support from audio policy config xml
+Audio: Added built-in/Back mic and remove TelePhony Rx from primary input
+Updated media codecs from LA.UM.9.2.r1-03700-SDMxx0.0
+Nuked Zenparts
+Added touchscreen gestures HIDL HAL
+Fixed sepolicy denials
+Switched to Vulkan UI renderer
+Using upstreamed 4.4.302 kernel
+LV and Non FBE build
+Use latest Orfox recovery
+Some misc improvements and changes
