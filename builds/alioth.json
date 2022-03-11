@@ -1,14 +1,14 @@
 {
     "error":false,
-    "filename": "ProjectElixir_1.4_alioth-12.0-20220213-1717-OFFICIAL.zip",
-    "datetime": 1644774551,
+    "filename": "ProjectElixir_1.5_alioth-12.0-20220310-1941-OFFICIAL.zip",
+    "datetime": 1646941260,
     "size": 1717986918,
-    "url":"https://downloads.projectelixiros.com/twelve/alioth/ProjectElixir_1.4_alioth-12.0-20220213-1717-OFFICIAL.zip", 
-    "filehash":"0ee702cd2c22d040a67e4aabbd88ee44",
+    "url":"https://downloads.projectelixiros.com/twelve/alioth/ProjectElixir_1.5_alioth-12.0-20220310-1701-OFFICIAL.zip", 
+    "filehash":"e8a44ce4aaef84baab4f36a354e440cc",
     "version": "12",
-    "id": "501a5d3e02c10e7ed4f61bcb657adaddac5c11d745193bffd0e5c61617480a21",
+    "id": "5e464e97ace1db768ee54801c35c18e2efccd0846fb79f795d8d56dc8c570817",
     "tg_username": "NextWorksGFX",
-    "device_name":"Poco F3/Redmi K40/Mi 11x",
+    "device_name":"Redmi K40/POCO F3/Mi 11x",
     "device":"Alioth",
     "xda_thread":"https://forum.xda-developers.com/t/1-4-project-elixir-for-mi-11x-poco-f3-k40-alioth-alioth-in-rom-aosp.4389101/#post-86265953"
     }
