@@ -1,13 +1,14 @@
 {
 "error":false,
-"filename": "ProjectElixir_1.4_lavender-12.0-20220218-0631-OFFICIAL.zip",
-"datetime": 1645165860,
-"size": 1498459194,
-"url":"https://downloads.projectelixiros.com/twelve/lavender/ProjectElixir_1.4_lavender-12.0-20220218-0631-OFFICIAL.zip", 
-"filehash":"9bc3c986945905163d4dd6df298e012b",
+"filename": "ProjectElixir_1.5_lavender-12.0-20220310-1548-OFFICIAL.zip",
+"datetime": 1646927280,
+"size": 1563790873,
+"url":"https://downloads.projectelixiros.com/twelve/lavender/ProjectElixir_1.5_lavender-12.0-20220310-1548-OFFICIAL.zip", 
+"filehash":"d67a0f28996182ec74a49ba803bed7bb",
 "version": "12",
-"id": "92b2ef9f2a8f113ed3fdcf7562d6ab689574a3a000c268237c02876d7c76a2e8",
-"tg_username": "soham",
+"id": "0d8345dd678ea8e2179ca999707c503804aae65b4213b7203e3c7dec92f3417e",
+"tg_username": "PredatorX91",
 "device_name":"Redmi Note 7/7s",
-"device":"lavender"
+"device":"lavender",
+"xda_thread":"https://forum.xda-developers.com/t/rom-12-0-lavender-project-elixir-official-twelve-aosp.4414195/"
 }
