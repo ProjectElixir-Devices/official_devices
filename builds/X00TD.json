@@ -1,14 +1,14 @@
 {
   "error":false,
-  "filename": "ProjectElixir_1.4_X00TD-12.0-20220213-0723-OFFICIAL.zip",
-  "datetime": 1644736980,
-  "size": 1484001832,
-  "url":"https://downloads.projectelixiros.com/twelve/X00TD/ProjectElixir_1.4_X00TD-12.0-20220213-0723-OFFICIAL.zip", 
-  "filehash":"bea4424dfa7b8e95f767fc0127552403",
+  "filename": "ProjectElixir_1.5_X00TD-12.0-20220311-0943-OFFICIAL.zip",
+  "datetime": 1646991780,
+  "size": 1541457461,
+  "url":"https://downloads.projectelixiros.com/twelve/X00TD/ProjectElixir_1.5_X00TD-12.0-20220311-0943-OFFICIAL.zip", 
+  "filehash":"716e53864cbeb6d2cfaec2e8d5912eb7",
   "version": "12",
-  "id": "676ed4037bb38b97a72639dfdb45444aca4facf1714a1887cb2d30c14ad39ccf",
+  "id": "93b0e10e35a0b89639394ef122503f0faa06934ce61b58ccffd8c09275c8aab7",
   "tg_username": "NotHarshhaa",
   "device_name":"Asus Zenfone Max Pro M1",
   "device":"X00TD",
-  "xda_thread":"https://forum.xda-developers.com/t/x00td-rom-project-elixir-1-4-android-12-aosp-official-14-02-2022.4402379/"
+  "xda_thread":"https://forum.xda-developers.com/t/x00td-rom-project-elixir-1-5-android-12-aosp-official-11-03-2022.4414365/"
 }
