@@ -1,0 +1,9 @@
+Media satisfies C2 Codecs 
+Added Video Distribution Profile (VDP) on IMS
+Updated DPM blobs from sweet V13.0.2.0
+Removed obsolete eBPF property
+Fixed some camera issues
+fixed flash delay with newer thermal blobs
+ 
+ 
+
