@@ -1,14 +1,14 @@
 {
     "error":false,
-    "filename": "ProjectElixir_1.4_vayu-12.0-20220222-1146-OFFICIAL.zip",
-    "datetime": 1645530360,
-    "size": 1923436026,
-    "url":"https://downloads.projectelixiros.com/twelve/vayu/ProjectElixir_1.4_vayu-12.0-20220222-1146-OFFICIAL.zip", 
-    "filehash":"2038a6769f2330bfe8228844447118f3",
+    "filename": "ProjectElixir_1.5_vayu-12.0-20220311-0640-OFFICIAL.zip",
+    "datetime": 1646980800,
+    "size": 1926526141,
+    "url":"https://downloads.projectelixiros.com/twelve/vayu/ProjectElixir_1.5_vayu-12.0-20220311-0640-OFFICIAL.zip", 
+    "filehash":"4f77d408759aa9d404bb04c9742a401f",
     "version": "12",
-    "id": "462596c78d54fe78b112c24b8e5d5b81b3ea7b8b69433a262f5f56472a7a8717",
+    "id": "de5f16bb498185a624482c3467f121d8355969cf1abd00ea8b9e9eac7cd65de5",
     "tg_username": "Chandler_bing_here",
     "device_name":"Poco X3 Pro",
     "device":"vayu",
-    "xda_thread":"https://forum.xda-developers.com/t/4406809/"
+    "xda_thread":"https://forum.xda-developers.com/t/4414869/"
     }
