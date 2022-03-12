@@ -1,0 +1,9 @@
+Elixir 1.5 Changes
+
+- Security Patch : 05th March 2022
+- Fixed Volte for some users.
+- Fixed Haptics (Vibration) for some users.
+- Nomore Google TTS crash warnings on first boot.
+- Play Store Certification.
+- Safetynet passed without root.
+- Some improvements under the hood.
