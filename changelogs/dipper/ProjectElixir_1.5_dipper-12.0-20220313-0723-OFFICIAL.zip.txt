@@ -1,0 +1,7 @@
+dipper: Added F2FS Support
+dipper: Adjust Status-bar Icons
+sdm845-common: Added Google Battery HAL
+sdm845-common: Improve Performance & Stability
+sdm845-common: Tune-up Foreground CPU-sets
+sdm845-common: Improve UI Smoothness
+sdm845-common: Import APN's Configs
