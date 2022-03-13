@@ -1,12 +1,12 @@
 {
 "error":false,
-"filename": "ProjectElixir_1.4_dipper-12.0-20220224-1936-OFFICIAL.zip",
-"datetime": 1645731360,
-"size": 1823323221,
-"url":"https://downloads.projectelixiros.com/twelve/dipper/ProjectElixir_1.4_dipper-12.0-20220224-1936-OFFICIAL.zip",
-"filehash":"521f2423b226bdd3b10538c4b4675e8d",
+"filename": "ProjectElixir_1.5_dipper-12.0-20220313-0723-OFFICIAL.zip",
+"datetime": 1647156180,
+"size": 1828219073,
+"url":"https://downloads.projectelixiros.com/twelve/dipper/ProjectElixir_1.5_dipper-12.0-20220313-0723-OFFICIAL.zip",
+"filehash":"ce166b0ef38fe32dc348da7742295a05",
 "version": "12",
-"id": "9fe209649a65298b4e9e28ac203d11e8ad5b716b02d5cfac270323ccf095213b",
+"id": "4b41c6fd39829927f5d2994fa07a822fdf9a7f175244bc7db87b7f937de6545e",
 "tg_username": "namaskaragusthi",
 "device_name":"Xiaomi Mi 8",
 "device":"dipper"
