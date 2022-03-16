@@ -1,0 +1,12 @@
+Changelog V1.5
+
+- February Security Patch
+- Passes SafetyNet out-of-the-box
+- Use GcamGo as default
+- Fixed screen flicker
+- Fixed charging info on lockscreen
+- Fixed native screen recorder
+- Fixed offline charging
+- Miscellaneous changes
+- Fixed DRM Widevine L1
+- Fixed Brightness slider
