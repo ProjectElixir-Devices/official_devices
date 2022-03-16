@@ -1,9 +1,0 @@
-## 1.3 RMX2061
-- Jan Security patch 
-- back to qt bt
-- Added Seedvault for google/root free backup 
-    - Use these commands to enable it
-    - adb shell bmgr enable true
-    - adb shell bmgr transport com.stevesoltys.seedvault.transport.ConfigurableBackupTransport
-- LOTSS of kernel improvements thanks to @pri_0818
-- Kernel upstream to 262
