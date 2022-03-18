@@ -1,0 +1,11 @@
+## 1.5 RMX2061
+
+• Initial Release Official Build  
+• Update blobs from OnePlusNordCE-user 11 RKQ1.201217.00…
+• Added UDFPS Animations.
+• Added OP settings and Dolby.
+• Added OP camera
+• Feb Patch
+• ScreenOFF Gestures available.
+• kernel:- 4.19.113 StormBreaker 1.1+
+
