@@ -1,14 +1,14 @@
 {
-    "error":false,
-    "filename": "ProjectElixir_1.4_crownlte-12.0-20220211-1330-OFFICIAL.zip",
-    "datetime": 1644586200,
-    "size": 1371184804,
-    "url":"https://downloads.projectelixiros.com/twelve/crownlte/ProjectElixir_1.4_crownlte-12.0-20220211-1233-OFFICIAL.zip", 
-    "filehash":"cc2cced4a2238dda3f4208aa0588759a",
-    "version": "12",
-    "id": "0527ab8ffd0275c69bd0a4aec895daf6a9ae7798af97715ab8c8cbdeebe45cb2",
-    "tg_username": "Cyder",
-    "device_name":"Samsung Galaxy Note 9",
-    "device":"crownlte",
-    "xda_thread":"https://forum.xda-developers.com/t/rom-12-0-crownlte-project-elixir-1-3-official-twelve-aosp.4381145/"
-    }
+"error":false,
+"filename": "ProjectElixir_1.5_crownlte-12.0-20220317-0311-OFFICIAL.zip",
+"datetime": 1647486660,
+"size": 1440652691,
+"url":"https://downloads.projectelixiros.com/twelve/crownlte/ProjectElixir_1.5_crownlte-12.0-20220317-0311-OFFICIAL.zip", 
+"filehash":"6744c7a54dafdc146a05244a2b92382c",
+"version": "12",
+"id": "7d8a5b1c6313d47760e16bbc78336862514eb9a3dd03c08f54366d9ddbbb3977",
+"tg_username": "dylanneve1",
+"device_name":"Samsung Galaxy Note 9",
+"device":"crownlte",
+"xda_thread":"https://forum.xda-developers.com/t/rom-official-project-elixir-os-for-galaxy-note-9.4418249"
+}
