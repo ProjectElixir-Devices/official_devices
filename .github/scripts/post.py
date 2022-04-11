@@ -41,6 +41,11 @@ except KeyError:
     print("Fill all the configs plox..\nExiting...")
     exit(0)
 
+try:
+    NOTES = getConfig("NOTES")
+except:
+    NOTES = None
+
 # Init bot
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
 
@@ -149,7 +154,11 @@ def message_content(information):
     msg += f"<b>Device Changelogs:</b> <a href='https://github.com/ProjectElixir-Devices/Changelogs/blob/snow/{information['codename']}.md'>Here</a>\n\n"
     msg += f"<b>Screenshots:</b> <a href='https://projectelixiros.com/gallery'>Here</a>\n"
     msg += f"<b>MD5:</b> <code>{information['md5']}</code>\n\n"
-    msg += f"<b>Donate:</b>\n<b>UPI:</b> <code>dwarmachine24@oksbi</code> <code>dwarmachine24@paytm</code>\n<b>PayPal:</b> https://www.paypal.me/uglykid24"
+    if NOTES is not None:
+        msg += f"<b>Notes:</b>\n"
+        for LINES in NOTES.split('\n'):
+            msg+=f"<b>•</b> <code>{LINES}</code>\n"
+    msg += f"\n<b>Donate:</b>\n<b>UPI:</b> <code>dwarmachine24@oksbi</code> <code>dwarmachine24@paytm</code>\n<b>PayPal:</b> https://www.paypal.me/uglykid24"
     return msg
 
 # Prepare buttons for message
