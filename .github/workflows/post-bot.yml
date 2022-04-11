@@ -15,6 +15,7 @@ env:
   PRIV_CHAT_ID: ${{ secrets.PRIV_CHAT_ID }}
   STICKER_ID: ${{ secrets.STICKER_ID }}
   BANNER_URL: ${{ secrets.BANNER_URL }}
+  NOTES: ${{ secrets.NOTES }}
 
 jobs:
   build:
