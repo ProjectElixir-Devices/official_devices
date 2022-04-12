@@ -1,0 +1,15 @@
+## VAYU - 1.6 Changes
+
+ - Nuke Adaptive charging 
+ - Add call recording to Google Phone app
+ - Show Turbo Charging when using the proprietary charger, like MIUI
+ - Video captured in ScrenRecorder is capped to 120 FPS
+ - Some network and GPS improvemnts 
+ - Reintroduce Device parts with
+   - Dirac Sound Enhancer 
+   - Clear Speaker
+   - Thermal Settings
+   - Refresh Rate toggle quick tile
+   - Dirac: New Presets Added: Live, Balanced, Bass Reduction, Treble Reduction, Soft Bass, Soft Treble 
+   - Dirac: Ported MiSound scenes from MIUI 
+ - Add back Camera2 
