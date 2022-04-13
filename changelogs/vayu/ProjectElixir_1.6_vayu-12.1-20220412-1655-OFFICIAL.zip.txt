@@ -1,0 +1,4 @@
+## VAYU - 1.6 HOTFIX Changes
+ - Adapt fingerprint overalys for Android 12.1
+ - Fix Double Tap to Wake 
+ - Add Device specific settings AKA Xiaomi parts 
