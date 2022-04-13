@@ -1,15 +1,15 @@
 {
     "error":false,
-    "filename": "ProjectElixir_1.5_RMX2061-12.0-20220315-1228-OFFICIAL.zip",
-    "datetime": 1647347280,
-    "size": 1541237825,
-    "url":"https://downloads.projectelixiros.com/twelve/RMX2061/ProjectElixir_1.5_RMX2061-12.0-20220315-1228-OFFICIAL.zip", 
-    "filehash":"5d5b1e89c3f21fff51e9fd4630ccb3c0",
+    "filename": "ProjectElixir_1.6_RMX2061-12.1-20220413-1123-OFFICIAL.zip",
+    "datetime": 1649876321,
+    "size": 1641237825,
+    "url":"https://downloads.projectelixiros.com/twelve/RMX2061/ProjectElixir_1.6_RMX2061-12.1-20220413-1123-OFFICIAL.zip", 
+    "filehash":"5d6c6f2185a4d1a4c482d0d1fb2a089c",
     "version": "12",
-    "id": "076a2042e0acd515692c07d565b649a24324b312155c52856f5f9c86d47764c9",
+    "id": "defdcd462c6709d175777b92a997aea01e592c903b318d18d73fa7c1fc82d601",
     "tg_username": "NEMESIS_99999",
     "device_name":"Realme 6 pro",
     "device":"RMX2061",
-    "xda_thread":"https://forum.xda-developers.com/t/rom-official-projectelixir-1-5-for-realme-6-pro-rmx2061-2063-android-12.4416807/"
+    "xda_thread":"https://forum.xda-developers.com/t/rom-official-projectelixir-1-6-for-realme-6-pro-rmx2061-2063-android-12.4416807/"
   }
   
