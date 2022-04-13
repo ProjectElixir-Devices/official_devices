@@ -1,3 +1,0 @@
-Elixir 1.5 Changelogs
-
-- Initial release from my side

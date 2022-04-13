@@ -1,0 +1,11 @@
+Elixir 1.6 Changelogs
+
+- Improved stuffs for better charging
+- Inline Trashed .274
+- Security Patch : 05th Apr 2022
+- Improved performance and stability
+- Misc changes
+
+Note : 
+1.Sim cards won't work in enforcing so flash permissive in recovery after flashing the OTA
+2.If face bootloop, try clean flash.
