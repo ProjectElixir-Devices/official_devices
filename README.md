@@ -37,6 +37,7 @@ Xiaomi Mi A3 (laurel_sprout) by H3M3L
 Xiaomi Mi 9 (cepheus) by Mehdi
 Xiaomi Mi 10i 5G (gauguininpro) by Hridaya
 Xiaomi Mi 10T Lite (gauguin_global) by Hridaya
+Xiaomi Mi Note 10 Lite (toco) by Dennis Murimi
 ```
 
 ## - Nokia Devices
