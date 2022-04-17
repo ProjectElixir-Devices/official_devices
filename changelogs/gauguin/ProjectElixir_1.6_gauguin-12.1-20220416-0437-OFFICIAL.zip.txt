@@ -1,0 +1,26 @@
+===============================
+Changes
+===============================
+Project Elixir OFFICIAL | v1.6 | 12.1/12L
+
+• Full Rebase our repos on Android 12.1
+
+• Merged latest April Security patch
+
+• Added support for call recorder
+
+• CTS Passes by default and banking apps are working fine
+
+• Add vibration patterns from OOS and intensity control
+
+• Add pitch black theme in Display Settings
+
+• Switch back to stock settings like pixel
+
+• Faceunlock and Applock Added on 12.1 Rebase Source
+
+• Port changes from SystemUIGoogle
+
+• vendor: Bump to v1.6 and Update wall
+
+• gapps: Update from SP2A.220305.013.A3
