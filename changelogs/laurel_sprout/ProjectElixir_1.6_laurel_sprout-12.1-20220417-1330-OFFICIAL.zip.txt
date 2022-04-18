@@ -1,0 +1,10 @@
+====================================
+          Device Changes
+====================================
+-Initial A12L build.
+-Safety Net passing by default.
+-Tried to fix voip call issue.
+
+--Notes--
+- Clean Flash Compulsory.
+- Bugs Reporting with logs are welcomed.
