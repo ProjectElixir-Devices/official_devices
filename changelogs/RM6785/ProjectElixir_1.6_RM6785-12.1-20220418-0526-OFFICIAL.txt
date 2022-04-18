@@ -1,0 +1,14 @@
+Changelog V1.6
+
+- April ASB (android-12.1.0_r4)
+- Elixir source upstream
+- Added support for pickup gestures (Settings->Display->Lockscreen->Ambient Display)
+- Fixed IMS crash while sending SMS over some carriers
+- Based on Android-12L
+- Offline charging support
+- Include face unlock
+- SELinux Enforcing
+- Added charging ripple animation back
+- Unblocked vibration, alarm icon from collapsed status bar
+- Misc improvement
+- Added RealmeSettings
