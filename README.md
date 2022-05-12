@@ -75,6 +75,7 @@ Asus Zenfone Max Pro M1 (X00TD) by Harshhaa Reddy Pamarthi
 ```bash
 OnePlus 8T(kebab) by Viper_1057 or Amsal1
 OnePlus 9R(lemonades) by Viper_1057 or Amsal1
+Oneplus 5T(dumpling) by MudabbirulSaad
 ```
 
 # Maintainership 
