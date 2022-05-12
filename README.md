@@ -21,6 +21,7 @@ Redmi Note 10 (mojito/sunny) by Jaydeep
 Redmi Note 10 Pro/Max (sweet/sweetin) by zaidkhan0997
 Redmi K30 (phoenix) by Ankit
 Redmi Note 9 Pro 5G (gauguinpro) by Hridaya
+Redmi Note 8 Pro (begonia) by PiotrBurdzinski
 ```
 
 ## - Xiaomi (Poco Series)
