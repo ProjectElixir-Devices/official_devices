@@ -1,0 +1,12 @@
+parts: Bump target SDK version to 30 
+Remove no-op TARGET_KERNEL_ARCH flag
+Rootdir: Override imsdatadaemon
+Fix Some sepolicy denials
+Fix High Jitter issue
+Re-Enable Zygote Preforking
+Switch to AOSP WFD
+Set max fling ticks per sec to 24
+Don't send interaction hint for unnecessary events 
+Default to 0 compression ratio
+use Cloudflare DNS as the default fallback
+limit direct share targets to reduce lag 
