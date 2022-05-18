@@ -1,0 +1,14 @@
+===============================
+Changes
+===============================
+Project Elixir OFFICIAL | v1.7 | 12.1/12L
+
+ - May security patch
+ - Addressed camera denials
+ - updated target screen density
+ - Build camera libs
+ - Enabled NGA
+ - included Anx cam
+ - switch to skiagl threaded
+ - Enable IORAP feature
+ - Allow softwarecodecs work with gpu
