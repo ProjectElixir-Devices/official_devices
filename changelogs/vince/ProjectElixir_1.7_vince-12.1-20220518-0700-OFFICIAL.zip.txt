@@ -1,0 +1,3 @@
+- May Security Patch
+- No device side changes
+- Upstream kernel to 4.9.314
