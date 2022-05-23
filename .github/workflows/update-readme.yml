@@ -1,6 +1,8 @@
 name: Devices Readme Updater
 
 on:
+  schedule:
+    - cron: '0 0 * * Sun'
   workflow_dispatch:
 
 env:
