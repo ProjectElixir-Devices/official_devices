@@ -1,14 +1,14 @@
 {
-"error":false,
-"filename": "ProjectElixir_1.6_tulip-12.1-20220430-1532-OFFICIAL.zip",
-"datetime": 1651332720,
-"size": 1365136552,
-"url":"https://downloads.projectelixiros.com/twelve/tulip/ProjectElixir_1.6_tulip-12.1-20220430-1532-OFFICIAL.zip",
-"filehash":"1b28eed900c30a4c414b7a66caf2304e",
-"version": "12.1",
-"id": "dcc7c7457cf11dacc25455b357fba52f354d9c74fed28329a1338c87cef56a9c",
-"tg_username": "RahulPalXDA",
-"device_name":"Redmi Note 6 Pro",
-"device":"tulip",
-"xda_thread":"https://forum.xda-developers.com/t/rom-12-0-tulip-project-elixir-official-twelve-aosp.4384029/"
+    "error": false,
+    "filename": "ProjectElixir_1.7_tulip-12.1-20220525-1715-OFFICIAL.zip",
+    "datetime": 1653498708,
+    "size": 1505401775,
+    "url": "https://private.projectelixiros.com/twelve/tulip/ProjectElixir_1.7_tulip-12.1-20220525-1715-OFFICIAL.zip",
+    "filehash": "bd02be6a25c4ad4912ad2c19d7679519",
+    "version": "12.1",
+    "id": "0f63541acb4544695e8f2c9f627c5d48a962cb863e51d4e5c9aadc26166fca24",
+    "tg_username": "RahulPalXDA",
+    "device_name": "Redmi Note 6 Pro",
+    "device": "tulip",
+    "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-tulip-project-elixir-official-twelve-aosp.4384029"
 }

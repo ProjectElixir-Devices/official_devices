@@ -1,0 +1,4 @@
+Security Patch : 05th May 2022
+Fixed Volte totally & tested.
+Fix System Lags.
+Some improvements under the hood.
