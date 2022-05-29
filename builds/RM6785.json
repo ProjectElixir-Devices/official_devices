@@ -1,15 +1,14 @@
 {
-    "error":false,
-    "filename": "ProjectElixir_1.6_RM6785-12.1-20220418-0526-OFFICIAL.zip",
-    "datetime": 1650259560,
-    "size": 1776153582,
-    "url":"https://downloads.projectelixiros.com/twelve/RM6785/ProjectElixir_1.6_RM6785-12.1-20220418-0526-OFFICIAL.zip", 
-    "filehash":"7a8171758289131f2f4ce4a90a03f99b",
+    "error": false,
+    "filename": "ProjectElixir_1.7_RM6785-12.1-20220529-1300-OFFICIAL.zip",
+    "datetime": 1653829205,
+    "size": 1746667546,
+    "url": "https://private.projectelixiros.com/twelve/RM6785/ProjectElixir_1.7_RM6785-12.1-20220529-1300-OFFICIAL.zip",
+    "filehash": "252a077bbdad1556c44e24d1ecc0039c",
     "version": "12.1",
-    "id": "2ac439bc01f393172049300f2e6c04ed32b207f50d3909f5abe887b121c1f602",
+    "id": "64f5538cadf214c5caa34894f6d6039e51a9772d225d16534fb5c7b04c2ce103",
     "tg_username": "thecloverly",
-    "device_name":"Realme RM6785",
-    "device":"RM6785",
-    "xda_thread":"https://forum.xda-developers.com/t/rom-12-official-project-elixir-v1-6-18-04-2022.4391485/"
-  }
-  
+    "device_name": "Realme RM6785",
+    "device": "RM6785",
+    "xda_thread": "https://forum.xda-developers.com/t/rom-12-official-project-elixir-v1-6-18-04-2022.4391485/"
+}
