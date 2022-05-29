@@ -45,6 +45,7 @@ Realme RM6785 (RM6785) by thecloverly
 Realme X3/X3 SuperZOOM (x3) by patriot_235
 Realme X7 Max (RMX3031) by NishantKumar6342
 Realme XT (RMX1921) by officialpro
+realme GT Master Edition (RMX3360) by X-R-P
 ```
 
 ## - Samsung Devices
