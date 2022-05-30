@@ -30,6 +30,7 @@ Redmi Note 7 Pro (violet) by ugly_kid_af
 Redmi Note 7/7s (lavender) by PredatorX91
 Redmi Note 8 Pro (begonia) by PiotrBurdzinski
 Redmi Note 8/8T (ginkgo) by RahulPalXDA
+Redmi Note 11 (spes/spesn) by Fauzan
 Redmi Note 9 Pro 5G/Mi 10i/10T Lite (gauguin) by i_am_miki
 Xiaomi Mi 8 (dipper) by LuMorningStarr
 Xiaomi Mi Note 10 Lite (toco) by DennisMurimiWachira
