@@ -23,6 +23,7 @@ Redmi K20 Pro/Mi 9T Pro (raphael) by pallavjparikh
 Redmi K40/POCO F3/Mi 11x (alioth) by NextWorksGFX
 Redmi Note 10 (mojito) by royal_king_0
 Redmi Note 10 Pro/Max (sweet) by zaidkhan0997
+Redmi Note 11 (spes) by nowulimited
 Redmi Note 4 (mido) by vastrolorde
 Redmi Note 5 Pro (whyred) by IGaganpreetSingh
 Redmi Note 6 Pro (tulip) by RahulPalXDA
@@ -30,7 +31,6 @@ Redmi Note 7 Pro (violet) by ugly_kid_af
 Redmi Note 7/7s (lavender) by PredatorX91
 Redmi Note 8 Pro (begonia) by PiotrBurdzinski
 Redmi Note 8/8T (ginkgo) by RahulPalXDA
-Redmi Note 11 (spes/spesn) by Fauzan
 Redmi Note 9 Pro 5G/Mi 10i/10T Lite (gauguin) by i_am_miki
 Xiaomi Mi 8 (dipper) by LuMorningStarr
 Xiaomi Mi Note 10 Lite (toco) by DennisMurimiWachira
