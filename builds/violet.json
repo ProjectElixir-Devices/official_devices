@@ -1,14 +1,14 @@
 {
 "error":false,
-"filename": "ProjectElixir_1.7_violet-12.1-20220511-1218-OFFICIAL.zip",
-"datetime": 1652271480,
-"size": 1837112245,
-"url":"https://downloads.projectelixiros.com/twelve/violet/ProjectElixir_1.7_violet-12.1-20220511-1218-OFFICIAL.zip", 
-"filehash":"a29babd70d0c93c5048ea398e8c9b53b",
+"filename": "ProjectElixir_1.8_violet-12.1-20220609-1428-OFFICIAL.zip",
+"datetime": 1654784803,
+"size": 1710621722,
+"url": "https://private.projectelixiros.com/twelve/violet/ProjectElixir_1.8_violet-12.1-20220609-1428-OFFICIAL.zip",
+"filehash": "85584ace75d684a7788ae8b9a3faf8ce",
 "version": "12.1",
-"id": "4d0091931062c767ca228ae8bb68304056208a73d6251887c7dc832bcfc61ba7",
+"id": "32d6a0ba5c873c019248b8028e30f92ac7e0a076b1f6fb31032011946cde4394",
 "tg_username": "ugly_kid_af",
-"device_name":"Redmi Note 7 Pro",
-"device":"violet",
-"xda_thread":"https://forum.xda-developers.com/t/rom-12-0-violet-project-elixir-official-twelve-aosp.4351993/"
+"device_name": "Redmi Note 7 Pro",
+"device": "violet",
+"xda_thread": "https://forum.xda-developers.com/t/rom-12-0-violet-project-elixir-official-twelve-aosp.4351993/"
 }
