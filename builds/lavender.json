@@ -1,14 +1,14 @@
 {
-"error":false,
-"filename": "ProjectElixir_1.7_lavender-12.1-20220513-0550-OFFICIAL.zip",
-"datetime": 1652421000,
-"size": 1585276549,
-"url":"https://downloads.projectelixiros.com/twelve/lavender/ProjectElixir_1.7_lavender-12.1-20220513-0550-OFFICIAL.zip", 
-"filehash":"a8c510072f04cf1b2b9972e88cedb9ff",
-"version": "12.1",
-"id": "e0a4e9a6da39c230079eb90b9a3bd937c91cfa75ff44f2eb69c6712b95de5558",
-"tg_username": "PredatorX91",
-"device_name":"Redmi Note 7/7s",
-"device":"lavender",
-"xda_thread":"https://forum.xda-developers.com/t/rom-12-0-lavender-project-elixir-official-twelve-aosp.4414195/"
+    "error": false,
+    "filename": "ProjectElixir_1.8_lavender-12.1-20220609-1450-OFFICIAL.zip",
+    "datetime": 1654786044,
+    "size": 1595351401,
+    "url": "https://private.projectelixiros.com/twelve/lavender/ProjectElixir_1.8_lavender-12.1-20220609-1450-OFFICIAL.zip",
+    "filehash": "0c96564c3409274592c9d833a040bae4",
+    "version": "12.1",
+    "id": "cacc546d003441a6424513834d4252898074135818170829d90c339a0fabbaf7",
+    "tg_username": "PredatorX91",
+    "device_name": "Redmi Note 7/7s",
+    "device": "lavender",
+    "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-lavender-project-elixir-official-twelve-aosp.4414195/"
 }
