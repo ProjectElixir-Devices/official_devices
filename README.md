@@ -54,11 +54,12 @@ Xiaomi Mi 11x (alioth) by NextWorks
 
 ## - Realme Devices
 ```
-Realme 7 (RM6785 Unified) by SriBalaji
 Realme Narzo 20 Pro (RM6785 Unified) by SriBalaji
 Realme 30 4G (RM6785 Unified) by SriBalaji
 Realme 6 Pro (RMX2061) by NEMESIS
 Realme 6/6i/6s (RM6785 Unified) by SriBalaji
+Realme 7 (RM6785 Unified) by SriBalaji
+Realme 7 Pro (RMX2170) by Mayur
 Realme GT Master Edition (RMX3360) by itsXRP
 Realme X7 MAX 5G (RMX3031) by Nishant
 Realme XT (RMX1921) by Probir
