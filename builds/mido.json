@@ -1,14 +1,14 @@
-{
-"error":false,
-"filename": "ProjectElixir_1.7_mido-12.1-20220512-0511-OFFICIAL.zip",
-"datetime": 1652332260,
-"size": 1397742748,
-"url":"https://downloads.projectelixiros.com/twelve/mido/ProjectElixir_1.7_mido-12.1-20220512-0511-OFFICIAL.zip",
-"filehash":"11fb5fdfba072b2d91d4e3e911c4812a",
-"version": "12.1",
-"id": "57bc6d5b077da058c6196f9df08a42e9ce04bbf5fbb91c4b48c5fc443c4ca015",
-"tg_username": "vastrolorde",
-"device_name":"Redmi Note 4",
-"device":"mido",
-"xda_thread":"https://forum.xda-developers.com/t/rom-12-official-project-elixir-mido-aosp.4412923/"
+{   
+    "error": false,
+    "filename": "ProjectElixir_1.8_mido-12.1-20220610-1319-OFFICIAL.zip",
+    "datetime": 1654867113,
+    "size": 1399658743,
+    "url": "https://private.projectelixiros.com/twelve/mido/ProjectElixir_1.8_mido-12.1-20220610-1319-OFFICIAL.zip",
+    "filehash": "32eae74c5e5eec7c6d0509b4ae1a90be",
+    "version": "12.1",
+    "id": "13238def863616dd2db1e08196c214e2eeefb07ba55939354686ce204db8c058",
+    "tg_username": "Smokey_18",
+    "device_name": "Redmi Note 4",
+    "device": "mido",
+    "xda_thread": "https://forum.xda-developers.com/t/rom-12-official-project-elixir-mido-aosp.4412923/"
 }
