@@ -1,0 +1,12 @@
+#June Changelog
+
+**12-06-2022**
+
+- June ASB and feature drop (android-12.1.0_r7).
+- Added Game space In Essence.
+- Essence: Introduce OOS style notification clear all button.
+- Elixir Source upstream.
+- Improved UI performance.
+- Import some WiFi overlays from OplusWifiResource 
+- Show daily data usage in QS footer
+- Much More - Try by yourself

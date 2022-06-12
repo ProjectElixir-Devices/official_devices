@@ -1,14 +1,14 @@
 {
-"error":false,
-"filename": "ProjectElixir_1.7_tissot-12.1-20220513-0513-OFFICIAL.zip",
-"datetime": 1652418780,
-"size": 1136496399,
-"url":"https://downloads.projectelixiros.com/twelve/tissot/ProjectElixir_1.7_tissot-12.1-20220513-0513-OFFICIAL.zip", 
-"filehash":"eb9bf7f316089b6d10ca2f75fefc6cf3",
-"version": "12.1",
-"id": "852b4ad72a89825e5931f8941db99fe4deac586d5f0c2a3926e9295b161cf015",
-"tg_username": "ugly_kid_af",
-"device_name":"Mi A1",
-"device":"tissot",
-"xda_thread":"https://forum.xda-developers.com/t/rom-12-0-tissot-project-elixir-official-twelve-aosp.4380529/"
+    "error": false,
+    "filename": "ProjectElixir_1.8_tissot-12.1-20220610-0903-OFFICIAL.zip",
+    "datetime": 1654851780,
+    "size": 1177349338,
+    "url": "https://private.projectelixiros.com/twelve/tissot/ProjectElixir_1.8_tissot-12.1-20220610-0903-OFFICIAL.zip",
+    "filehash": "88aa9a60eb461a66f9c6e1ba012d38d8",    
+    "version": "12.1",
+    "id": "0ffe6a4f69c343f2167be404866ca2df7f83bd0402b7fcf6a23eb685ef40ca41",    
+    "tg_username": "ugly_kid_af",
+    "device_name": "Mi A1",
+    "device": "tissot",    
+    "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-tissot-project-elixir-official-twelve-aosp.4380529/"
 }
