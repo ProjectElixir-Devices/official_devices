@@ -1,6 +1,0 @@
-- Volume panel moved to left.
-- DotFix 6.2 included.
-- Prebuilt NGcam v1.8.
-- Dash Charging issue fixed.
-- June security patches.
-- Improved Performance & Stability.
