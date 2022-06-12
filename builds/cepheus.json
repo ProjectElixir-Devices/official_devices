@@ -1,14 +1,14 @@
 {
-  "error":false,
-  "filename": "ProjectElixir_1.7_cepheus-12.1-20220512-1204-OFFICIAL.zip",
-  "datetime" : 1652357040,
-  "size": 1696069973,
-  "url":"https://downloads.projectelixiros.com/twelve/cepheus/ProjectElixir_1.7_cepheus-12.1-20220512-1204-OFFICIAL.zip",
-  "filehash":"5cfa60e79c5d2fa41e9b81099408167e",
-  "version": "12.1",
-  "id": "fea8cd4a5497de708d0d1a9a94e7769386db835c5cff7543c54fbf408fd028d3",
-  "tg_username": "freesoul00",
-  "device_name":"Xiaomi Mi9",
-  "device":"cepheus",
-  "xda_thread":"https://forum.xda-developers.com/t/rom-12-0-cepheus-project-elixir-official-twelve-aosp.4355565/"
+    "error": false,
+    "filename": "ProjectElixir_1.8_cepheus-12.1-20220612-1303-OFFICIAL.zip",
+    "datetime": 1655038934,
+    "size": 1708944499,
+    "url": "https://private.projectelixiros.com/twelve/cepheus/ProjectElixir_1.8_cepheus-12.1-20220612-1303-OFFICIAL.zip",
+    "filehash": "769f73453ce3adb305f529a51388e35c",
+    "version": "12.1",
+    "id": "ef6f9d70b5e21136b1f303dc56411497e3271c5e75937174dd44af37271ce895",
+    "tg_username": "freesoul00",
+    "device_name": "Xiaomi Mi9",
+    "device": "cepheus",
+    "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-cepheus-project-elixir-official-twelve-aosp.4355565/"
 }
