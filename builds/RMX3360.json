@@ -1,14 +1,14 @@
 {
-"error":false,
-"filename": "ProjectElixir_1.7_RMX3360-12.1-20220525-1518-OFFICIAL.zip",
-"datetime": 1653491880,
-"size": 1812787308,
-"url":"https://private.projectelixiros.com/twelve/RMX3360/ProjectElixir_1.7_RMX3360-12.1-20220525-1518-OFFICIAL.zip", 
-"filehash":"e5c5c1cacba2864c962f6a1ed1704d2f",
-"version": "12.1",
-"id": "b05b1db79833b980002a34d5b8b2fb348e67e0d585380e315b82db7c5b37f2f8 ",
-"tg_username": "X-R-P",
-"device_name":"realme GT Master Edition",
-"device":"RMX3360",
-"xda_thread":"https://forum.xda-developers.com/t/official-12-1-project-elixir-for-realme-gt-me-rmx3360-rmx3363-rom-aosp.4450173/"
+    "error": false,
+    "filename": "ProjectElixir_1.8_RMX3360-12.1-20220613-0748-OFFICIAL.zip",
+    "datetime": 1655106410,
+    "size": 1947588890,
+    "url": "https://private.projectelixiros.com/twelve/RMX3360/ProjectElixir_1.8_RMX3360-12.1-20220613-0748-OFFICIAL.zip",
+    "filehash": "ba42a2c77ea42644daa2394be390e351",
+    "version": "12.1",
+    "id": "0c6f297f817c4429e5a6881a2146ef1417a049f8f8c0f3c08f1f9181bc8b2e90",
+    "tg_username": "https://t.me/itsxrp",
+    "device_name": "realme GT Master Edition",
+    "device": "RMX3360",
+    "xda_thread": "https://forum.xda-developers.com/t/official-12-1-project-elixir-for-realme-gt-me-rmx3360-rmx3363-rom-aosp.4450173/"
 }
