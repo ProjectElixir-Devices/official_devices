@@ -1,0 +1,20 @@
+// Project Elixir v1.8 Changelogs //
+
+*Fixed NFC
+*Fixed Color Modes
+*Fixed Extra Dim feature
+*Fixed Camera on tg wasnt working
+*Fixed Call Merging issue
+*Fixed all call related bugs
+*Fixed Device Hot bug on Google Photos
+
+**Whats New Added**
+*Added Notchbar Killer(no more black bar while gaming)
+*Added Battery Health 
+*Make transition animation a bit faster
+*Added proper path for OEM fast Charging Status
+*Improved Vibrations
+
+**Credits**
+@pjgowtham for Base trees and Kernel
+All Elixir testers!
