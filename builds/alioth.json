@@ -1,14 +1,14 @@
 {
-    "error":false,
-    "filename": "ProjectElixir_1.7_alioth-12.1-20220516-1639-OFFICIAL.zip",
-    "datetime": 1652719140,
-    "size": 1702955222,
-    "url":"https://downloads.projectelixiros.com/twelve/alioth/ProjectElixir_1.7_alioth-12.1-20220516-1639-OFFICIAL.zip", 
-    "filehash":"1306e11da689d17ebc023e71845e7a87",
+    "error": false,
+    "filename": "ProjectElixir_1.8_alioth-12.1-20220613-1252-OFFICIAL.zip",
+    "datetime": 1655124559,
+    "size": 1722745657,
+    "url": "https://private.projectelixiros.com/twelve/alioth/ProjectElixir_1.8_alioth-12.1-20220613-1252-OFFICIAL.zip",
+    "filehash": "c5eea11a9a7e1c5013ada93cc7a83958",
     "version": "12.1",
-    "id": "f52b0afb315bafc61a6c1e317ff01077c82d45412256e773d10f53419a5c20d5",
+    "id": "a3c0f8ea8c84a5efe2d02d8f768d5e828cd6fe91f7bf2eed4f5d8e1af96ee9b9",
     "tg_username": "NextWorksGFX",
-    "device_name":"Redmi K40/POCO F3/Mi 11x",
-    "device":"alioth",
-    "xda_thread":"https://forum.xda-developers.com/t/1-4-project-elixir-for-mi-11x-poco-f3-k40-alioth-alioth-in-rom-aosp.4389101/#post-86265953"
+    "device_name": "Redmi K40/POCO F3/Mi 11x",
+    "device": "alioth",
+    "xda_thread": "https://forum.xda-developers.com/t/1-4-project-elixir-for-mi-11x-poco-f3-k40-alioth-alioth-in-rom-aosp.4389101/#post-86265953"
 }
