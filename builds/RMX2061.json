@@ -1,15 +1,14 @@
 {
-    "error":false,
-    "filename": "ProjectElixir_1.7_RMX2061-12.1-20220519-0707-OFFICIAL.zip",
-    "datetime": 1652944020,
-    "size": 1639225481,
-    "url":"https://private.projectelixiros.com/twelve/RMX2061/ProjectElixir_1.7_RMX2061-12.1-20220519-0707-OFFICIAL.zip", 
-    "filehash":"46659b7347cd081602b4f6057060ab7f",
-    "version": "12",
-    "id": "391275fa20804cb6343c58ca6c6cbf06cf4f3ce160b5af3ef73be91d48510167",
-    "tg_username": "NEMESIS_99999",
-    "device_name":"Realme 6 pro",
-    "device":"RMX2061",
-    "xda_thread":"https://forum.xda-developers.com/t/rom-official-projectelixir-1-6-for-realme-6-pro-rmx2061-2063-android-12.4416807/"
-  }
-  
+  "error": false,
+  "filename": "ProjectElixir_1.8_RMX2061-12.1-20220613-0845-OFFICIAL.zip",
+  "datetime": 1655109893,
+  "size": 1749267634,
+  "url": "https://private.projectelixiros.com/twelve/RMX2061/ProjectElixir_1.8_RMX2061-12.1-20220613-0845-OFFICIAL.zip",
+  "filehash": "b1a2a442546d7695b94d2bcc295c2516",
+  "version": "12.1",
+  "id": "cfe8b574fe48918bdf79d1fefce757cc6c80254218f348edfdbbf767b6391c19",
+  "tg_username": "NEMESIS_99999",
+  "device_name": "Realme 6 pro",
+  "device": "RMX2061",
+  "xda_thread": "https://forum.xda-developers.com/t/rom-official-projectelixir-1-8-for-realme-6-pro-rmx2061-2063-android-12.4416807/"
+}
