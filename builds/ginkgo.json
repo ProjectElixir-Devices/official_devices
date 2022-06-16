@@ -1,14 +1,14 @@
 {
     "error": false,
-    "filename": "ProjectElixir_1.7_ginkgo-12.1-20220523-1049-OFFICIAL.zip",
-    "datetime": 1653302741,
-    "size": 1602952790,
-    "url": "https://private.projectelixiros.com/twelve/ginkgo/ProjectElixir_1.7_ginkgo-12.1-20220523-1049-OFFICIAL.zip",
-    "filehash": "acba5b357b29959ae1b817baaff988ec",
+    "filename": "ProjectElixir_1.8_ginkgo-12.1-20220616-1412-OFFICIAL.zip",
+    "datetime": 1655388774,
+    "size": 1656149923,
+    "url": "https://private.projectelixiros.com/twelve/ginkgo/ProjectElixir_1.8_ginkgo-12.1-20220616-1412-OFFICIAL.zip",
+    "filehash": "d071f303eada19d0fcfd041bd0260cb0",
     "version": "12.1",
-    "id": "5bed29d85336173928ea83cd865687df17327956b4806a060a563e64504586be",
+    "id": "f7db593749bb1f24f87419dd12ebb58ccc7084affa5d10b66d0c486331c52fad",
     "tg_username": "RahulPalXDA",
     "device_name": "Redmi Note 8/8T",
     "device": "ginkgo",
-    "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-official-project-elixir-for-redmi-note-8-8t-ginkgo-willow-twelve-aosp.4417357/"
+    "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-official-project-elixir-for-redmi-note-8-8t-ginkgo-willow-twelve-aosp.4417357"
 }
