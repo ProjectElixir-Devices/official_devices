@@ -34,6 +34,7 @@ Redmi K20 Pro  (Raphael) by Pallav
 Redmi K30S Ultra (apollo) by Master
 Redmi K40 (alioth) by NextWorks
 Xiaomi Poco F1 (beryllium) by Prabh
+Xiaomi Poco F2 Pro (lmi) by ZenkaBestia
 Xiaomi Poco F3 (alioth) by NextWorks
 Xiaomi Poco M2 (lava-unified) by Matheus 
 Xiaomi Poco M2 Pro (miatoll) by Lop
