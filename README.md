@@ -39,6 +39,7 @@ Xiaomi Poco F3 (alioth) by NextWorks
 Xiaomi Poco M2 (lava-unified) by Matheus 
 Xiaomi Poco M2 Pro (miatoll) by Lop
 Xiaomi Poco M3 (juice) by Zahran
+Xiaomi Poco X3 NFC (surya) by Fauzan
 Xiaomi Poco X3 Pro (vayu) by Sanjeev
 Xiaomi Mi A1 (tissot) by Saurav
 Xiaomi Mi A3 (laurel_sprout) by H3M3L
