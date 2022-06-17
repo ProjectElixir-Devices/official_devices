@@ -1,14 +1,14 @@
 {
-"error":false,
-"filename": "ProjectElixir_1.7_juice-12.1-20220513-1528-OFFICIAL.zip",
-"datetime": 1652455680,
-"size": 1353959104,
-"url":"https://downloads.projectelixiros.com/twelve/juice/ProjectElixir_1.7_juice-12.1-20220513-1528-OFFICIAL.zip", 
-"filehash":"26dd589b4dbd6fa85645d38ac9a95a0d",
-"version": "12.1",
-"id": "dcdb20f840da327b5fb07294ff7d950c94383ebc71f86b70ae7cb07658755941",
-"tg_username": "imannig",
-"device_name":"POCO M3/Redmi 9T/9 Power/Note 9 4G",
-"device":"juice",
-"xda_thread":"https://forum.xda-developers.com/t/rom-12-juice-project-elixir-v1-5-official.4413741/"
+     "error": false,
+     "filename": "ProjectElixir_1.8_juice-12.1-20220617-1311-OFFICIAL.zip",      
+     "datetime": 1655471460,                                                   
+     "size": 1404878606,                                                         
+     "url": "https://private.projectelixiros.com/twelve/juice/ProjectElixir_1.8_juice-12.1-20220617-1311-OFFICIAL.zip",
+     "filehash": "d4d5bdbe59209e31db4f852853f4c084",                             
+     "version": "12.1",
+     "id": "69ccfbea9e5256da02e4252a961b7c6383ab7b2c07da923a4bcf58f571604999",
+     "tg_username": "imannig",
+     "device_name": "POCO M3/Redmi 9T/9 Power/Note 9 4G",                      
+     "device": "juice",
+     "xda_thread": "https://forum.xda-developers.com/t/rom-12-juice-project-elixir-v1-x-official.4413741/"
 }
