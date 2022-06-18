@@ -11,69 +11,87 @@ Project Elixir is another aftermarket AOSP ROM which basically offers minimal UI
 <!--START_SECTION:devices-->
 ## - Xiaomi Devices
 ```
-Redmi 5 Plus (vince) by PrajjuS
-Redmi 9 (lava-unified) by Matheus
-Redmi 9 Power (juice) by Zahran
-Redmi 9T (juice) by Zahran
-Redmi Note 4 (mido) by Smokey
-Redmi Note 6 pro (tulip) by RahulPalXDA
-Redmi Note 7/7s (lavender) by Predator
-Redmi Note 7 Pro (violet) by Saurav
-Redmi Note 8/8T (ginkgo/willow) by RahulPalXDA
-Redmi Note 8 Pro (begonia) by Piotr
-Redmi Note 9 (merlin) by Matheus 
-Redmi Note 9 4G china (juice) by Zahran
-Redmi Note 9 Pro (miatoll) by Lop
-Redmi Note 9s (miatoll) by Lop
-Redmi Note 9 Pro Max (miatoll) by Lop
-Redmi Note 9 Pro 5G  (gauguinpro) by Yasin 
-Redmi Note 10 Lite (miatoll) by Lop
-Redmi Note 10 Pro/Max (sweet/sweetin) by Zaid
-Redmi Note 11 (spes/spesn) by Fauzan
-Redmi K20 Pro  (Raphael) by Pallav
-Redmi K30S Ultra (apollo) by Master
-Redmi K40 (alioth) by NextWorks
-Xiaomi Poco F1 (beryllium) by Prabh
-Xiaomi Poco F2 Pro (lmi) by ZenkaBestia
-Xiaomi Poco F3 (alioth) by NextWorks
-Xiaomi Poco M2 (lava-unified) by Matheus 
-Xiaomi Poco M2 Pro (miatoll) by Lop
-Xiaomi Poco M3 (juice) by Zahran
-Xiaomi Poco X3 NFC (surya) by Fauzan
-Xiaomi Poco X3 Pro (vayu) by Sanjeev
-Xiaomi Mi A1 (tissot) by Saurav
-Xiaomi Mi A3 (laurel_sprout) by H3M3L
-Xiaomi Mi Note 10 Lite (toco) by Dennis
-Xiaomi Mi 8 (dipper) by LuMorningStar
-Xiaomi Mi 9 (cepheus) by Mehdi
-Xiaomi Mi 9T Pro (Raphael) by Pallav 
-Xiaomi Mi 10i 5G (gauguininpro) by Yasin 
-Xiaomi Mi 10T Lite (gauguin_global) by Yasin
-Xiaomi Mi 10T (apollo) by Master
-Xiaomi Mi 10T Pro (apollo) by Master
-Xiaomi Mi 11x (alioth) by NextWorks
+MI A3 (laurel_sprout) by H3M3L
+Mi A1 (tissot) by ugly_kid_af
+POCO M3/Redmi 9T/9 Power/Note 9 4G (juice) by imannig
+POCO X3 NFC (surya) by nowulimited
+Poco F1 (beryllium) by resurrected24
+Poco F2 Pro/Redmi K30 Pro (lmi) by ZenkaBestia
+Poco M2 Pro/Redmi Note 9 Pro/Max/9s/10 Lite (miatoll) by Lopster_70
+Poco X2 (phoenix) by AD_Anky
+Poco X3 Pro (vayu) by Chandler_bing_here
+Redmi 8A Dual (olivewood) by jaswal_ashish
+Redmi 9 / Poco M2 (lava) by LuMorningStarr
+Redmi K20 Pro/Mi 9T Pro (raphael) by pallavjparikh
+Redmi K30S Ultra/Mi 10T/Pro (apollo) by Mhmdeveloper
+Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) by Douxx_gang
+Redmi K40/POCO F3/Mi 11x (alioth) by NextWorksGFX
+Redmi Note 10 (mojito) by royal_king_0
+Redmi Note 10 Pro/Max (sweet) by zaidkhan0997
+Redmi Note 11 (spes) by nowulimited
+Redmi Note 4 (mido) by Smokey_18
+Redmi Note 5 Pro (whyred) by IGaganpreetSingh
+Redmi Note 6 Pro (tulip) by RahulPalXDA
+Redmi Note 7 Pro (violet) by ugly_kid_af
+Redmi Note 7/7s (lavender) by PredatorX91
+Redmi Note 8 Pro (begonia) by PiotrBurdzinski
+Redmi Note 8/8T (ginkgo) by RahulPalXDA
+Redmi Note 9 (merlinx) by LuMorningStarr
+Redmi Note 9 Pro 5G/Mi 10i/10T Lite (gauguin) by i_am_miki
+Xiaomi Mi 8 (dipper) by LuMorningStarr
+Xiaomi Mi Note 10 Lite (toco) by DennisMurimiWachira
+Xiaomi Mi9 (cepheus) by freesoul00
+Xiaomi Redmi 5 Plus/Note 5 (vince) by PrajjuS
 ```
 
 ## - Realme Devices
 ```
-Realme Narzo 20 Pro (RM6785 Unified) by SriBalaji
-Realme 30 4G (RM6785 Unified) by SriBalaji
-Realme 6 Pro (RMX2061) by NEMESIS
-Realme 6/6i/6s (RM6785 Unified) by SriBalaji
-Realme 7 (RM6785 Unified) by SriBalaji
-Realme 7 Pro (RMX2170) by Mayur
-Realme GT Master Edition (RMX3360) by itsXRP
-Realme X7 MAX 5G (RMX3031) by Nishant
-Realme XT (RMX1921) by Probir
+Realme 5/5i/5s (r5x) by MudabbirulSaad
+Realme 6 pro (RMX2061) by NEMESIS_99999
+Realme 7 Pro (RMX2170) by marshmello_61
+Realme RM6785 (RM6785) by thecloverly
+Realme X3/X3 SuperZOOM (x3) by patriot_235
+Realme X7 Max (RMX3031) by NishantKumar6342
+Realme XT (RMX1921) by officialpro
+realme GT Master Edition (RMX3360) by itsxrp
+```
+
+## - Samsung Devices
+```
+Samsung Galaxy Note 9 (crownlte) by dylanneve1
+Samsung Galaxy S9 (starlte) by dylanneve1
+Samsung Galaxy S9+ (star2lte) by dylanneve1
+```
+
+## - Asus Devices
+```
+Asus Zenfone Max Pro M1 (X00TD) by NotHarshhaa
 ```
 
 ## - OnePlus Devices
 ```
-OnePlus 5 (cheeseburger) by Saad
-OnePlus 5T (dumpling) by Saad
-OnePlus 7 Pro (guacamole) by Master
-OnePlus 8 Pro (instantnoodlep) by Mehdi
-Oneplus 9R (lemonades) by Mehdi
+ONEPLUS NORD (AVICII) by NEMESIS_99999
+OnePlus 5 (cheeseburger) by MudabbirulSaad
+OnePlus 5T (dumpling) by MudabbirulSaad
+OnePlus 7 Pro (guacamole) by Mhmdeveloper
+OnePlus 8 Pro (instantnoodlep) by freesoul00
+OnePlus 8T/9R (kebab) by Viper_1057
+```
+
+## - Lenovo Devices
+```
+```
+
+## - Nokia Devices
+```
+```
+
+## - Meizu Devices
+```
+```
+
+## - Other Devices
+```
 ```
 <!--END_SECTION:devices-->
 
