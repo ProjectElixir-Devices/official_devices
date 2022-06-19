@@ -1,14 +1,14 @@
 {
-"error":false,
-"filename": "ProjectElixir_1.7_miatoll-12.1-20220518-0724-OFFICIAL.zip",
-"datetime": 1652858640,
-"size": 1969442832  ,
-"url":"https://downloads.projectelixiros.com/twelve/miatoll/ProjectElixir_1.7_miatoll-12.1-20220518-0724-OFFICIAL.zip", 
-"filehash":"ad0967b4f161fc799b5170c4333cd41b  ",
-"version": "12.1",
-"id": "e4cab222f5d3751e5a5d8d3536ef619f250b96f035aa8f3cebf841a509560b86 ",
-"tg_username": "Lopster_70",
-"device_name":"Poco M2 Pro/Redmi Note 9 Pro/Max/9s/10 Lite",
-"device":"miatoll",
-"xda_thread":"https://forum.xda-developers.com/t/rom-12-0-miatoll-project-elixir-official-twelve-aosp.4381631/"
+    "error": false,
+    "filename": "ProjectElixir_1.8_miatoll-12.1-20220619-0853-OFFICIAL.zip",
+    "datetime": 1655628592,
+    "size": 1981242831,
+    "url": "https://downloads.projectelixiros.com/twelve/miatoll/ProjectElixir_1.8_miatoll-12.1-20220619-0853-OFFICIAL.zip",
+    "filehash": "029575672e13b936287fdaa0997fd0c5",
+    "version": "12.1",
+    "id": "f09642a47a58437719a4f4e4e82b6d82f31ef919e2e709be7aea934a6289e77d",
+    "tg_username": "Lopster_70",
+    "device_name": "Poco M2 Pro/Redmi Note 9 Pro/Max/9s/10 Lite",
+    "device": "miatoll",
+    "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-miatoll-project-elixir-official-twelve-aosp.4381631/"
 }
