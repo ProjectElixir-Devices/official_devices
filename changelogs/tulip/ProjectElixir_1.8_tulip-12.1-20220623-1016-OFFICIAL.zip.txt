@@ -1,0 +1,4 @@
+Security Patch : 05th jun 2022
+Fix System Lags
+Based on Android 12L
+Synced with leatest android sources
