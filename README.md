@@ -76,6 +76,7 @@ OnePlus 5T (dumpling) by MudabbirulSaad
 OnePlus 7 Pro (guacamole) by Mhmdeveloper
 OnePlus 8 Pro (instantnoodlep) by freesoul00
 OnePlus 8T/9R (kebab) by Viper_1057
+OnePlus 9 Pro (lemonadep) by Red_Prez16
 ```
 
 ## - Lenovo Devices
@@ -84,6 +85,7 @@ OnePlus 8T/9R (kebab) by Viper_1057
 
 ## - Nokia Devices
 ```
+Nokia 6.1 Plus (DRG_sprout) by Lopster_70
 ```
 
 ## - Meizu Devices
