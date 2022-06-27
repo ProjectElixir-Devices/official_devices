@@ -1,14 +1,14 @@
 {
 "error":false,
-"filename": "ProjectElixir_1.5_star2lte-12.0-20220317-0225-OFFICIAL.zip",
-"datetime": 1647483900,
-"size": 1440499594,
-"url":"https://downloads.projectelixiros.com/twelve/star2lte/ProjectElixir_1.5_star2lte-12.0-20220317-0225-OFFICIAL.zip", 
-"filehash":"eed476923eb7a4a79edf689121512f41",
-"version": "12",
-"id": "e680d13f70098cd9b62de30a6ca9bba6619284d44bbf98768154bc98aa4a7a95",
-"tg_username": "dylanneve1",
+"filename": "ProjectElixir_1.8_star2lte-12.1-20220625-1617-OFFICIAL.zip",
+"datetime": 1656173820,
+"size": 1435781582,
+"url":"https://private.projectelixiros.com/twelve/star2lte/ProjectElixir_1.8_star2lte-12.1-20220625-1617-OFFICIAL.zip", 
+"filehash":"2bf54490372236bfbf78039494250146",
+"version": "12.1",
+"id": "a551c4f39dbd39e81274d30cc002723fb3c72675f4ce6ef5b4522c9f7b5d406b",
+"tg_username": "Tungpham1122",
 "device_name":"Samsung Galaxy S9+",
 "device":"star2lte",
-"xda_thread":"https://forum.xda-developers.com/t/rom-official-project-elixir-os-for-galaxy-s9-s9.4418253/"
+"xda_thread":"https://forum.xda-developers.com/t/rom-12-1-oss-project-elixir-1-8-official.4461925/"
 }
