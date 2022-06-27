@@ -1,14 +1,14 @@
 {
-"error":false,
-"filename": "ProjectElixir_1.7_dipper-12.1-20220512-0829-OFFICIAL.zip",
-"datetime": 1652623703,
-"size": 1694802811,
-"url":"https://downloads.projectelixiros.com/twelve/dipper/ProjectElixir_1.7_dipper-12.1-20220512-0829-OFFICIAL.zip",
-"filehash":"5e48989fa1a6f5edf7db01b43f393612",
-"version": "12",
-"id": "7675c39e232f32643f5bdaed4f954019e895ffc1ba028746003272895358f818",
-"tg_username": "LuMorningStarr",
-"device_name":"Xiaomi Mi 8",
-"device":"dipper",
-"xda_thread" :"https://forum.xda-developers.com/t/rom-official-12-1-projectelixir-mi-8-dipper.4446393/"
+    "error": false,
+    "filename": "ProjectElixir_1.8_dipper-12.1-20220626-1236-OFFICIAL.zip",
+    "datetime": 1656246790,
+    "size": 1715343544,
+    "url": "https://private.projectelixiros.com/twelve/dipper/ProjectElixir_1.8_dipper-12.1-20220626-1236-OFFICIAL.zip",
+    "filehash": "a687a559acc84bbd1001376c0750e40f",
+    "version": "12.1",
+    "id": "0dee92d3526d45d61a4d928ff0fa28705d887e7aa1aef73cbcefd10b1a535f35",
+    "tg_username": "LuMorningStarr",
+    "device_name": "Xiaomi Mi 8",
+    "device": "dipper",
+    "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-1-projectelixir-mi-8-dipper.4446393/"
 }
