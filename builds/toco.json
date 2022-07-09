@@ -1,14 +1,14 @@
 {
     "error":false,
-    "filename": "ProjectElixir_1.8_toco-12.1-20220613-1809-OFFICIAL.zip",
-    "datetime": 1655143734,
-    "size": 2313450058 ,
-    "url":"https://downloads.projectelixiros.com/twelve/toco/ProjectElixir_1.8_toco-12.1-20220613-1809-OFFICIAL.zip", 
-    "filehash":"af58db8bcbbf8119185edfe1a34e918f",
+    "filename": "ProjectElixir_1.9_toco-12.1-20220709-1127-OFFICIAL.zip",
+    "datetime": 1657366043,
+    "size": 2371968589 ,
+    "url":"https://downloads.projectelixiros.com/twelve/toco/ProjectElixir_1.9_toco-12.1-20220709-1127-OFFICIAL.zip", 
+    "filehash":"c29d6bd9859861adf048587bf3f110ca",
     "version": "12.1",
-    "id": "e0d3e58da1fa6198be87108b1d742428425e8ad82d6b963d1a42f74fbc6647dc",
+    "id": "9f6b2e7faa450f327381e46eff76c501dd1d535dee5ff3f386d0b180036906f9",
     "tg_username": "DennisMurimiWachira",
     "device_name":"Xiaomi Mi Note 10 Lite",
     "device":"toco",
-    "xda_thread":"https://forum.xda-developers.com/t/rom-12-1-toco-official-project-elixir-1-8.4422121/"
+    "xda_thread":"https://forum.xda-developers.com/t/rom-12-1-toco-official-project-elixir.4422121/"
     }
