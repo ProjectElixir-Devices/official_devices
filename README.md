@@ -25,7 +25,7 @@ Redmi 9 / Poco M2 (lava) by LuMorningStarr
 Redmi K20 Pro/Mi 9T Pro (raphael) by pallavjparikh
 Redmi K30S Ultra/Mi 10T/Pro (apollo) by Mhmdeveloper
 Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) by Douxx_gang
-Redmi K40/POCO F3/Mi 11x (alioth) by NextWorksGFX
+Redmi K40/POCO F3/Mi 11x (alioth) by Eidoron1
 Redmi Note 10 (mojito) by royal_king_0
 Redmi Note 10 Pro/Max (sweet) by zaidkhan0997
 Redmi Note 11 (spes) by nowulimited
