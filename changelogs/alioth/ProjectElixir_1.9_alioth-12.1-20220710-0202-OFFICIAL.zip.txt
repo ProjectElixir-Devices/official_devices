@@ -1,0 +1,9 @@
+Project Elixir 1.9 Changelogs
+
+-Initial build 
+-Switch to dora clang
+-Switched to Immensity kernel
+
+NOTE:
+
+- You must clean flash from previous version 
