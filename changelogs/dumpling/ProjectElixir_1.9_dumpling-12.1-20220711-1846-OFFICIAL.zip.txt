@@ -1,0 +1,3 @@
+- June security patches
+- Minor changes to the device sector.
+- Improved performance and stability.
