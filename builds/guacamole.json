@@ -1,14 +1,14 @@
 {
-"error":false,
-"filename": "ProjectElixir_1.8_guacamole-12.1-20220610-1221-OFFICIAL.zip",
-"datetime": 1654863706,
-"size": 1700251792,
-"url": "https://private.projectelixiros.com/twelve/guacamole/ProjectElixir_1.8_guacamole-12.1-20220610-1221-OFFICIAL.zip",
-"filehash": "3c10b62afa5f9dfe2c296e6bdb42dc4c",
-"version": "12.1",
-"id": "17513693d4013151e2ca660714ac10c9956f6d452e78ac06921763a33c1bbe8d",
-"tg_username": "Mhmdeveloper",
-"device_name": "OnePlus 7 Pro",
-"device": "guacamole",
-"xda_thread": "https://forum.xda-developers.com/t/rom-12-1-guacamole-project-elixir-official-oneplus-7-pro-aosp.4456065/"
+    "error": false,
+    "filename": "ProjectElixir_1.9_guacamole-12.1-20220712-0959-OFFICIAL.zip",
+    "datetime": 1657619957,
+    "size": 1662414636,
+    "url": "https://private.projectelixiros.com/twelve/guacamole/ProjectElixir_1.9_guacamole-12.1-20220712-0959-OFFICIAL.zip",
+    "filehash": "da04aa0b262f3f23c801777160f363a1",
+    "version": "12.1",
+    "id": "e7cd0c2d18ed30adf9bc4c43a2c103a10589a2af14d6f13f58961b690530e694",
+    "tg_username": "Mhmdeveloper",
+    "device_name": "OnePlus 7 Pro",
+    "device": "guacamole",
+    "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-guacamole-project-elixir-official-oneplus-7-pro-aosp.4456065/"
 }
