@@ -1,14 +1,14 @@
 {
-"error":false,
-"filename": "ProjectElixir_1.8_apollo-12.1-20220611-1601-OFFICIAL.zip",
-"datetime": 1654963260,
-"size": 2254581591,
-"url": "https://private.projectelixiros.com/twelve/apollo/ProjectElixir_1.8_apollo-12.1-20220611-1601-OFFICIAL.zip",
-"filehash": "c05d0d4297eb01601ba3d85b1d1ec1bf",
-"version": "12.1",
-"id": "dcf32365d64ba2c35e243c0cf72ca01a0e43080a743005d98da85d69b78f21fe",
-"tg_username": "Mhmdeveloper",
-"device_name": "Redmi K30S Ultra/Mi 10T/Pro",
-"device": "apollo",
-"xda_thread": "https://forum.xda-developers.com/t/rom-12-1-apollo-apollopro-project-elixir-official-aosp.4456449/"
+    "error": false,
+    "filename": "ProjectElixir_1.9_apollo-12.1-20220714-0536-OFFICIAL.zip",
+    "datetime": 1657776767,
+    "size": 2102434524,
+    "url": "https://private.projectelixiros.com/twelve/apollo/ProjectElixir_1.9_apollo-12.1-20220714-0536-OFFICIAL.zip",
+    "filehash": "e8cae57b3140f6f3a87243fd87c0ae36",
+    "version": "12.1",
+    "id": "e6c133d686c3b0f1c236821a8ca2632c1fe4219355fb4994c8236b16d4a76982",
+    "tg_username": "Mhmdeveloper",
+    "device_name": "Redmi K30S Ultra/Mi 10T/Pro",
+    "device": "apollo",
+    "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-apollo-apollopro-project-elixir-official-aosp.4456449/"
 }
