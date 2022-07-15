@@ -1,14 +1,14 @@
 {
-"error":false,
-"filename": "ProjectElixir_1.8_haydn-12.1-20220611-1003-OFFICIAL.zip",
-"datetime": 1654941780,
-"size": 1980673385,
-"url": "https://private.projectelixiros.com/twelve/haydn/ProjectElixir_1.8_haydn-12.1-20220611-1003-OFFICIAL.zip",
-"filehash": "5c7044292c7aa0b690931d1b4050b2e7",
-"version": "12.1",
-"id": "6065aeeee3a196a87688451991a719f69584c0d83db9e701bc1bea1b0c41d071",
-"tg_username": "Douxx_gang",
-"device_name": "Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro",
-"device": "haydn",
-"xda_thread": "https://forum.xda-developers.com/t/rom-12-1-haydn-project-elixir-official-aosp.4456351/"
+    "error":false,
+    "filename": "ProjectElixir_1.9_haydn-12.1-20220714-1556-OFFICIAL.zip",
+    "datetime": 1657813938,
+    "size": 2195920053,
+    "url": "https://private.projectelixiros.com/twelve/haydn/ProjectElixir_1.9_haydn-12.1-20220714-1556-OFFICIAL.zip",
+    "filehash": "c88f030a566c70fe52faecea3b5b6999",
+    "version": "12.1",
+    "id": "17c0735624cb58ec5c942e6d041d2b53dbc1a767936555385be9c1fd5ffc4446",
+    "tg_username": "Douxx_gang",
+    "device_name": "Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro",
+    "device": "haydn",
+    "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-haydn-project-elixir-official-aosp.4456351/"
 }
