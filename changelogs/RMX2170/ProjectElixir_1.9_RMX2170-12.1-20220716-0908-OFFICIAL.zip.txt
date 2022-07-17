@@ -1,0 +1,9 @@
+[DEVICE]
+- Included basic linux kernel - merged latest linux patch v4.14.288
+- Implemented pixel powerhal (for more smoothness and responsiveness)
+- Fixed the init script that was always shifting to default cpu governor to schedutil
+- Improved overall smoothness and performance
+- Fixed camera in certain 3rd party apps (telegram, revolut)
+- Implemented minimum brightness what it should be
+
+More source side changes
