@@ -1,14 +1,14 @@
 {
-"error":false,
-"filename": "ProjectElixir_1.8_spes-12.1-20220619-1452-OFFICIAL.zip",
-"datetime": 1655650344,
-"size": 1649006198,
-"url":"https://private.projectelixiros.com/twelve/spes/ProjectElixir_1.8_spes-12.1-20220619-1452-OFFICIAL.zip",
-"filehash":"3803b77404079a809f295c55b1bd8bc0",
-"version": "12.1",
-"id": "2e08ca7904657200c1b07b9c20127b07cf57cd0ef9cbc769985399edf83d5f58",
-"tg_username": "nowulimited",
-"device_name":"Redmi Note 11",
-"device":"spes",
-"xda_thread":"https://forum.xda-developers.com/t/rom-12-1-spes-spesn-project-elixir-v1-8-official.4459583/"
+     "error": false,
+     "filename": "ProjectElixir_1.9_spes-12.1-20220715-1458-OFFICIAL.zip",      
+     "datetime": 1657897048,                                                   
+     "size": 1594794665,                                                         
+     "url": "https://private.projectelixiros.com/twelve/juice/ProjectElixir_1.9_spes-12.1-20220715-1458-OFFICIAL.zip",
+     "filehash": "e722ea28ed5a12b6120ca8383f84a5d2",                             
+     "version": "12.1",
+     "id": "415d50156081399743d7202cc724fe924d6667415bc401b719c1f9f9193f2767",
+     "tg_username": "imanniig & xuniversx",
+     "device_name": "Redmi Note 11",                      
+     "device": "spes",
+     "xda_thread":"https://forum.xda-developers.com/t/rom-12-1-spes-spesn-project-elixir-v1-8-official.4459583/"
 }
