@@ -1,0 +1,9 @@
+Project Elixir 1.9 Changelogs (lmi)
+
+Raven July 2022 fingerprint
+Update Neural networks, ADSP, CDSP and DSP blobs to LA.UM.9.12.r113700.03SMxx50.QSSI12.0
+Update Gatekeeper, Time services, ESE, SCVE, msmirqbalance, Configstore, Feature enabler, and Display stack to LA.UM.9.12.r114100.01SMxx50.QSSI13.0
+Update Adreno to LA.UM.9.14.r119300LAHAINA.QSSI12.0
+Revert "lmi: overlay: Allow more cached apps in the background
+Revert "lmi: overlay: Compact cached app heaps in the background
+Fix rounded corner and udfps animation offset
