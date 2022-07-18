@@ -1,14 +1,14 @@
 {
-    "error": false,    
-    "filename": "ProjectElixir_1.8_lava-12.1-20220619-1319-OFFICIAL.zip",
-    "datetime": 1655644768,
-    "size": 1590727430,
-    "url": "https://private.projectelixiros.com/twelve/lava/ProjectElixir_1.8_lava-12.1-20220619-1319-OFFICIAL.zip",
-    "filehash": "80594745c1b7eb65e44eafc1b8d01f80",    
-    "version": "12.1",    
-    "id": "4892b2193dfe727bacc624305ede4eedf2338f09e33fd34d2e179c0686da767a",    
+    "error": false,
+    "filename": "ProjectElixir_1.9_lava-12.1-20220718-0358-OFFICIAL.zip",
+    "datetime": 1658116729,
+    "size": 1482629433,
+    "url": "https://private.projectelixiros.com/twelve/lava/ProjectElixir_1.9_lava-12.1-20220718-0358-OFFICIAL.zip",
+    "filehash": "2e94bcbcd794e26f25acdbe33d1173ee",
+    "version": "12.1",
+    "id": "ffb2eb4d477f375afd122690152b787109a87a4bda064020b8f4ce648f0f4a61",
     "tg_username": "LuMorningStarr",
-    "device_name": "Redmi 9 / Poco M2",    
+    "device_name": "Redmi 9 / Poco M2",
     "device": "lava",
     "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-official-project-elixir-redmi-9-poco-m2-lava.4452881/"
 }
