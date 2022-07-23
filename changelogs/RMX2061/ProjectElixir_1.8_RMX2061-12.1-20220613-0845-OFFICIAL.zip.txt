@@ -1,8 +1,0 @@
-## 1.8 RMX2061
-
-- Can Dirty Flash Over Last Update (Elixir 1.7)
-- Safetynet passed by default
-- Fixed Minor bugs present
-- June Security Patch
-
-Thanks to @maha96530 for testing 
