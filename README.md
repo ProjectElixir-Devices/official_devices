@@ -25,7 +25,7 @@ Redmi 9 / Poco M2 (lava) by LuMorningStarr
 Redmi K20 Pro/Mi 9T Pro (raphael) by pallavjparikh
 Redmi K30S Ultra/Mi 10T/Pro (apollo) by Mhmdeveloper
 Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) by Douxx_gang
-Redmi K40/POCO F3/Mi 11x (alioth) by Eidoron1
+Redmi K40/POCO F3/Mi 11x (alioth) by NextWorksGFX
 Redmi Note 10 (mojito) by royal_king_0
 Redmi Note 10 Pro/Max (sweet) by zaidkhan0997
 Redmi Note 11 (spes) by nowulimited
@@ -50,7 +50,7 @@ Realme 5/5i/5s (r5x) by MudabbirulSaad
 Realme 6 pro (RMX2061) by NEMESIS_99999
 Realme 7 Pro (RMX2170) by marshmello_61
 Realme RM6785 (RM6785) by thecloverly
-Realme X3/X3 SuperZOOM (x3) by le_heisenberg
+Realme X3/X3 SuperZOOM (x3) by patriot_235
 Realme X7 Max (RMX3031) by NishantKumar6342
 Realme XT (RMX1921) by officialpro
 realme GT Master Edition (RMX3360) by itsxrp
@@ -58,9 +58,9 @@ realme GT Master Edition (RMX3360) by itsxrp
 
 ## - Samsung Devices
 ```
-Samsung Galaxy Note 9 (crownlte) by Tungpham1122
-Samsung Galaxy S9 (starlte) by Tungpham1122
-Samsung Galaxy S9+ (star2lte) by Tungpham1122
+Samsung Galaxy Note 9 (crownlte) by dylanneve1
+Samsung Galaxy S9 (starlte) by dylanneve1
+Samsung Galaxy S9+ (star2lte) by dylanneve1
 ```
 
 ## - Asus Devices
@@ -76,7 +76,6 @@ OnePlus 5T (dumpling) by MudabbirulSaad
 OnePlus 7 Pro (guacamole) by Mhmdeveloper
 OnePlus 8 Pro (instantnoodlep) by freesoul00
 OnePlus 8T/9R (kebab) by Viper_1057
-OnePlus 9 Pro (lemonadep) by Red_Prez16
 ```
 
 ## - Lenovo Devices
@@ -85,7 +84,6 @@ OnePlus 9 Pro (lemonadep) by Red_Prez16
 
 ## - Nokia Devices
 ```
-Nokia 6.1 Plus (DRG_sprout) by Lopster_70
 ```
 
 ## - Meizu Devices
