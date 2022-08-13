@@ -1,14 +1,14 @@
 {
-    "error":false,
-    "filename": "ProjectElixir_1.9_dumpling-12.1-20220711-1846-OFFICIAL.zip",
-    "datetime":"1657611529",
-    "size":"1441840806",
-    "url":"https://downloads.projectelixiros.com/twelve/dumpling/ProjectElixir_1.9_dumpling-12.1-20220711-1846-OFFICIAL.zip",
-    "filehash":"a1cadc425b4c4fa9b2bfe41434402dc8",
+    "error": false,
+    "filename": "ProjectElixir_2.0_dumpling-12.1-20220812-1805-OFFICIAL.zip",
+    "datetime": 1660327504,
+    "size": 1516962515,
+    "url": "https://private.projectelixiros.com/twelve/dumpling/ProjectElixir_2.0_dumpling-12.1-20220812-1805-OFFICIAL.zip",
+    "filehash": "127993375d10c5af5887107c760dd28c",
     "version": "12.1",
-    "id": "089c6f8de707752d4b23fef24b985c1493b838812c3d6276b340ebae043f9d97",
+    "id": "fd01df118faa7c203a7623148ffaa358ec45c067be859c4fcd7a8052a92890ab",
     "tg_username": "MudabbirulSaad",
-    "device_name":"OnePlus 5T",
-    "device":"dumpling",
-    "xda_thread":"https://forum.xda-developers.com/t/rom-oss-12-0-oneplus-a5010-dumpling-project-elixir-official-gapps.4418947/"
-    }
+    "device_name": "OnePlus 5T",
+    "device": "dumpling",
+    "xda_thread": "https://forum.xda-developers.com/t/rom-oss-12-0-oneplus-a5010-dumpling-project-elixir-official-gapps.4418947/"
+}
