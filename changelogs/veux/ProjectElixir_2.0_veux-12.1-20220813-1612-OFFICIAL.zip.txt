@@ -1,0 +1,12 @@
+veux: rootdir: Move init.batterysecret.rc to init/hw
+veux: rootdir: Import init.mi_thermald.rc to init/hw
+veux: rootdir: Clean and update thermal parameters
+veux: sepolicy: Address "persist.bootanim.color1" denial
+veux: sepolicy: Solved denial vendor_qtidataservices
+veux: Include google recorder
+veux: overlay: fix lockscreen charging overlay
+veux: Strip size of com.qti.node.mialgocontrol.so
+veux: Kill soundtrigger
+veux: rootdir: Clean-up mi_thermald label
+veux: proprietary-files: Import missing thermal blobs and organize th…
+veux: prebuilts: Update Google Camera Go v3.6.455515391
