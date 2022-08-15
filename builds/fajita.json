@@ -1,14 +1,14 @@
 {
     "error": false,
-    "filename": "ProjectElixir_1.9_fajita-12.1-20220726-1213-OFFICIAL.zip",
-    "datetime": 1658837580,
-    "size": 1441786295,
-    "url": "https://private.projectelixiros.com/twelve/fajita/ProjectElixir_1.9_fajita-12.1-20220726-1213-OFFICIAL.zip",
-    "filehash": "346ed498649ae8239c7b174b8396c350",
-    "version": "12.1",
-    "id": "dcasac000bb156360162f88499fb1154978cd3ef0fa09c002f012b23dc89460b",
+    "filename": "ProjectElixir_2.0_fajita-12.1-20220815-1519-OFFICIAL.zip",    
+    "datetime": 1660576543,
+    "size": 1428353302,
+    "url": "https://private.projectelixiros.com/twelve/fajita/ProjectElixir_2.0_fajita-12.1-20220815-1519-OFFICIAL.zip",
+    "filehash": "9f1ad2c4417e53db760a062482d19209",
+    "version": "12.1",    
+    "id": "8abf729c9cfc54b671dbda1e5f254f96bf30c2b9ab011235d82dcce820f94e06",
     "tg_username": "CR7Raees",
-    "device_name": "Oneplus 6T",
+    "device_name": "Oneplus 6T",    
     "device": "fajita",
     "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-fajita-project-elixir-official-oneplus-6t-aosp.4472911/"
 }
