@@ -48,7 +48,7 @@ Xiaomi Redmi 5 Plus/Note 5 (vince) by PrajjuS
 ## - Realme Devices
 ```
 Realme 5 Pro (RMX1971) by kssrao13882
-Realme 5/5i/5s (r5x) by MudabbirulSaad
+Realme 5/5i/5s (r5x) by Amrito
 Realme 6 pro (RMX2061) by NEMESIS_99999
 Realme 6/6i/6s/7/Narzo 20 Pro/30 4G (RM6785) by thecloverly
 Realme 7 Pro (RMX2170) by marshmello_61
