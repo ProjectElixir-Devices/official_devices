@@ -1,14 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_1.9_laurel_sprout-12.1-20220716-2201-OFFICIAL.zip",
-    "datetime": 1658008728,
-    "size": 1554504870,
-    "url": "https://private.projectelixiros.com/twelve/laurel_sprout/ProjectElixir_1.9_laurel_sprout-12.1-20220716-2201-OFFICIAL.zip",
-    "filehash": "873fccbe51a00c3d76ea5205be96b9df",
+    "filename": "ProjectElixir_2.0_laurel_sprout-12.1-20220824-0747-OFFICIAL.zip",
+    "datetime": 1661327220,
+	"size": 1514841078,
+    "url": "https://private.projectelixiros.com/twelve/laurel_sprout/ProjectElixir_2.0_laurel_sprout-12.1-20220824-0747-OFFICIAL.zip",
+    "filehash": "78099b265ca700fcdc33451e518a856e",
     "version": "12.1",
-    "id": "73439e589653b313afdcc13cfee9072da3acabbe95c79b022f21365c119f117c",
+    "id": "3368c4c5d65926c1330148534c1f1e2db3a55d0533f8e5a19855bd4424425ca9",
     "tg_username": "H3M3L",
     "device_name": "MI A3",
     "device": "laurel_sprout",
-    "xda_thread": "https://forum.xda-developers.com/t/laurel_sprout-rom-project-elixir-1-5-android-12-aosp-official-9-3-2022.4379389/"
+    "xda_thread": "https://forum.xda-developers.com/t/laurel_sprout-rom-project-elixir-1-5-android-12-aosp-official-9-3-2022.4379389/",
+    "is_active": false
 }

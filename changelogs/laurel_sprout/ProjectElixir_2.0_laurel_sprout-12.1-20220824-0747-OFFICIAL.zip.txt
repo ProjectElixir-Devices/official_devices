@@ -1,0 +1,9 @@
+====================================
+          Device Changes
+====================================
+
+- End of life build.
+
+--Notes--
+- Safety Net passing by default.
+- Bugs Reporting with logs are welcomed.
