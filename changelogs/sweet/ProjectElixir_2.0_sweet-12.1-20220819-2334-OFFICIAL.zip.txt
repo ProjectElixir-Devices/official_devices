@@ -1,0 +1,28 @@
+This is Android 12.1 with July 2022 security patches
+
+Special Note:
+• A clean flash is STRONGLY recommend. (Format Data Needed DFE Won't work)
+• Only flash it using these recoveries. No other recovery will work. (https://t.me/RedmiNote10ProChannel/1176)
+• VantomKernel is the default kernel
+• The latest MIUI 13 firmware for your region is recommended
+• Switched to EROFS (Enhanced read only file system)
+• Enabled F2FS compression (Needs a clean flash if you are coming from may build)
+
+
+Device changes:
+Enable Battery Health
+Update blobs from sweet V13.0.12.0.SKFMIXM
+Fixed some RAM-related issues
+Fixed an issue with the headphones volume controls not working with wired headsets
+Fixed Fingerprint Wake-up Animation
+Few changes regarding vibration
+Upstreamed kernel to 4.14.290
+Fixed an issue with the phone not being able to go to sleep due to smp2p_sleepstate
+Switch audio HAL to V7
+Optimize shutdown time ( Power Off )
+Enable usage of dex2oat64 and Optimise dex flags
+Other fixes and  improvements
+Credit :- 
+               Arian, Adarsh, Vantom for the device sources
+               Aryannn999 for sources and help
+               Thanks To all beta testers
