@@ -1,14 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_1.9_apollo-12.1-20220714-0536-OFFICIAL.zip",
-    "datetime": 1657776767,
-    "size": 2102434524,
-    "url": "https://private.projectelixiros.com/twelve/apollo/ProjectElixir_1.9_apollo-12.1-20220714-0536-OFFICIAL.zip",
-    "filehash": "e8cae57b3140f6f3a87243fd87c0ae36",
+    "filename": "ProjectElixir_2.0_apollo-12.1-20220821-0955-OFFICIAL.zip",
+    "datetime": 1661075700,
+    "size": 2200977825,
+    "url": "https://private.projectelixiros.com/twelve/apollo/ProjectElixir_2.0_apollo-12.1-20220821-0955-OFFICIAL.zip",
+    "filehash": "930593460c2f1bae78cf0b1231fed300",
     "version": "12.1",
-    "id": "e6c133d686c3b0f1c236821a8ca2632c1fe4219355fb4994c8236b16d4a76982",
+    "id": "d749d5ff96b0be30dacb5e4275d45d29aa36a01b3b5afed8a136c9129a125bf2",
     "tg_username": "Mhmdeveloper",
     "device_name": "Redmi K30S Ultra/Mi 10T/Pro",
     "device": "apollo",
-    "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-apollo-apollopro-project-elixir-official-aosp.4456449/"
+    "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-apollo-apollopro-project-elixir-official-aosp.4456449/",
+    "is_active": true
 }
