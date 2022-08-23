@@ -1,14 +1,14 @@
 {
     "error": false,
-    "filename": "ProjectElixir_1.9_merlinx-12.1-20220717-1105-OFFICIAL.zip",
-    "datetime": 1658055702,
-    "size": 1501698569,
-    "url": "https://private.projectelixiros.com/twelve/merlinx/ProjectElixir_1.9_merlinx-12.1-20220717-1105-OFFICIAL.zip",
-    "filehash": "59e7ca42548058609d0c3f9b67d396b2",
+    "filename": "ProjectElixir_2.0_merlinx-12.1-20220822-2346-OFFICIAL.zip",
+    "datetime": 1661211824,
+    "size": 1661211971,
+    "url": "https://private.projectelixiros.com/twelve/merlinx/ProjectElixir_2.0_merlinx-12.1-20220822-2346-OFFICIAL.zip",
+    "filehash": "786610f3a0d1d0af45f627ee35371f79",
     "version": "12.1",
-    "id": "8321b6770d92a9e449f7a2c7974b54cb069b3f7d8d35574d1acc3443f2b5f1b8",
-    "tg_username": "LuMorningStarr",
+    "id": "b06db78e39655b9b7a20c9fda0359fd956cc46e7a27fd316e60ac1a12d5c3ba0",
+    "tg_username": "Kaike",
     "device_name": "Redmi Note 9",
     "device": "merlinx",
-    "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-official-project-elixir-redmi-note-9-merlinx.4452883/"
+    "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-official-project-elixir-redmi-note-9-merlinx.4483597/"
 }
