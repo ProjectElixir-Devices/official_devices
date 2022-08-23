@@ -1,0 +1,4 @@
+Changelogs:
+- Reduced logs level.
+- Kernel Upstreamed to 4.9.325
+- Imported new gnss and media blobs from N770F
