@@ -10,5 +10,6 @@
     "tg_username": "le_heisenberg",
     "device_name": "Realme X3/X3 SuperZOOM",
     "device": "x3",
-    "xda_thread": "https://forum.xda-developers.com/t/project-elixir-realme-x3-sz.4467151/"
+    "xda_thread": "https://forum.xda-developers.com/t/project-elixir-realme-x3-sz.4467151/",
+    "is_active": false
 }
