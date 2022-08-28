@@ -1,5 +1,0 @@
-Elixir 2.0 Changelogs
-
-- Initial Official Build.
-- Inline Silont .288
-- Security Patch : 05th August 2022

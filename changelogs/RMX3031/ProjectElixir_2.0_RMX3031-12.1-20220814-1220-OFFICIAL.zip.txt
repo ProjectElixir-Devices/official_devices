@@ -1,8 +1,0 @@
-## 2.0 RMX3031
-
-- Improved Fingerprint on display (FOD)
-- Enabled multiple vibration intensities
-- Added pocket mode
-- Minor bug fixes
-
-Thanks to @ManshuTyagi for DT 

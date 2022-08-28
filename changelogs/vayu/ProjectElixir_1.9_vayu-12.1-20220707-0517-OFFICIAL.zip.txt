@@ -1,5 +1,0 @@
-Elixir 1.9 Changelog (vayu)
-
- - Removed Pixel Launcher MODs app, as it requires root 
- - Fixed greyed out USB actions in notifications when connected to PC 
- - Revert "Set Recommended Night Display Color Temperature as default" 

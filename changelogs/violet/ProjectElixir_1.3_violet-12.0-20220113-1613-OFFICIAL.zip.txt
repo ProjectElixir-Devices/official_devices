@@ -1,7 +1,0 @@
-Hola !! Testing
-violet: Source Side Fixes and Changes
-violet: Get orgasm audio quality
-violet: Updated Prebuilt Azure kernel
-violet: Satisfied the logspam
-violet: More fluidity while maintaining the battery consumption
-violet: Hell lot of cleanup and fixes

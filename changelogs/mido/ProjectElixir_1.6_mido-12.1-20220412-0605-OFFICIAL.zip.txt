@@ -1,9 +1,0 @@
-Elixir 1.6 Changelog (mido)
-
-- Fixed Ripple Effect
-- Updated some graphic related blobs
-- Code changes related to UI
-
-Note : 
-1.Dirty flash is fine but if you face issues clean flash once 
-2.In case you are stuck in recovery use twrp by zeelog

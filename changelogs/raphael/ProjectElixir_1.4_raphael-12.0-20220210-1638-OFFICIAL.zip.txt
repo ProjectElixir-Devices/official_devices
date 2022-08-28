@@ -1,3 +1,0 @@
--Update to last Project Elixir source
--Switch to soviet kernel
--Added fod animations and icons

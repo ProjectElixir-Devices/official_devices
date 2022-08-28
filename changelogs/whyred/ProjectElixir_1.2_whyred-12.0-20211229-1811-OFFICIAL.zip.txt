@@ -1,8 +1,0 @@
-Elixir 1.2 Changelog (whyred)
-
-Integrates the December Android security patch
-Initial Official Release
-Cleaned-Up Trees
-Using Panda Kernel 11.5 as Default Kernel
-Merged to December Security Patch
-Built-in GcamGO instead of Snap Camera for Better Experience

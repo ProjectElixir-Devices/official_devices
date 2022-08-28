@@ -1,7 +1,0 @@
-Redfin February FP
-Switch to Proper vulkan ui Renderer 
-Optimized ART build flags
-Enable Audio Fluence for Voicerec
-Fixed IR Camera
-Switched to GCamGo
-Updated Kernel to Lineage 4.9.300

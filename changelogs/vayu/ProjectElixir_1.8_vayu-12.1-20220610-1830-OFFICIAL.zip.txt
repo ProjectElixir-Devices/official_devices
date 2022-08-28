@@ -1,6 +1,0 @@
-Elixir 1.8 Changelog (vayu)
-
- - Upstreamed Pixel Launcher MOD to v9.3 | Changelogs -> https://telegra.ph/Changelog-Of-Pixel-Launcher-MOD-05-28
- - Upstream GCam to MGC_8.1.101_A9_GV2b | Source -> https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/f/dl88/3/
- - Added Moto Dolby by ReiRyuki - Source Code -> https://github.com/reiryuki/Moto-Dolby-G-Pro-Magisk-Module
- - Add per-app refresh rate settings

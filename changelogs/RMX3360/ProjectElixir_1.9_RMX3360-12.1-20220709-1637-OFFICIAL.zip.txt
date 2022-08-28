@@ -1,9 +1,0 @@
-// Project Elixir v1.9 Changelogs //
-
-*July Sp 
-*Fixes low mic volume issue 
-*Merged sm8350-common changes 
-
-**Credits** 
-@pjgowtham for Base trees and Kernel
-All Elixir testers!

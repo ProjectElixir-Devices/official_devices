@@ -1,9 +1,0 @@
--Update to last Project Elixir source
--Update graphic blobs from Xiaomi/nabu/nabu:11/RKQ1.200826.002/V13.0.3.0.RKXCNXM:user/release-keys
--Enable quick tap 
--Updated audio policy manager
--Switch audio HAL to V7
--Tune ZRAM size
--Enable Zram Writeback
--Fix NFC.
--Pixion Kernel upstreamed to : 4.14.261 V2.9

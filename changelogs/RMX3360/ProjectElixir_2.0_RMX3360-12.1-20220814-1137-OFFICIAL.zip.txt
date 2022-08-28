@@ -1,6 +1,0 @@
-// Project Elixir v2.0 Changelogs //
-
-*Enabled burn in protection
-*Enabled turn on screen when charging unpluged
-*Removed some Google Apps
-*Merged sm8350 changes

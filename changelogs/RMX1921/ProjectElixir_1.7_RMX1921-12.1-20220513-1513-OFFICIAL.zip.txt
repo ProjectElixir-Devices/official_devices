@@ -1,4 +1,0 @@
-• Kernel upstream to 4.9.313 
-• Improvement on WiFi 
-• Misc fixes & improvements 
-• CTS passes by default

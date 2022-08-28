@@ -1,5 +1,0 @@
-Elixir 1.4 Changelog (whyred)
-
-Upstreamed Nexus Kernel To Latest Linux 4.4.302-EOL
-Added Dirac frontend support
-Improves system stability and performance

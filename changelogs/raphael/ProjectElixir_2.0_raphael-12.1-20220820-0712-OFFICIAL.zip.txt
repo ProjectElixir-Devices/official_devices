@@ -1,4 +1,0 @@
-- August security patches
-- Fixed Minor Bugs
-- Minor changes to the Fod.
-- Improved performance and stability.

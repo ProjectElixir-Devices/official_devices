@@ -1,5 +1,0 @@
-• Kernel upstream to 4.9.309 
-• Fix inconsistent VoWiFi 
-• Misc fixes & improvements 
-• CTS passes by default 
-• Do not ota update this build, clean flash only!

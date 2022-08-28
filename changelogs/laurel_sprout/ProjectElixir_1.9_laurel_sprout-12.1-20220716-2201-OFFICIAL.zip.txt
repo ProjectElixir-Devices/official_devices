@@ -1,9 +1,0 @@
-====================================
-          Device Changes
-====================================
-
-NO DEVICE SIDE CHANGES
-
---Notes--
-- Safety Net passing by default.
-- Bugs Reporting with logs are welcomed.

@@ -1,4 +1,0 @@
-Clean Flash Compulsory & dont use OTA for this update
-Security Patch : 05th Apr 2022
-Improved performance and stability
-Misc changes

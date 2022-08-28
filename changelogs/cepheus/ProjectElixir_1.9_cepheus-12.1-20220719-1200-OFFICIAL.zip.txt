@@ -1,2 +1,0 @@
-CHANGELOG:
-* Nothing changed from 1.8

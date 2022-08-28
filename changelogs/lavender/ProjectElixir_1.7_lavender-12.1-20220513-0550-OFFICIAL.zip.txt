@@ -1,2 +1,0 @@
-- Improved performance and stability
-- Misc changes

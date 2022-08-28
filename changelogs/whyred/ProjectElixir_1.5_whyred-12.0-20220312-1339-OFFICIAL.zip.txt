@@ -1,7 +1,0 @@
-Elixir 1.5 Changelog (whyred)
-
-Tweak AutoBrightness functionality to work efficiently 
-Cleand up some blobs
-Speed up animatons little bit for smoother experience
-Fixed warning regarding Speech Services on first boot
-Improves system stability and performance

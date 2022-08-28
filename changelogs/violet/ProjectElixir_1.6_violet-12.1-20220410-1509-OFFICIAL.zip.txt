@@ -1,7 +1,0 @@
-Clean Flash Compulsory & dont use OTA for this update
-Switched to Qcom sound effects
-Switched back to stock volume values (Fixes audio distortion)
-Apply a boost after fp is authenticated (Fingerprint)
-Added ANX Camera as default camera
-Improved performance and stability 
-Misc changes and fixes
