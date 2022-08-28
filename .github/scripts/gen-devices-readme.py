@@ -123,7 +123,7 @@ try:
             message=commit_message,
             content=new_readme,
             sha=contents.sha,
-            branch='master',
+            branch='A12',
             committer=committer
         )
     else:
