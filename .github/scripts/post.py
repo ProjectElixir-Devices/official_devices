@@ -30,13 +30,13 @@ from time import sleep
 
 # Get configs from workflow secrets
 def getConfig(config_name: str):
-    return os.environ.get(config_name)
+    return os.getenv(config_name)
 try:
     BOT_TOKEN = getConfig("BOT_TOKEN")
     CHAT_ID = getConfig("CHAT_ID")
     PRIV_CHAT_ID = getConfig("PRIV_CHAT_ID")
     STICKER_ID =  getConfig("STICKER_ID")
-    BANNER_URL = getConfig("BANNER_URL")
+    BANNER_URL = getConfig("BANNER_URL_T")
 except KeyError:
     print("Fill all the configs plox..\nExiting...")
     exit(0)
@@ -151,7 +151,8 @@ def message_content(information):
     msg += f"<b>Rom Version:</b> <code>{information['elixir_version']}</code>\n"
     msg += f"<b>Build Date:</b> <code>{information['datetime']} UTC</code>\n\n"
     msg += f"<b>Source Changelogs:</b> <a href='https://projectelixiros.com/changelog'>Here</a>\n"
-    msg += f"<b>Device Changelogs:</b> <a href='https://github.com/ProjectElixir-Devices/Changelogs/blob/snow/{information['codename']}.md'>Here</a>\n\n"
+    msg += f"<b>Device Changelogs:</b> <a href='https://github.com/ProjectElixir-Devices/Changelogs/blob/tiramisu/{information['codename']}.md'>Here</a>\n\n"
+    msg += f"<b>Installation Guide:</b> <a href='https://github.com/ProjectElixir-Devices/Wiki/blob/tiramisu/{information['codename']}.md'>Here</a>\n" 
     msg += f"<b>Screenshots:</b> <a href='https://projectelixiros.com/gallery'>Here</a>\n"
     msg += f"<b>MD5:</b> <code>{information['md5']}</code>\n"
     if NOTES is not None and len(NOTES) > 1:
@@ -237,7 +238,7 @@ def tg_log():
             YetToUpdate.append(device)
     count = 1
     msg = ""
-    msg += f"<b>Project Elixir Devices Update Status</b>\n\n"
+    msg += f"<b>Project Elixir Devices Tiramisu Update Status</b>\n\n"
     msg += f"<b>The following devices have been updated in the current month</b> <code>(after {str(month_start)} hours)</code><b>:</b> "
     if len(Updated) == 0:
         msg += f"<code>None</code>"
