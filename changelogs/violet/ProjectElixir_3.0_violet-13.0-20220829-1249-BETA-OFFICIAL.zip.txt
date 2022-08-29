@@ -1,0 +1,5 @@
+Initial OFFICIAL Build
+Rom is encrypted by default
+Gapps And Firmware are shipped with ROM
+CTS passes by default
+Update recovery to use Android 13 TWRP/Ofox for Encryption.
