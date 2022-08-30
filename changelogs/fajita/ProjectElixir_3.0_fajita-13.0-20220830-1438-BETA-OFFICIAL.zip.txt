@@ -1,0 +1,4 @@
+- Initial A13 Beta Build
+- Build is encrypted
+- Selinux is Enforcing
+- CTS passes by default
