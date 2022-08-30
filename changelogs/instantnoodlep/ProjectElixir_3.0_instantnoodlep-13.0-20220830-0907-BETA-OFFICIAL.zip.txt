@@ -1,0 +1,9 @@
+- Initial release
+- CTS passes by default
+- Selinux is Enforcing
+- Build is encrypted
+- No need to flash Gapps (included)
+- Mostly everything works
+
+NOTE:- 
+- If you find any bugs tag me with logs.
