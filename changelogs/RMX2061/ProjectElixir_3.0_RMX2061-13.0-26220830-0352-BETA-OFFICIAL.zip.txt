@@ -1,0 +1,12 @@
+- Initial release
+- CTS passes by default
+- Selinux is Enforcing
+- Build is encrypted
+- No need to flash Gapps (included)
+- Mostly everything works
+
+NOTE:- 
+- If you find any bugs tag me with logs.
+- Current Recovery (OFRP R11.1_1 Beta) Doesn't Support Decryption For Android 13 Roms.
+
+Credits:- Thanks to Debdeep, Priyanshu, Egor and Everybody :)
