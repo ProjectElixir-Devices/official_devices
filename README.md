@@ -11,60 +11,24 @@ Project Elixir is another aftermarket AOSP ROM which basically offers minimal UI
 <!--START_SECTION:devices-->
 ## - Xiaomi Devices
 ```
-MI A3 (laurel_sprout) by H3M3L
-Mi A1 (tissot) by ugly_kid_af
-POCO M3/Redmi 9T/9 Power/Note 9 4G (juice) by imannig
-POCO X3 NFC (surya) by nowulimited
-Poco F1 (beryllium) by RahulGorai
-Poco F2 Pro/Redmi K30 Pro (lmi) by ZenkaBestia
-Poco M2 Pro/Redmi Note 9 Pro/Max/9s/10 Lite (miatoll) by Lopster_70
-Poco X2 (phoenix) by AD_Anky
-Poco X3 Pro (vayu) by chandlerbigg
-Redmi 8A Dual (olivewood) by jaswal_ashish
-Redmi 9 / Poco M2 (lava) by Kaike
-Redmi K20 Pro/Mi 9T Pro (raphael) by pallavjparikh
-Redmi K30S Ultra/Mi 10T/Pro (apollo) by Mhmdeveloper
+POCO F3 (alioth) by theangelofdead01
 Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) by Douxx_gang
-Redmi K40/POCO F3/Mi 11x (alioth) by Eidoron1
-Redmi Note 10 (mojito) by royal_king_0
-Redmi Note 10 Pro/Max (sweet) by zaidkhan0997
-Redmi Note 11 (spes) by imanniig & xuniversx
-Redmi Note 11 Pro Plus / Poco X4 Pro (veux) by jaswal_ashish11
-Redmi Note 4 (mido) by Smokey_18
-Redmi Note 5 Pro (whyred) by IGaganpreetSingh
-Redmi Note 6 Pro (tulip) by RahulPalXDA
+Redmi Note 11 Pro Plus/Poco X4 Pro (veux/peux) by jaswal_ashish11
 Redmi Note 7 Pro (violet) by ugly_kid_af
-Redmi Note 7/7s (lavender) by AlCoptan99
-Redmi Note 8 Pro (begonia) by PiotrBurdzinski
-Redmi Note 8/8T (ginkgo) by RahulPalXDA
 Redmi Note 9 (merlinx) by Kaike
-Redmi Note 9 Pro 5G/Mi 10i/10T Lite (gauguin) by i_am_miki
-Redmi S2/Y2 (ysl) by Iris041
-Xiaomi Mi 8 (dipper) by LuMorningStarr
-Xiaomi Mi Note 10 Lite (toco) by DennisMurimiWachira
-Xiaomi Mi9 (cepheus) by freesoul00
-Xiaomi Redmi 5 Plus/Note 5 (vince) by PrajjuS
+Xiaomi Poco F1 (beryllium) by RahulGorai
 ```
 
 ## - Realme Devices
 ```
-Realme 5 Pro (RMX1971) by kssrao13882
-Realme 5/5i/5s (r5x) by AMRITO
-Realme 6 pro (RMX2061) by NEMESIS_99999
-Realme 6/6i/6s/7/Narzo 20 Pro/30 4G (RM6785) by thecloverly
+Realme 6 Pro (RMX2061) by NEMESIS_99999
 Realme 7 Pro (RMX2170) by marshmello_61
 Realme GT Neo 2 (bitra) by SathamHussainM
-Realme X3/X3 SuperZOOM (x3) by le_heisenberg
 Realme X7 Max (RMX3031) by NishantKumar6342
-Realme XT (RMX1921) by officialpro
-realme GT Master Edition (RMX3360) by itsxrp
 ```
 
 ## - Samsung Devices
 ```
-Samsung Galaxy Note 9 (crownlte) by Tungpham1122
-Samsung Galaxy S9 (starlte) by Tungpham1122
-Samsung Galaxy S9+ (star2lte) by Tungpham1122
 ```
 
 ## - Asus Devices
@@ -74,16 +38,10 @@ Asus Zenfone Max Pro M1 (X00TD) by NotHarshhaa
 
 ## - OnePlus Devices
 ```
-ONEPLUS NORD (AVICII) by NEMESIS_99999
-OnePlus 5 (cheeseburger) by MudabbirulSaad
-OnePlus 5T (dumpling) by MudabbirulSaad
-OnePlus 7 Pro (guacamole) by Mhmdeveloper
-OnePlus 7T (hotdogb) by Master & Saurav
-OnePlus 8 (instantnoodle) by saurabh_parab
-OnePlus 8 Pro (instantnoodlep) by freesoul00
-OnePlus 8T/9R (kebab) by Viper_1057
-OnePlus 9 Pro (lemonadep) by Red_Prez16
-Oneplus 6T (fajita) by CR7Raees
+OnePlus 6T (fajita) by CR7Raees
+Oneplus 5 (cheeseburger) by MudabbirulSaad
+Oneplus 5T (dumpling) by MudabbirulSaad
+Oneplus 8 pro (instantnoodlep) by freesoul00(Mehdi)
 ```
 
 ## - Lenovo Devices
@@ -92,7 +50,6 @@ Oneplus 6T (fajita) by CR7Raees
 
 ## - Nokia Devices
 ```
-Nokia 6.1 Plus (DRG_sprout) by Lopster_70
 ```
 
 ## - Meizu Devices
