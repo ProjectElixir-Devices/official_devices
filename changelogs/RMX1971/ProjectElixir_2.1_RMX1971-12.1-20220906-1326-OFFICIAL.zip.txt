@@ -1,0 +1,6 @@
+## 2.1 - Realme 5 Pro (RMX1971)
+
+- Updated to Latest Source Changes
+- Enabled QCRIL radio power saving
+- Fixed Screen Tearing Issue on scroll (Scrolling should be smoother now)
+- Miscellaneous changes to make rom smoother and improve performance
