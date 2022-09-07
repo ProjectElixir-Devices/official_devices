@@ -1,14 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_2.0_RMX3360-12.1-20220814-1137-OFFICIAL.zip",
-    "datetime": 1660476926,
-    "size": 1940064534,
-    "url": "https://private.projectelixiros.com/twelve/RMX3360/ProjectElixir_2.0_RMX3360-12.1-20220814-1137-OFFICIAL.zip",
-    "filehash": "55845d3d7fae6884da367c1f1c9bd6c2",
+    "filename": "ProjectElixir_2.1_RMX3360-12.1-20220907-0233-OFFICIAL.zip",
+    "datetime": 1662517921,
+    "size": 1942995307,
+    "url": "https://private.projectelixiros.com/twelve/RMX3360/ProjectElixir_2.1_RMX3360-12.1-20220907-0233-OFFICIAL.zip",
+    "filehash": "596666d4723a11de8ed473694fdcc2d3",
     "version": "12.1",
-    "id": "915cb913608baa1ff542aa7967d773347b512d14836d74bac114ddf73f17938f",
+    "id": "f4f36e7d57937d1d63ff9b0de9f350204cf05d8c411fe85f74afd7cb3fefb9c0",
     "tg_username": "itsxrp",
     "device_name": "realme GT Master Edition",
     "device": "RMX3360",
-    "xda_thread": "https://forum.xda-developers.com/t/official-12-1-project-elixir-for-realme-gt-me-rmx3360-rmx3363-rom-aosp.4450173/"
+    "xda_thread": "https://forum.xda-developers.com/t/official-12-1-project-elixir-for-realme-gt-me-rmx3360-rmx3363-rom-aosp.4450173/",
+    "is_active": true
 }
