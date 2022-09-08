@@ -1,15 +1,15 @@
 {
-"error":false,
-"filename":"ProjectElixir_2.0_beryllium-12.1-20220813-1028-OFFICIAL.zip",
-"datetime":1660386425,
-"size":1599842635,
-"url":"https://private.projectelixiros.com/twelve/beryllium/ProjectElixir_2.0_beryllium-12.1-20220813-1028-OFFICIAL.zip",
-"filehash":"1427e03faec855b070071d9b62a13102",
-"version":"12.1",
-"id":"31077c2230fd057eb5adf58962d00337846db4a27e8fd34938bfbca6208e296b",
-"tg_username":"RahulGorai",
-"device_name":"Poco F1",
-"device":"beryllium",
-"xda_thread":"https://forum.xda-developers.com/t/rom-12-1-beryllium-project-elixir-official-twelve-aosp.4479657/",
-"is_active": true
+    "error": false,
+    "filename": "ProjectElixir_2.1_beryllium-12.1-20220908-1441-OFFICIAL.zip",
+    "datetime": 1662648000,
+    "size": 1712599388,
+    "url": "https://private.projectelixiros.com/twelve/beryllium/ProjectElixir_2.1_beryllium-12.1-20220908-1441-OFFICIAL.zip",
+    "filehash": "033d7e482968c0b32a517728dc6ddb23",
+    "version": "12.1",
+    "id": "5b1a893cdd34be481cd030926d4d15b10edeadffee56022f7019c76f735a24fe",
+    "tg_username": "RahulGorai",
+    "device_name": "Poco F1",
+    "device": "beryllium",
+    "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-beryllium-project-elixir-official-twelve-aosp.4479657/",
+    "is_active": true
 }
