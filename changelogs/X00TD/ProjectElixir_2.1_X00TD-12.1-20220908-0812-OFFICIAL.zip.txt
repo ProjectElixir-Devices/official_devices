@@ -1,0 +1,17 @@
+Elixir 2.1 Changelog (X00TD)
+
+Updated FP to Raven September
+Merged September security patch
+Sycned latest source changes
+Boost audio output
+Build opensource soundtrigger HAL
+Display: Enable support for protected content GPU composition
+Force disable iorapd
+Disable sdm rotator downscaler
+Pin renderscript blobs to memory
+Enable pre-rendering
+Enable HWUI_COMPILE_FOR_PERF
+Switch to SkiaGL Threaded
+CTS passed by default
+Some misc improvements and fixes
+ROM is NON-FBE & LV build
