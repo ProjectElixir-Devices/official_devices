@@ -1,0 +1,4 @@
+Initial OFFICIAL Build
+Rom is encrypted by default
+Gapps And OOS Cam are shipped with ROM
+CTS passes by default
