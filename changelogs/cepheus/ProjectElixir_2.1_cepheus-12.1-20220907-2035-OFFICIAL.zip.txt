@@ -1,4 +1,4 @@
 Changelog:
 
 *Updated to last source 
-*September Security Patch
+*August Security Patch
