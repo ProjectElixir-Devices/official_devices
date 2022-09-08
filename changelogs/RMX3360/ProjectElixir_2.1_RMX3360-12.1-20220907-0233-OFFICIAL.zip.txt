@@ -1,0 +1,5 @@
+// Project Elixir v2.1 EOL Changelogs //
+ Uses the new kernel source.
+ Fix video playback issues on apps like reddit.
+ Fixed Extra Dim issue
+ Merged sm8350 changes
