@@ -1,0 +1,7 @@
+## v2.1 ysl
+
+- Bumped to Project Elixir v2.1.
+- CTS passes by default.
+- Some minor fixes and improvements
+
+Note:  This is final EOL build of Android 12
