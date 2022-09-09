@@ -1,0 +1,4 @@
+5th Sep 2022 security patch.
+Play Store Certification.
+Safetynet passed without root.
+Misc changes from source side.
