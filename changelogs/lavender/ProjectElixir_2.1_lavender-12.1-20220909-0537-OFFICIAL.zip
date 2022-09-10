@@ -1,0 +1,3 @@
+- fixed deep sleep
+- fixed libperfmgr crash
+- fixed some apps detecting magisk
