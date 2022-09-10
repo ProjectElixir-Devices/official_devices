@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_2.0_sweet-12.1-20220819-2334-OFFICIAL.zip",
-    "datetime": 1660951353,
-    "size": 1979485444,
-    "url": "https://private.projectelixiros.com/twelve/sweet/ProjectElixir_2.0_sweet-12.1-20220819-2334-OFFICIAL.zip",
-    "filehash": "f0838ff281bad297d521948fc6e5673b",
+    "filename": "ProjectElixir_2.1_sweet-12.1-20220909-1416-OFFICIAL.zip",
+    "datetime": 1662732877,
+    "size": 1997185757,
+    "url": "https://private.projectelixiros.com/twelve/sweet/ProjectElixir_2.1_sweet-12.1-20220909-1416-OFFICIAL.zip",
+    "filehash": "c8ec6a63c61790a4350eec8ccbd97ca0",
     "version": "12.1",
-    "id": "cbbeffc21c3c7b4c9a62b3bc40436146265dd86881d4e01a4ca6cb4515fd9571",
+    "id": "12243440cbe8038cf00986430aecfb87ffb2f453806d051380b80ec77df3122c",
     "tg_username": "zaidkhan0997",
     "device_name": "Redmi Note 10 Pro/Max",
     "device": "sweet",
-    "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-sweet-project-elixir-official-twelve-aosp-20-08-2022.4403799/",
+    "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-sweet-project-elixir-official-twelve-aosp-10-09-2022.4403799/",
     "is_active": true
 }

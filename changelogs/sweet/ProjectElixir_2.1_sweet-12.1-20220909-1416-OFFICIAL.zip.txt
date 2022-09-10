@@ -1,0 +1,18 @@
+This is Android 12.1 with July 2022 security patches
+
+Special Note:
+• A clean flash is STRONGLY recommend. (Format Data Needed DFE Won't work)
+• Only flash it using these recoveries. No other recovery will work. (https://t.me/RedmiNote10ProChannel/1176)
+• VantomKernel is the default kernel
+• The latest MIUI 13 firmware for your region is recommended
+• Switched to EROFS (Enhanced read only file system)
+• Enabled F2FS compression (Needs a clean flash if you are coming from may build)
+
+
+Device changes:
+some fixes and  improvements
+EOL Update (End Of Life)
+Credit :- 
+               Arian, Adarsh, Vantom for the device sources
+               Aryannn999 for sources and help
+               Thanks To all beta testers
