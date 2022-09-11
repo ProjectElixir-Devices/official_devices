@@ -1,0 +1,4 @@
+- September Security Patch
+- Initial BETA Build
+- Enforcing Build
+- CTS passes by default
