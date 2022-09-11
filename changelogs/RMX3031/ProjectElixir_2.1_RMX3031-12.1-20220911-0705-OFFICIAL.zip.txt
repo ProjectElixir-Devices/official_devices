@@ -1,0 +1,6 @@
+## 2.1 RMX3031
+
+- Fixed VoWIFI
+- Minor bug fixes
+
+Thanks to @ManshuTyagi for DT 
