@@ -11,8 +11,11 @@ Project Elixir is another aftermarket AOSP ROM which basically offers minimal UI
 <!--START_SECTION:devices-->
 ## - Xiaomi Devices
 ```
-POCO F3 (alioth) by theangelofdead01
+Poco M2 Pro/Redmi Note 9 Pro/Max/9s/10 Lite (miatoll) by Lopster_70
+Poco X3 Pro (vayu) by chandlerbigg
 Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) by Douxx_gang
+Redmi K40/POCO F3/Mi 11x (alioth) by theangelofdead01
+Redmi Note 10 Pro (sweet) by zaidkhan0997
 Redmi Note 11 Pro Plus/Poco X4 Pro (veux/peux) by jaswal_ashish11
 Redmi Note 7 Pro (violet) by ugly_kid_af
 Redmi Note 9 (merlinx) by Kaike
@@ -25,6 +28,7 @@ Realme 6 Pro (RMX2061) by NEMESIS_99999
 Realme 7 Pro (RMX2170) by marshmello_61
 Realme GT Neo 2 (bitra) by SathamHussainM
 Realme X7 Max (RMX3031) by NishantKumar6342
+Realme XT (RMX1921) by dhruvesh_23
 ```
 
 ## - Samsung Devices
@@ -42,6 +46,7 @@ OnePlus 6T (fajita) by CR7Raees
 Oneplus 5 (cheeseburger) by MudabbirulSaad
 Oneplus 5T (dumpling) by MudabbirulSaad
 Oneplus 8 pro (instantnoodlep) by freesoul00(Mehdi)
+Oneplus 9R (lemonades) by manid_reddy
 ```
 
 ## - Lenovo Devices
