@@ -1,0 +1,3 @@
+August Security Patch
+EOL Build
+Upstream kernel to 4.9.327
