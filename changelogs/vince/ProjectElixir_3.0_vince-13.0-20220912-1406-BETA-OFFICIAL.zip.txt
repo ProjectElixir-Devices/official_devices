@@ -1,0 +1,3 @@
+Fixed Bluetooth issues
+Fixed Hotspot issues
+Fixed USB tethering
