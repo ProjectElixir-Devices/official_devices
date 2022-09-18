@@ -20,6 +20,7 @@ Redmi Note 11 Pro Plus/Poco X4 Pro (veux/peux) by jaswal_ashish11
 Redmi Note 7 Pro (violet) by ugly_kid_af
 Redmi Note 9 (merlinx) by Kaike
 Xiaomi Poco F1 (beryllium) by RahulGorai
+Xiaomi Redmi 5 Plus/Note 5 (vince) by PrajjuS
 ```
 
 ## - Realme Devices
