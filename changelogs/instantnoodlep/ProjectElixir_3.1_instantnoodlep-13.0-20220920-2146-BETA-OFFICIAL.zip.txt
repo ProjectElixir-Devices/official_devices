@@ -1,0 +1,10 @@
+Instantnoodlep: Elixir v3.1 | September Update | Android 13
+
+- Last Release Based on OOS11 Fw
+- CTS passes by default
+- Selinux is Enforcing
+- Build is encrypted
+- Mostly everything works
+
+NOTE:- 
+- If you find any bugs tag me with logs.
