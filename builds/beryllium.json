@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.0_beryllium-13.0-20220829-1539-BETA-OFFICIAL.zip",
-    "datetime": 1661787555,
-    "size": 1471642522,
-    "url": "https://private.projectelixiros.com/thirteen/beryllium/ProjectElixir_3.0_beryllium-13.0-20220829-1539-BETA-OFFICIAL.zip",
-    "filehash": "69fc5af60e5d5420460f44937c29bbba",
+    "filename": "ProjectElixir_3.1_beryllium-13.0-20220922-0932-BETA-OFFICIAL.zip",
+    "datetime": 1663839033,
+    "size": 1793971639,
+    "url": "https://private.projectelixiros.com/thirteen/beryllium/ProjectElixir_3.1_beryllium-13.0-20220922-0932-BETA-OFFICIAL.zip",
+    "filehash": "ef0c817625bd4936a00f26423ef11335",
     "version": "13.0",
-    "id": "c2404921f487914812987b1612573758d70a631d10b47ff2220c659f984a3e35",
+    "id": "c1173ef9c4320b12274960150fed019ed6faba0f410eb6149c664353b9b8d028",       
     "tg_username": "RahulGorai",
     "device_name": "Xiaomi Poco F1",
     "device": "beryllium",
-    "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-beryllium-project-elixir-official-beta-aosp.4486215/",
-    "is_active": true
+    "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-beryllium-project-elixir-official-beta-aosp.4496433/",
+    "is_active": true     
 }
