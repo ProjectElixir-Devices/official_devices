@@ -1,0 +1,5 @@
+- Initial A13 release
+- CTS passes by default
+- Selinux is Enforcing
+- Build is encrypted (FBE Enabled, so use ofox 12.1 recovery)
+- BT Media and calling working fine
