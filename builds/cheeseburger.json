@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.0_cheeseburger-13.0-20220902-0845-BETA-OFFICIAL.zip",
-    "datetime": 1662108004,
-    "size": 1536901448,
-    "url": "https://private.projectelixiros.com/twelve/cheeseburger/ProjectElixir_3.0_cheeseburger-13.0-20220902-0845-BETA-OFFICIAL.zip",
-    "filehash": "a68afc720435fca51b4ef3f7e5f34ae1",
+    "filename": "ProjectElixir_3.1_cheeseburger-13.0-20220922-1959-BETA-OFFICIAL.zip",
+    "datetime": 1663876651,
+    "size": 1396794658,
+    "url": "https://private.projectelixiros.com/thirteen/cheeseburger/ProjectElixir_3.1_cheeseburger-13.0-20220922-1959-BETA-OFFICIAL.zip",
+    "filehash": "27ea91f2addafac9507b3dfe02714a1b",
     "version": "13.0",
-    "id": "5039ed5ad54e9558befdf13cd654fc21163ee1cbaf66d88701310b66e6f8cb6b",
+    "id": "6320dae46cc5b3efb5814a6c5285b106735b94c6a53969c2dedbafc58cf9ba32",       
     "tg_username": "MudabbirulSaad",
     "device_name": "Oneplus 5",
     "device": "cheeseburger",
     "xda_thread": "https://forum.xda-developers.com/t/rom-oss-13-august-oneplus-5-dumpling-project-elixir-beta-official-gapps.4487813/",
-    "is_active": true
+    "is_active": true     
 }
