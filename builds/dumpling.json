@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.0_dumpling-13.0-20220902-0515-BETA-OFFICIAL.zip",
-    "datetime": 1662095439,
-    "size": 1537025040,
-    "url": "https://private.projectelixiros.com/twelve/dumpling/ProjectElixir_3.0_dumpling-13.0-20220902-0515-BETA-OFFICIAL.zip",
-    "filehash": "c56ed58fc10cb71ceea2d52ba61504aa",
+    "filename": "ProjectElixir_3.1_dumpling-13.0-20220922-1655-BETA-OFFICIAL.zip",
+    "datetime": 1663865473,
+    "size": 1388937285,
+    "url": "https://private.projectelixiros.com/thirteen/dumpling/ProjectElixir_3.1_dumpling-13.0-20220922-1655-BETA-OFFICIAL.zip",
+    "filehash": "2a0f6c463e59ee90c2ad00485d1701b2",
     "version": "13.0",
-    "id": "6a6be7b1d061e72aff36e902c74eed728be2c74c68d94884feb038e06558451b",
+    "id": "72542f20faefa2e11b874819263ad0a67a0138c85c301832967641dc3a810d4e",       
     "tg_username": "MudabbirulSaad",
     "device_name": "Oneplus 5T",
     "device": "dumpling",
     "xda_thread": "https://forum.xda-developers.com/t/rom-oss-13-august-oneplus-5t-dumpling-project-elixir-beta-official-gapps.4487743",
-    "is_active": true
+    "is_active": true     
 }
