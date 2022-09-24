@@ -1,0 +1,9 @@
+S Vendor Build
+CTS passes by default
+Selinux is Enforcing
+Import stock CarrierConfig overlay 
+Use APNS config from biloba instead of ROM APNS 
+InCallService: Only adjust gain values for speaker and earpiece   
+September Security Patch 
+Project Elixir 3.1 - More changelog on website
+No need to flash Gapps (included)
