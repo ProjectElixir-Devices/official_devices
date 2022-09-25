@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.1_RMX1921-13.0-20220922-1028-BETA-OFFICIAL.zip",
-    "datetime": 1663842407,
-    "size": 1736718044,
-    "url": "https://private.projectelixiros.com/thirteen/RMX1921/ProjectElixir_3.1_RMX1921-13.0-20220922-1028-BETA-OFFICIAL.zip",
-    "filehash": "29e70b1113191bf76a12c14e95bd2ec7",
+    "filename": "ProjectElixir_3.1_RMX1921-13.0-20220925-1115-BETA-OFFICIAL.zip",
+    "datetime": 1664104416,
+    "size": 1736915432,
+    "url": "https://private.projectelixiros.com/thirteen/RMX1921/ProjectElixir_3.1_RMX1921-13.0-20220925-1115-BETA-OFFICIAL.zip",
+    "filehash": "e6319be785c6e348bb4b07a237a62b91",
     "version": "13.0",
-    "id": "baae968d355c06a54dd2aab2e86d9d238180c08cc468497e7b517ca15ed15909",       
+    "id": "841e3ebadb73444ea1b6cbacc46839fc7bd0dafd60f8c073eff46fb1e9433bc3",       
     "tg_username": "dhruvesh_23",
     "device_name": "Realme XT",
     "device": "RMX1921",
-    "xda_thread": "https://forum.xda-developers.com/t/official-12-1-project-elixir-for-realme-xt-rmx1921-rom-aosp.4490881/",
+    "xda_thread": "https://forum.xda-developers.com/t/official-13-0-project-elixir-for-realme-xt-rmx1921-rom-aosp.4490881/",
     "is_active": true     
 }
