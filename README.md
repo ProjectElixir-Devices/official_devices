@@ -10,7 +10,7 @@ Project Elixir is another aftermarket AOSP ROM which basically offers minimal UI
 ### - OFFICIAL MAINTAINERS OF Project Elixir
 
 <!--START_SECTION:devices-->
-### - Xiaomi Devices
+## - Xiaomi Devices
 ```
 Poco M2 Pro/Redmi Note 9 Pro/Max/9s/10 Lite (miatoll) by Lopster_70
 Poco X3 Pro (vayu) by chandlerbigg
@@ -24,8 +24,9 @@ Xiaomi Poco F1 (beryllium) by RahulGorai
 Xiaomi Redmi 5 Plus/Note 5 (vince) by PrajjuS
 ```
 
-### - Realme Devices
+## - Realme Devices
 ```
+Realme 5 Pro (RMX1971) by kssrao13882
 Realme 6 Pro (RMX2061) by NEMESIS_99999
 Realme 7 Pro (RMX2170) by marshmello_61
 Realme GT Neo 2 (bitra) by SathamHussainM
@@ -33,11 +34,11 @@ Realme X7 Max (RMX3031) by NishantKumar6342
 Realme XT (RMX1921) by dhruvesh_23
 ```
 
-### - Samsung Devices
+## - Samsung Devices
 ```
 ```
 
-### - Asus Devices
+## - Asus Devices
 ```
 Asus Zenfone Max Pro M1 (X00TD) by NotHarshhaa
 ```
@@ -45,25 +46,26 @@ Asus Zenfone Max Pro M1 (X00TD) by NotHarshhaa
 ## - OnePlus Devices
 ```
 OnePlus 6T (fajita) by CR7Raees
+OnePlus 7 Pro (guacamole) by mhmdeveloper
 Oneplus 5 (cheeseburger) by MudabbirulSaad
 Oneplus 5T (dumpling) by MudabbirulSaad
-Oneplus 8 pro (instantnoodlep) by freesoul00(Mehdi)
+Oneplus 8 pro (instantnoodlep) by freesoul00
 Oneplus 9R (lemonades) by manid_reddy
 ```
 
-### - Lenovo Devices
+## - Lenovo Devices
 ```
 ```
 
-### - Nokia Devices
+## - Nokia Devices
 ```
 ```
 
-### - Meizu Devices
+## - Meizu Devices
 ```
 ```
 
-### - Other Devices
+## - Other Devices
 ```
 ```
 <!--END_SECTION:devices-->
