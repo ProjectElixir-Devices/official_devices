@@ -1,0 +1,5 @@
+This build you're receiving is ProjectElixir_3.1_veux-13.0-20220926-1358-BETA-OFFICIAL.zip
+
+Notes:
+Hotfix Update
+Fixes Zooming in images 
