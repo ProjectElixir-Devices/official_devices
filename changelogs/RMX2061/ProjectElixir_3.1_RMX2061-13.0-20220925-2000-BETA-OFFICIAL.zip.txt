@@ -1,9 +1,12 @@
-- Initial release
 - CTS passes by default
 - Selinux is Enforcing
-- Build is encrypted
+- Build is decrypted 
 - No need to flash Gapps (included)
 - Mostly everything works
+- Latest Falcon Kernel by @pri0818
+- Fixed Long booting time thx to @pri0818
+- Update Wifi Configs from C.23
+- Set Animatio Speed to 1.1 (previously 1.0)
 
 NOTE:- 
 - If you find any bugs tag me with logs.
