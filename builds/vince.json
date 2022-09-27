@@ -1,15 +1,15 @@
 {
   "error": false,
-  "filename": "ProjectElixir_3.0_vince-13.0-20220912-1406-BETA-OFFICIAL.zip",
-  "datetime": 1662991560,
-  "size": 1521073774,
-  "url": "https://private.projectelixiros.com/thirteen/vince/ProjectElixir_3.0_vince-13.0-20220912-1406-BETA-OFFICIAL.zip",
-  "filehash": "f630dc76c906216d267db71e799495c0",
+  "filename": "ProjectElixir_3.1_vince-13.0-20220926-1527-BETA-OFFICIAL.zip",
+  "datetime": 1664205794,
+  "size": 1539432879,
+  "url": "https://private.projectelixiros.com/thirteen/vince/ProjectElixir_3.1_vince-13.0-20220926-1527-BETA-OFFICIAL.zip",
+  "filehash": "6f66def206e5ccf6f1c119ee496a18a3",
   "version": "13.0",
-  "id": "17d78960ecd8add36d4d5149c6a912b0e05c586bb15c879c0cb59bb66dfffcdc",
+  "id": "61d27f1912a52adf7c3981f42d73d7e73d521b9fbd976a68ea321d8a0b7429d2",       
   "tg_username": "PrajjuS",
   "device_name": "Xiaomi Redmi 5 Plus/Note 5",
   "device": "vince",
   "xda_thread": "https://forum.xda-developers.com/t/official-13-0-tiramisu-project-elixir-for-redmi-5-plus-vince-rom-aosp-beta.4491279/",
-  "is_active": true
+  "is_active": true     
 }
