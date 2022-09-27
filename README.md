@@ -22,6 +22,7 @@ Redmi Note 7 Pro (violet) by ugly_kid_af
 Redmi Note 9 (merlinx) by Kaike
 Xiaomi Poco F1 (beryllium) by RahulGorai
 Xiaomi Redmi 5 Plus/Note 5 (vince) by PrajjuS
+Xiaomi Mi Note 10 Lite (toco) by DennisMurimiWachira
 ```
 
 ## - Realme Devices
