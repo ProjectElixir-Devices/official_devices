@@ -31,6 +31,7 @@ Realme 5 Pro (RMX1971) by kssrao13882
 Realme 6 Pro (RMX2061) by NEMESIS_99999
 Realme 7 Pro (RMX2170) by marshmello_61
 Realme GT Neo 2 (bitra) by SathamHussainM
+Realme X3/X3 SuperZOOM (x3) by patriot_235
 Realme X7 Max (RMX3031) by NishantKumar6342
 Realme XT (RMX1921) by dhruvesh_23
 ```
