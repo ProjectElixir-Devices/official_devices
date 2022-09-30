@@ -16,6 +16,7 @@ Poco M2 Pro/Redmi Note 9 Pro/Max/9s/10 Lite (miatoll) by Lopster_70
 Poco X3 Pro (vayu) by chandlerbigg
 Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) by Douxx_gang
 Redmi K40/POCO F3/Mi 11x (alioth) by theangelofdead01
+Redmi K40S/ POCO F4 (munch) by AR
 Redmi Note 10 Pro (sweet) by zaidkhan0997
 Redmi Note 11 Pro Plus/Poco X4 Pro (veux/peux) by jaswal_ashish11
 Redmi Note 7 Pro (violet) by ugly_kid_af
