@@ -12,24 +12,28 @@ Project Elixir is another aftermarket AOSP ROM which basically offers minimal UI
 <!--START_SECTION:devices-->
 ## - Xiaomi Devices
 ```
+Mi 10T/Pro (apollo) by mhmdeveloper
 Poco M2 Pro/Redmi Note 9 Pro/Max/9s/10 Lite (miatoll) by Lopster_70
+Poco M3 & Redmi 9T / 9 Power / Note 9 4G (chime) by imanigg
 Poco X3 Pro (vayu) by chandlerbigg
+Redmi 9 / Poco M2 (lava) by Kaike
 Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) by Douxx_gang
 Redmi K40/POCO F3/Mi 11x (alioth) by theangelofdead01
-Redmi K40S/ POCO F4 (munch) by AR
+Redmi K40S/ POCO F4 (munch) by SERENADE_ar
 Redmi Note 10 Pro (sweet) by zaidkhan0997
 Redmi Note 11 Pro Plus/Poco X4 Pro (veux/peux) by jaswal_ashish11
 Redmi Note 7 Pro (violet) by ugly_kid_af
+Redmi Note 7/7s (lavender) by AlCoptan99
 Redmi Note 9 (merlinx) by Kaike
+Xiaomi Mi Note 10 Lite (toco) by DennisMurimiWachira
 Xiaomi Poco F1 (beryllium) by RahulGorai
 Xiaomi Redmi 5 Plus/Note 5 (vince) by PrajjuS
-Xiaomi Mi Note 10 Lite (toco) by DennisMurimiWachira
 ```
 
 ## - Realme Devices
 ```
 Realme 5 Pro (RMX1971) by kssrao13882
-Realme 6 Pro (RMX2061) by NEMESIS_99999
+Realme 6 Pro (RMX2061) by mikaelsons_nik
 Realme 7 Pro (RMX2170) by marshmello_61
 Realme GT Neo 2 (bitra) by SathamHussainM
 Realme X3/X3 SuperZOOM (x3) by patriot_235
@@ -50,6 +54,7 @@ Asus Zenfone Max Pro M1 (X00TD) by NotHarshhaa
 ```
 OnePlus 6T (fajita) by CR7Raees
 OnePlus 7 Pro (guacamole) by mhmdeveloper
+OnePlus 7T (hotdogb) by Master & Saurav
 Oneplus 5 (cheeseburger) by MudabbirulSaad
 Oneplus 5T (dumpling) by MudabbirulSaad
 Oneplus 8 pro (instantnoodlep) by freesoul00
