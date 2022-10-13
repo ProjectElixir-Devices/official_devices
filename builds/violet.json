@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.1_violet-13.0-20220920-1252-BETA-OFFICIAL.zip",
-    "datetime": 1663677739,
-    "size": 1510157368,
-    "url": "https://private.projectelixiros.com/thirteen/violet/ProjectElixir_3.1_violet-13.0-20220920-1252-BETA-OFFICIAL.zip",
-    "filehash": "d14c80a7c212026f3a657e35627d3278",
+    "filename": "ProjectElixir_3.2_violet-13.0-20221012-1713-BETA-OFFICIAL.zip",
+    "datetime": 1665594613,
+    "size": 1512843281,
+    "url": "https://private.projectelixiros.com/thirteen/violet/ProjectElixir_3.2_violet-13.0-20221012-1713-BETA-OFFICIAL.zip",
+    "filehash": "15b41b2d9c91e13c94d3b406fd4588ed",
     "version": "13.0",
-    "id": "7d7339010ae527c2478a1a16b0b11c989ea326a9f7709bd23b32a39f92585868",
+    "id": "3f5679c852af138a7f54cfd3e0a0f7676eebe68c9d09d1adb598beec71461aec",       
     "tg_username": "ugly_kid_af",
     "device_name": "Redmi Note 7 Pro",
     "device": "violet",
     "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-violet-project-elixir-official-beta-aosp.4482075/",
-    "is_active": true
+    "is_active": true     
 }
