@@ -14,6 +14,7 @@ Project Elixir is another aftermarket AOSP ROM which basically offers minimal UI
 ```
 Mi 10T/Pro (apollo) by mhmdeveloper
 Xiaomi MI 11 Pro (mars) by Flower Sea
+Xiaomi MI 11 (venus) by Flower Sea
 Poco M2 Pro/Redmi Note 9 Pro/Max/9s/10 Lite (miatoll) by Lopster_70
 Poco M3 & Redmi 9T / 9 Power / Note 9 4G (chime) by imanigg
 Poco X3 Pro (vayu) by chandlerbigg
