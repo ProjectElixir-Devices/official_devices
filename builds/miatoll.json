@@ -1,15 +1,16 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.1_miatoll-13.0-20220923-0852-BETA-OFFICIAL.zip",
-    "datetime": 1663923002,
-    "size": 1662729872,
-    "url": "https://private.projectelixiros.com/thirteen/miatoll/ProjectElixir_3.1_miatoll-13.0-20220923-0852-BETA-OFFICIAL.zip",
-    "filehash": "c3e4e543bd1f3bf915c8a33cda5681db",
+    "filename": "ProjectElixir_3.2_miatoll-13.0-20221015-0620-BETA-OFFICIAL.zip",
+    "datetime": 1665814704,
+    "size": 1741856660,
+    "url": "https://private.projectelixiros.com/thirteen/miatoll/ProjectElixir_3.2_miatoll-13.0-20221015-0620-BETA-OFFICIAL.zip",
+    "filehash": "a908d0505cc746f204077bd1516f0741",
     "version": "13.0",
-    "id": "b31d0422c963366d509df9433131054c718224e384a687ff4a6b34a48fe5d98e",       
+    "id": "328164f44a61a57ad41a0a1aec7f7a6281249625f667db9351b19c37439ee70b",       
     "tg_username": "Lopster_70",
     "device_name": "Poco M2 Pro/Redmi Note 9 Pro/Max/9s/10 Lite",
     "device": "miatoll",
     "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-miatoll-project-elixir-official-beta-aosp.4488645/",
     "is_active": true     
 }
+
