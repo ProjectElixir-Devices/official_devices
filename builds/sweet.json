@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.1_sweet-13.0-20220920-2152-BETA-OFFICIAL.zip",
-    "datetime": 1663710602,
-    "size": 1959553558,
-    "url": "https://private.projectelixiros.com/thirteen/sweet/ProjectElixir_3.1_sweet-13.0-20220920-2152-BETA-OFFICIAL.zip",
-    "filehash": "3816cdb2dd159145d7a6766185074cc8",
+    "filename": "ProjectElixir_3.2_sweet-13.0-20221014-1034-BETA-OFFICIAL.zip",
+    "datetime": 1665743569,
+    "size": 1959079680,
+    "url": "https://private.projectelixiros.com/thirteen/sweet/ProjectElixir_3.2_sweet-13.0-20221014-1034-BETA-OFFICIAL.zip",
+    "filehash": "bb030b0fae8316ae7d7f98920bfb2276",
     "version": "13.0",
-    "id": "5eba0124c07d331d8c6dd8ff42f21c0df084f12e1150d2718c90b79341f68b53",
+    "id": "bfecf97c4bcf6044d802fb8e3e264f9b39ff6255103419cfbe12730a4e8ab0a5",       
     "tg_username": "zaidkhan0997",
     "device_name": "Redmi Note 10 Pro",
     "device": "sweet",
     "xda_thread": "https://forum.xda-developers.com/t/rom-13-sweet-project-elixir-official-thirteen-aosp-05-09-2022.4489275/",
-    "is_active": true
+    "is_active": true     
 }
