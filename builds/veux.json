@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.1_veux-13.0-20220926-1358-BETA-OFFICIAL.zip",
-    "datetime": 1664200530,
-    "size": 1768969941,
-    "url": "https://private.projectelixiros.com/thirteen/veux/ProjectElixir_3.1_veux-13.0-20220926-1358-BETA-OFFICIAL.zip",
-    "filehash": "c9d72ca51078eb6c2bb45092de1d3db0",
+    "filename": "ProjectElixir_3.2_veux-13.0-20221015-1339-BETA-OFFICIAL.zip",
+    "datetime": 1665841011,
+    "size": 1769572430,
+    "url": "https://private.projectelixiros.com/thirteen/veux/peux/ProjectElixir_3.2_veux-13.0-20221015-1339-BETA-OFFICIAL.zip",
+    "filehash": "2ab0c74a5f60b8cf1717e22e0e0d9b8b",
     "version": "13.0",
-    "id": "0b66ba4280d385343f7f0866a1c92662f92a5e390c95192d8330c08913dadf4e",
+    "id": "8616224ae2e018bde93eac6f67746005a7dec0cba6bbe5268cd4d60ca7a801fb",       
     "tg_username": "jaswal_ashish11",
     "device_name": "Redmi Note 11 Pro Plus/Poco X4 Pro",
     "device": "veux/peux",
     "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-veux-peux-project-elixir-beta-redmi-note-11-pro-plus-poco-x4-pro-aosp.4486829/",
-    "is_active": true
+    "is_active": true     
 }
