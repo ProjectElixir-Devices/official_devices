@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.1_merlinx-13.0-20220922-0612-BETA-OFFICIAL.zip",
-    "datetime": 1663826675,
-    "size": 1723480889,
-    "url": "https://private.projectelixiros.com/thirteen/merlinx/ProjectElixir_3.1_merlinx-13.0-20220922-0612-BETA-OFFICIAL.zip",
-    "filehash": "6f0519782e389679dedde0928ffe33b1",
+    "filename": "ProjectElixir_3.2_merlinx-13.0-20221015-2049-BETA-OFFICIAL.zip",
+    "datetime": 1665866709,
+    "size": 1792712758,
+    "url": "https://private.projectelixiros.com/thirteen/merlinx/ProjectElixir_3.2_merlinx-13.0-20221015-2049-BETA-OFFICIAL.zip",
+    "filehash": "ff881e1f6d3d2315d5e00be6c86b87be",
     "version": "13.0",
-    "id": "ff49a4726e74c22d159b6745d1d3dc1a62f90c1b16f44883914b8f5efbbc93b9",
+    "id": "4c9d8054efb1453cc94a4ff7dc1de4d170a6c5ecf90d66d52373631691461fbd",       
     "tg_username": "Kaike",
     "device_name": "Redmi Note 9",
     "device": "merlinx",
     "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-official-project-elixir-redmi-note-9-merlinx.4487167/",
-    "is_active": true
+    "is_active": true     
 }
