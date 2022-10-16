@@ -1,15 +1,15 @@
-{   
-	"error": false,    
-	"filename": "ProjectElixir_3.1_RMX2170-13.0-20220926-1551-BETA-OFFICIAL.zip",
-    "datetime": 1664207114,
-    "size": 1971990702,
-    "url": "https://private.projectelixiros.com/thirteen/RMX2170/ProjectElixir_3.1_RMX2170-13.0-20220926-1551-BETA-OFFICIAL.zip",
-    "filehash": "3cbc1de0c4574d72f82615f15b7a480e",
+{
+    "error": false,
+    "filename": "ProjectElixir_3.2_RMX2170-13.0-20221016-1408-BETA-OFFICIAL.zip",
+    "datetime": 1665929179,
+    "size": 1972501312,
+    "url": "https://private.projectelixiros.com/thirteen/RMX2170/ProjectElixir_3.2_RMX2170-13.0-20221016-1408-BETA-OFFICIAL.zip",
+    "filehash": "6bee833bb2d9c0acfe87b7cec2aa9282",
     "version": "13.0",
-    "id": "dcc5eda798d3e6cc3605a050de10645858c45690542cc9a7c8ab1a8b55f5325b",
-    "tg_username": "marshmello_61",    
-    "device_name": "Realme 7 Pro",    
+    "id": "5e51bd3fd814ec5db1ad33a2778aeb06e8638a07efe4b1dbbc4e3ffc3c83d6e0",       
+    "tg_username": "marshmello_61",
+    "device_name": "Realme 7 Pro",
     "device": "RMX2170",
     "xda_thread": "https://forum.xda-developers.com/t/android-13-rmx2170-project-elixir-for-realme-7-pro-official.4487083/",
-    "is_active": true
+    "is_active": true     
 }
