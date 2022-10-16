@@ -1,0 +1,2 @@
+- Alert Slider fix.
+- October security patch.

@@ -1,5 +1,0 @@
-- GPS updated blobs.
-- Improved stereo sound recording volume.
-- x-kernel inlined.
-- DotFix 6.3 inlined.
-- many more.
