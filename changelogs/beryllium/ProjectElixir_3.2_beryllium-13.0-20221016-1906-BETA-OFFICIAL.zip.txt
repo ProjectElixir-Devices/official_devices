@@ -1,0 +1,8 @@
+- Updated IMS, RIL, DPM, QMI, CNE blobs.
+- Fixed issue with Bluetooth.
+- Updated radio hal.
+- Imported new parts.
+- Hifi added in dirac.
+- Updated smart scene.
+- Fixed UI of thermal profiles.
+- Switched to stock powerhint.
