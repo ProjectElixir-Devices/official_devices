@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.1_alioth-13.0-20220925-1838-BETA-OFFICIAL.zip",
-    "datetime": 1664149080,
-    "size": 1833993608,
-    "url": "https://private.projectelixiros.com/thirteen/alioth/ProjectElixir_3.1_alioth-13.0-20220925-1838-BETA-OFFICIAL.zip",
-    "filehash": "43466ef2e0bf5c821dae716d7258e588",
+    "filename": "ProjectElixir_3.2_alioth-13.0-20221019-1658-BETA-OFFICIAL.zip",
+    "datetime": 1666198678,
+    "size": 1839797808,
+    "url": "https://private.projectelixiros.com/thirteen/alioth/ProjectElixir_3.2_alioth-13.0-20221019-1658-BETA-OFFICIAL.zip",
+    "filehash": "ff01e1412b705a5d29867b754c89f417",
     "version": "13.0",
-    "id": "6cd530d3c7e6c5bce8941b7f6af883b8003c06e8e34f082de9b28530e1c44ca6",
+    "id": "e80d580eb7767622ff5beb2102e929af3eca12f55cca259ff4b139173a4404f8",       
     "tg_username": "theangelofdead01",
     "device_name": "Redmi K40/POCO F3/Mi 11x",
     "device": "alioth",
     "xda_thread": "https://forum.xda-developers.com/t/android-13-alioth-project-elixir-for-poco-f3-official.4488415/",
-    "is_active": true
+    "is_active": true   
 }
