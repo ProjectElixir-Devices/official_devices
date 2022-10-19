@@ -1,0 +1,7 @@
+Bring up to Elixir 3.2
+
+Update to last N0Kernel and build with Clang-16
+Add proper rounded corners config 
+Tweaks on sound and dolby
+Tweaks on powerhint
+Add "Turbo Charger" overlay
