@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.1_toco-13.0-20220927-0208-BETA-OFFICIAL.zip",
-    "datetime": 1664244394,
-    "size": 2059873086,
-    "url": "https://private.projectelixiros.com/thirteen/toco/ProjectElixir_3.1_toco-13.0-20220927-0208-BETA-OFFICIAL.zip",
-    "filehash": "3529d12125fb31d6679af0502447826b",
+    "filename": "ProjectElixir_3.2_toco-13.0-20221020-1134-BETA-OFFICIAL.zip",
+    "datetime": 1666265566,
+    "size": 2086994063,
+    "url": "https://private.projectelixiros.com/thirteen/toco/ProjectElixir_3.2_toco-13.0-20221020-1134-BETA-OFFICIAL.zip",
+    "filehash": "275cd9e1e6399669b7dc7bb5447f4c38",
     "version": "13.0",
-    "id": "7e637a9ab6fb2e05a3d0ddd61ee12e095a605e0437b6426048251ea76a88bad7",       
+    "id": "d07ce036fd934548b9fc83c6f20248ce6ea9620d78cb868f60aec2da8520b81b",       
     "tg_username": "DennisMurimiWachira",
     "device_name": "Xiaomi Mi Note 10 Lite",
     "device": "toco",
-    "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-toco-official-project-elixir-3-1.4498763/",
+    "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-toco-official-project-elixir-3-x.4498763/",
     "is_active": true     
 }
