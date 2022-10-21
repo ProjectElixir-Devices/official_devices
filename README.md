@@ -43,7 +43,8 @@ Realme GT Neo 2 (bitra) by SathamHussainM
 Realme X3/X3 SuperZOOM (x3) by patriot_235
 Realme X7 Max (RMX3031) by NishantKumar6342
 Realme XT (RMX1921) by dhruvesh_23
-realme GT Master (RMX3360) by itsXRP
+Realme GT Master (RMX3360) by itsXRP
+Realme 8i/Narzo 50 (RMX3151/RMX3286) by rk134
 ```
 
 ## - Samsung Devices
