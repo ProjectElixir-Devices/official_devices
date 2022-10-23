@@ -13,6 +13,7 @@ Project Elixir is another aftermarket AOSP ROM which basically offers minimal UI
 ## - Xiaomi Devices
 ```
 Mi 10T/Pro (apollo) by mhmdeveloper
+Poco F2 Pro/Redmi K30 Pro (lmi) by ZenkaBestia
 Poco M2 Pro/Redmi Note 9 Pro/Max/9s/10 Lite (miatoll) by Lopster_70
 Poco M3 & Redmi 9T / 9 Power / Note 9 4G (chime) by imanigg
 Poco X3 Pro (vayu) by chandlerbigg
@@ -21,10 +22,12 @@ Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) by Douxx_gang
 Redmi K40/POCO F3/Mi 11x (alioth) by theangelofdead01
 Redmi K40S/ POCO F4 (munch) by SERENADE_ar
 Redmi Note 10 Pro (sweet) by zaidkhan0997
+Redmi Note 11 (spes) by smokey_18
 Redmi Note 11 Pro Plus/Poco X4 Pro (veux/peux) by jaswal_ashish11
 Redmi Note 4 (mido) by smokey_18
 Redmi Note 7 Pro (violet) by ugly_kid_af
 Redmi Note 7/7s (lavender) by AlCoptan99
+Redmi Note 8/8T (ginkgo) by WeeboDemon
 Redmi Note 9 (merlinx) by Kaike
 Xiaomi 11 (venus) by Flower0208
 Xiaomi 11 Pro (mars) by Flowers0208
@@ -40,11 +43,11 @@ Realme 5 Series (r5x) by AMRITOOOO
 Realme 6 Pro (RMX2061) by mikaelsons_nik
 Realme 7 Pro (RMX2170) by marshmello_61
 Realme GT Neo 2 (bitra) by SathamHussainM
+Realme Narzo 50/Realme 8i (spaced) by rk_134
 Realme X3/X3 SuperZOOM (x3) by patriot_235
 Realme X7 Max (RMX3031) by NishantKumar6342
 Realme XT (RMX1921) by dhruvesh_23
-Realme GT Master (RMX3360) by itsXRP
-Realme 8i/Narzo 50 (RMX3151/RMX3286) by rk134
+realme GT Master (RMX3360) by itsXRP
 ```
 
 ## - Samsung Devices
