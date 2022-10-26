@@ -1,0 +1,7 @@
+- Removed GcamGo
+- Added MIUI Camera (64 MP Mode is broken)
+- Switched to RealKing Kernel
+- Kernel built with clang 15.0.3 
+- Audio Improvement | Force 24-Bit Audio with 48000 | 96000 (Khz)
+- Switched to AOSP Dialer 
+- Other Under the hood improvements.
