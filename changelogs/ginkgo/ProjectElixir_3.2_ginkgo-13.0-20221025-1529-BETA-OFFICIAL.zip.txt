@@ -1,0 +1,4 @@
+- Fixed Screen Flickering in some apps.
+- Fixed Screen Record.
+- Sync with latest source.
+- Misc changes underhood.
