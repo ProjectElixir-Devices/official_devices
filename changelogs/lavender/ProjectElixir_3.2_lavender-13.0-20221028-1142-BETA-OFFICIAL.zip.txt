@@ -1,0 +1,5 @@
+Fixed CTS fail problem
+Debloated some gapps problem
+Fixed night light & extra dim
+Adjusted Statusbar Padding
+Updated some blobs
