@@ -1,0 +1,4 @@
+- Initial release
+- CTS passes by default
+- Selinux is Enforcing
+- Everything works fine 
