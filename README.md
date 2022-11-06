@@ -18,6 +18,7 @@ Poco M2 Pro/Redmi Note 9 Pro/Max/9s/10 Lite (miatoll) by Lopster_70
 Poco M3 & Redmi 9T / 9 Power / Note 9 4G (chime) by imanigg
 Poco X3 Pro (vayu) by chandlerbigg
 Redmi 9 / Poco M2 (lava) by Kaike
+Redmi K20 Pro (raphael) by pallavjparikh
 Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) by Douxx_gang
 Redmi K40/POCO F3/Mi 11x (alioth) by theangelofdead01
 Redmi K40S/ POCO F4 (munch) by SERENADE_ar
@@ -30,7 +31,8 @@ Redmi Note 7/7s (lavender) by AlCoptan99
 Redmi Note 8/8T (ginkgo) by WeeboDemon
 Redmi Note 9 (merlinx) by Kaike
 Xiaomi 11 (venus) by Flower0208
-Xiaomi 11 Pro (mars) by Flowers0208
+Xiaomi 11 Pro (mars) by Flower0208
+Xiaomi Mi A1 (tissot) by ugly_kid_af
 Xiaomi Mi Note 10 Lite (toco) by DennisMurimiWachira
 Xiaomi Poco F1 (beryllium) by RahulGorai
 Xiaomi Redmi 5 Plus/Note 5 (vince) by PrajjuS
