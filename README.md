@@ -24,7 +24,7 @@ Redmi K40/POCO F3/Mi 11x (alioth) by theangelofdead01
 Redmi K40S/ POCO F4 (munch) by SERENADE_ar
 Redmi Note 10 Pro (sweet) by zaidkhan0997
 Redmi Note 11 (spes) by smokey_18
-Redmi Note 11 Pro Plus/Poco X4 Pro (veux/peux) by jaswal_ashish11
+Redmi Note 11 Pro Plus/Poco X4 Pro (veux) by jaswal_ashish11
 Redmi Note 4 (mido) by smokey_18
 Redmi Note 7 Pro (violet) by ugly_kid_af
 Redmi Note 7/7s (lavender) by AlCoptan99
