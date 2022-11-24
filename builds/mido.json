@@ -1,15 +1,15 @@
-{
+{   
     "error": false,
-    "filename": "ProjectElixir_3.2_mido-13.0-20221013-0842-BETA-OFFICIAL.zip",
-    "datetime": 1665650447,
-    "size": 1270363335,
-    "url": "https://private.projectelixiros.com/thirteen/mido/ProjectElixir_3.2_mido-13.0-20221013-0842-BETA-OFFICIAL.zip",
-    "filehash": "8a53325452310021d81f3cef416ef283",
+    "filename": "ProjectElixir_3.3_mido-13.0-20221121-1859-OFFICIAL.zip",
+    "datetime": 1669057140,
+    "size": 1334024785,
+    "url": "https://private.projectelixiros.com/thirteen/mido/ProjectElixir_3.3_mido-13.0-20221121-1859-OFFICIAL.zip",
+    "filehash": "ff0a562756f6b93204e3586077ece40d",
     "version": "13.0",
-    "id": "baae9f66655c76efb0349d467adf955d0b605d50a43c505d5441392daf6b0540",       
+    "id": "ec42fedab0b53343b2558e72792ae8728ac50e8572af41af9f197fb722377fb7",
     "tg_username": "smokey_18",
     "device_name": "Redmi Note 4",
     "device": "mido",
     "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-mido-project-elixir-official-aosp.4505033/",
-    "is_active": true     
+    "is_active": true
 }
