@@ -1,0 +1,6 @@
+S Vendor Build
+Selinux is Enforcing
+Updated Blobs from Miui 13.0.2 Global
+Bump ZRAM size to 75%
+November Security Patch
+A lot of fixes, check source changelog!
