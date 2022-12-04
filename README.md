@@ -64,6 +64,7 @@ Asus Zenfone Max Pro M1 (X00TD) by NotHarshhaa
 ## - OnePlus Devices
 ```
 OnePlus 6T (fajita) by CR7Raees
+OnePlus 7 (guacamoleb) by ugly_kid_af
 OnePlus 7 Pro (guacamole) by mhmdeveloper
 OnePlus 7T (hotdogb) by Master & Saurav
 OnePlus Nord2 5G (denniz) by SakilMondal
@@ -87,6 +88,7 @@ Oneplus 9R (lemonades) by manid_reddy
 
 ## - Other Devices
 ```
+Nothing Phone (1) (Spacewar) by NotHarshhaa
 ```
 <!--END_SECTION:devices-->
 
