@@ -1,0 +1,7 @@
+- Switched back to Xcalibur️ kernel
+- violet: parts: Adapt to A13 QPR-1
+- Build Aperture Cam app
+- violet: overlay: Compact cached app heaps in the background 
+- violet: Compile HWUI for performance 
+- violet: Enable use of dedicated device for voip
+- Misc changes and fixes 
