@@ -1,0 +1,10 @@
+## haydn 3.4 Update
+
+- Fixed Android Auto related issues.
+- haydn: rootdir: Chown the cgroup.procs nodes.
+- haydn: Enable video pause workaround for video calling.
+- haydn: Import more video calls related props.
+- haydn: sepolicy: Label some RIL property.
+- haydn: Enable zygote critical window.
+- haydn: Disable hwc vds in surface flinger.
+- Plus more Under the hood changes.
