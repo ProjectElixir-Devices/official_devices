@@ -1,0 +1,9 @@
+## haydn 3.4 
+
+- Fixed issues related Android Auto.
+- haydn: Import more video calls related props
+- haydn: sepolicy: Label some RIL property. 
+- haydn: Enable zygote critical window.
+- haydn: Disable hwc vds in surface flinger. 
+- haydn: rootdir: Chown the cgroup.procs nodes.
+- And some under the hood changes.
