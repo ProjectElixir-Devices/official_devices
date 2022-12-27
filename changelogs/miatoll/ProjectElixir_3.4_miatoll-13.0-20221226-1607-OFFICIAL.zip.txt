@@ -1,0 +1,7 @@
+### Project Elixir for Miatoll Changelogs
+
+### v3.4 MIATOLL
+
+- December security patch
+- CTS passes by default
+
