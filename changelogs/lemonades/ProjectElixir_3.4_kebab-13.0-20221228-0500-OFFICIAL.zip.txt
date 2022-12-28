@@ -1,0 +1,8 @@
+- Initial Build
+- Selinux is Enforcing
+- Build is encrypted
+- CTS passes and banking apps working
+- No need to flash gapps (included)
+- Moved to OOS13 Based
+- Moved to EROFS bases system
+- Fixed OPlus Extras Padding
