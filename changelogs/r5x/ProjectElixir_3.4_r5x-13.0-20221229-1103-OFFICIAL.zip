@@ -1,0 +1,16 @@
+### Project Elixir for Realme 5 Series (r5x) Changelogs
+
+
+### Elixir Version 3.4
+
+- Added Aperture Camera And Enabled Aux
+- Disable sched_conservative_pl Boosting
+- Addressed Some Hardware Denials
+- Fixed Offline Charging On all device (5/5i/5s/5NFC)
+- Imported Dolby Atmos from OnePlus 9R
+- Fixed Screen Cast 
+- Added Config Inherit several Android Go configurations
+- Enabled DEXPREOPT_SPEED_APPS
+- Disabled per_app_memcg
+- Enabled zygote critical window
+- Misc. Fixes and Improvements
