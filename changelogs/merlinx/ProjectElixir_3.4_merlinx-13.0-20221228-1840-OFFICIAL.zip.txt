@@ -1,0 +1,6 @@
+- R vendor build 
+- Fixed EBPF Problems 
+- Rebased new device tree, thanks to mati and ben 
+- December security patch 
+- CLEAN FLASH mandatory
+- No need to flash gapps (included)
