@@ -1,0 +1,4 @@
+- Initial A13 build.
+- Use latest vantom kernel 
+
+Kindly note this build isn't erofs build so you can use dfe if you wants
