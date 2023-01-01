@@ -37,6 +37,7 @@ try:
     PRIV_CHAT_ID = getConfig("PRIV_CHAT_ID")
     STICKER_ID =  getConfig("STICKER_ID")
     BANNER_URL = getConfig("BANNER_URL_T")
+    ELIXIR_VERSION_CHECK = getConfig("ELIXIR_VERSION_CHECK")
 except KeyError:
     print("Fill all the configs plox..\nExiting...")
     exit(0)
@@ -220,26 +221,23 @@ def get_devices():
                     "device_name": data['device_name'],
                     "codename": data['device'],
                     "maintainer": data['tg_username'],
-                    "datetime": int(data['datetime'])
+                    "elixir_version": data['filename'][14:17]
                 })
     return devices
 
 # Prepare log format for private group
 def tg_log():
-    current_month = datetime.date.today().month
-    current_year = datetime.date.today().year
-    month_start = datetime.datetime(current_year, current_month, 1, 0, 0, 1)
     Updated = []
     YetToUpdate = []
     for device in get_devices():
-        if int(device['datetime']) > month_start.timestamp():
+        if device['elixir_version'] == ELIXIR_VERSION_CHECK:
             Updated.append(device)
         else:
             YetToUpdate.append(device)
     count = 1
     msg = ""
     msg += f"<b>Project Elixir Devices Tiramisu Update Status</b>\n\n"
-    msg += f"<b>The following devices have been updated in the current month</b> <code>(after {str(month_start)} hours)</code><b>:</b> "
+    msg += f"<b>The following devices have been updated to the version</b> <code>{ELIXIR_VERSION_CHECK}</code> <b>in the current month:</b> "
     if len(Updated) == 0:
         msg += f"<code>None</code>"
     else:
@@ -248,7 +246,7 @@ def tg_log():
             count += 1
     msg += "\n\n"
     count = 1
-    msg += f"<b>The following devices have not been updated in the current month:</b> "
+    msg += f"<b>The following devices have not been updated to the version</b> <code>{ELIXIR_VERSION_CHECK}</code> <b>in the current month:</b> "
     if len(YetToUpdate) == 0:
         msg += f"<code>None</code>"
     else:

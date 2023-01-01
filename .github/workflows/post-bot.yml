@@ -14,6 +14,7 @@ env:
   BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
   CHAT_ID: ${{ secrets.CHAT_ID }}
   PRIV_CHAT_ID: ${{ secrets.PRIV_CHAT_ID }}
+  ELIXIR_VERSION_CHECK: ${{ secrets.ELIXIR_VERSION_CHECK }}
   STICKER_ID: ${{ secrets.STICKER_ID }}
   BANNER_URL_T: ${{ secrets.BANNER_URL_T }}
   NOTES: ${{ secrets.NOTES }}
