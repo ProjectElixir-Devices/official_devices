@@ -1,3 +1,4 @@
+******* CLEAN FLASH IS MUST FOR THIS VERSION *****
 - Based on January Security Patch
 - Fixed video playback tinting issue in apps like Instagram
 - Fixed boot animation lags/freezes
