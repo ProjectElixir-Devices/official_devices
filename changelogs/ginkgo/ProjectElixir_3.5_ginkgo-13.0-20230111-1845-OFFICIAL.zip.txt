@@ -1,0 +1,5 @@
+January 5th, 2023 Security Patch.
+Enabled aux camera support with Aparture Camera.
+Removed hidl base 1.0 dependency from trinket camera hal.
+Fixed some application crashes.
+Source Upsteam & misc changes.
