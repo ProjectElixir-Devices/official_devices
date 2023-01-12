@@ -1,6 +1,5 @@
 - Included stable MiuiCamera as default camera
 - Improved charging speed
-- Updated radio to v1.5 (Sim enable/disable option is unlocked now)
+- Updated radio to v1.5 aka Sim enable/disable option is unlocked now)
 - Full base tree and cleanup
-- Misc changes and fixes
-~                        
+- Misc changes and fixes               
