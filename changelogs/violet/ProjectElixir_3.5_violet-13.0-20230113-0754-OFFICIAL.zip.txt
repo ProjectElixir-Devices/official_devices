@@ -1,3 +1,4 @@
+- Fixed weird glitches in Instagram reels
 - Included stable MiuiCamera as default camera
 - Improved charging speed
 - Updated radio to v1.5 aka Sim enable/disable option is unlocked now)
