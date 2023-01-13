@@ -1,2 +1,0 @@
-- December security patch.
-- November features.
