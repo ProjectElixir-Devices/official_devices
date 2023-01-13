@@ -1,4 +1,0 @@
-# v3.4
-- December security patch.
-- November features.
-- [BUG] Flashlight.
