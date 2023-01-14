@@ -1,0 +1,5 @@
+- Disable skia tracing by default
+- DeviceSettings: Adjust fps overlay
+- DeviceSettings: Update clear speaker audio from MIUI 12
+- Rootdir: Add offline charging LED indicator
+- Rootdir: Stop bootanimation service after boot
