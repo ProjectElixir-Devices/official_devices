@@ -1,16 +1,17 @@
 <p align="center">
-  <img src="https://i.imgur.com/C0Wcdr5.png" />
+  <img src="https://i.imgur.com/po2OKNU.png" />
 </p>
 
+### Welcome to the Project 𝓔𝓵𝓲𝔁𝓲𝓻 - Device ORG /////////////// 
 
-### Project Elixir [![Download Project Elixir](https://img.shields.io/sourceforge/dt/project-elixir.svg)](https://sourceforge.net/projects/project-elixir/files/twelve/)
+Project Elixir basically offers a premium minimal UI enhancement & close to Stock Android ROM with great performance, security and stability. Your experience while using our ROM will be buttery smooth without compromising the quality of the Android experience. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. 
 
-Project Elixir is another aftermarket AOSP ROM which basically offers minimal UI enhancement & close to Stock Android ROM with great performance, security and stability. Most of the OEMs' these days will provide slow and untimely updates, but we don't do that here. We closely follow Google to bring the latest updates to our users, and even prolong support for devices that have been declared obsolete by OEMs. Our ROMs' source code is open-source, secure, stable, and outstanding. Your experience while using Project Elixir will be butter smooth without compromising the quality of the Android experience. In short, it's perfectly balanced between Great Performance, Security, stability, minimal UI & awesome features including pixel goodies. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. 
+[![Download Project Elixir [Custom ROM]](https://img.shields.io/sourceforge/dm/project-elixir.svg)](https://projectelixiros.com/download) <img src="https://komarev.com/ghpvc/?username=Project-Elixir&style=flat-square" alt="Project-Elixir" />  [![Download Project Elixir [Custom ROM]](https://img.shields.io/sourceforge/dt/project-elixir.svg)](https://projectelixiros.com/download) 
 
-### - OFFICIAL MAINTAINERS OF Project Elixir
+### OFFICIAL Maintainers of Project Elixir
 
 <!--START_SECTION:devices-->
-## - Xiaomi Devices
+### - Xiaomi Devices
 ```
 Mi 10T/Pro (apollo) by mhmdeveloper
 Poco F2 Pro/Redmi K30 Pro (lmi) by ZenkaBestia
@@ -38,7 +39,7 @@ Xiaomi Poco F1 (beryllium) by RahulGorai
 Xiaomi Redmi 5 Plus/Note 5 (vince) by PrajjuS
 ```
 
-## - Realme Devices
+### - Realme Devices
 ```
 Realme 5 Pro (RMX1971) by kssrao13882
 Realme 5 Series (r5x) by AMRITOOOO
@@ -52,16 +53,16 @@ Realme XT (RMX1921) by dhruvesh_23
 realme GT Master (RMX3360) by itsXRP
 ```
 
-## - Samsung Devices
+### - Samsung Devices
 ```
 ```
 
-## - Asus Devices
+### - Asus Devices
 ```
 Asus Zenfone Max Pro M1 (X00TD) by NotHarshhaa
 ```
 
-## - OnePlus Devices
+### - OnePlus Devices
 ```
 OnePlus 6T (fajita) by CR7Raees
 OnePlus 7 (guacamoleb) by ugly_kid_af
@@ -74,57 +75,79 @@ Oneplus 8 pro (instantnoodlep) by freesoul00
 Oneplus 9R (lemonades) by manid_reddy
 ```
 
-## - Lenovo Devices
+### - Lenovo Devices
 ```
 ```
 
-## - Nokia Devices
+### - Nokia Devices
 ```
 ```
 
-## - Meizu Devices
+### - Meizu Devices
 ```
 ```
 
-## - Other Devices
+### - Nothing Devices
 ```
 Nothing Phone (1) (Spacewar) by NotHarshhaa
 ```
 <!--END_SECTION:devices-->
 
-### Maintainership 
+### Some important links below
+* [**Maintainers Requirements**](https://projectelixiros.com/documentation)
+* [**Device Requirements**](https://projectelixiros.com/documentation)
+* [**Apply for Maintainership**](https://docs.google.com/forms/d/1eme8i0nXFNpv2fEfbskoANIwLUGy4KcYXssluWv6obE)
+* [**XDA Template**](https://raw.githubusercontent.com/Project-Elixir/docs/Tiramisu/xda_template.txt)
 
-You must fulfill the following requirements before applying:
+<br>
 
-- [Maintainers requirements](https://projectelixiros.com/documentation)
+<p align="center">
+  <img src="https://i.imgur.com/3ptBcpR.png" />
+</p>
 
-- [Device requirements](https://projectelixiros.com/documentation)
+### Official Support Group & Channel
+ * [**Elixir Telegram Channel**](https://telegram.me/Elixir_Updates)
+ * [**Elixir Telegram Group**](https://telegram.me/Elixir_Discussion)
+ 
+Have you joined it already? Okay, good. Now if you need to contact us, well, you may ask in our [**Telegram**](https://telegram.me/Elixir_Discussion) Support Group, ~~we may or may not answer.~~
+ 
+ ### Official Website and Downloads
+ * [**Elixir Website**](https://projectelixiros.com/)
+ * [**Elixir Team**](https://projectelixiros.com/team)
+ * [**Elixir Downloads**](https://projectelixiros.com/download)
+ * [**Elixir Changelog**](https://projectelixiros.com/changelog)
 
-### XDA 
 
-- [XDA Template is Here](https://projectelixiros.com/documentation)
+### Crowdin for Project Elixir
+ * [**Elixir Crowdin**](https://crowdin.com/profile/ProjectElixir)
 
-### Adding Support
+### Contact on Emergency
+* [**Saurav - Founder/lead Dev**](https://telegram.me/ugly_kid_af) - [**[Github Profile]**](https://github.com/ugly-kid-af)
 
-- For adding your device to the list of OFFICIALLY supported devices, you need to [**Fill the form & Apply for Maintainership**](https://projectelixiros.com/documentation) and fulfil the [**Maintainership requirement**](https://projectelixiros.com/documentation). Also you can contact us on Telegram profiles below.
+For urgent need feel free to contact us on provided links. And for personal build request, patreon, donation, suggestions, sponsor, personal device support join telegram group or respective platform like patreon chat. Don't PM unnecessarily !!
 
-### Follow  us for more
+<br>
 
- * [**Telegram Announcements Channel**](https://t.me/Elixir_Updates)
- * [**Our OFFICIAL Website**](https://projectelixiros.com/)
- * [**Our Team**](https://projectelixiros.com/team)
- * [**Currently supported devices**](https://projectelixiros.com/download)
- * [**Changelog**](https://projectelixiros.com/changelog)
- * [**Telegram Discussion Group**](https://t.me/Elixir_Discussion)
+<p align="center">
+  <img src="https://i.imgur.com/Oe2dGbl.png" />
+</p>
 
-### Do consider donating or buying me a coffee on Paypal if you want to appreciate our work or join us on Patreon for sustainable support and early build access.
-
-```bash
-Patreon : https://www.patreon.com/join/uglykid24
+- UPI ID :  
 ```
-```bash
-GPAY UPI ID: dwarmachine24@oksbi
+dwarmachine24@oksbi
 ```
-```bash
-PAYPAL: https://www.paypal.me/uglykid24
+
+- Bitcoin (BTC):  
 ```
+3Pm6JtwqCuTfKe1Szn23C8ZutF32eFtzf9
+```
+
+- PayPal: https://www.paypal.me/uglykid24
+- Get early build access: https://www.patreon.com/join/uglykid24
+- Buy me a coffee: https://www.buymeacoffee.com/Uglykid/membership
+
+<br>
+
+<p align="center">
+  <img src="https://i.imgur.com/EtbsAyn.png" />
+</p>
