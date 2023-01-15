@@ -1,15 +1,15 @@
 {
-    "error": false,
-    "filename": "ProjectElixir_3.3_vayu-13.0-20221127-1126-OFFICIAL.zip",
-    "datetime": 1669548360,
-    "size": 2129028426,
-    "url": "https://private.projectelixiros.com/thirteen/vayu/ProjectElixir_3.3_vayu-13.0-20221127-1126-OFFICIAL.zip",
-    "filehash": "82d5e087249d4e01aa9cb9129b866def",
-    "version": "13.0",
-    "id": "2f38daaf4b46e60576edaf56543bb74f9c5d8138c13c1a0a94ce0abb3b9277ea",       
-    "tg_username": "chandlerbigg",
-    "device_name": "Poco X3 Pro",
-    "device": "vayu",
-    "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-vayu-project-elixir-official-aosp.4489435/",
-    "is_active": false     
+  "error": false,
+  "filename": "ProjectElixir_3.5_vayu-13.0-20230112-0908-OFFICIAL.zip",
+  "datetime": 1673514480,
+  "size": 2079360862,
+  "url": "https://private.projectelixiros.com/thirteen/vayu/ProjectElixir_3.5_vayu-13.0-20230112-0908-OFFICIAL.zip",
+  "filehash": "e1e91068ee7500bc202a394f4018f52d",
+  "version": "13.0",
+  "id": "ff0db929d97efc349c4aeb73a1a2a3d3995642016d07d71e1a91f9fdccf9076b",
+  "tg_username": "chandlerbigg",
+  "device_name": "Poco X3 Pro",
+  "device": "vayu",
+  "xda_thread": "https://forum.xda-developers.com/t/4489435/",
+  "is_active": true
 }

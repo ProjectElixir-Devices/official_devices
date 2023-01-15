@@ -1,0 +1,8 @@
+ - Drop IO prefetcher
+ - Drop QTI Perfd
+ - Migrate from QTI to Xiaomi power HAL
+ - Update default bluetooth name from model number to product name
+ - Enable Zygote critical window
+ - Add magisk hide props, banking apps that did not work before and recognized  - Magisk being installed now don't recognize that and work just fine
+ - Updated blobs from miui_VAYUGlobal_V13.0.5.0.SJUMIXM
+ - Included some smoothness tweaks
