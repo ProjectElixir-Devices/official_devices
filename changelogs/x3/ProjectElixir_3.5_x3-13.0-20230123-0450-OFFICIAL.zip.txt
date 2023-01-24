@@ -1,0 +1,10 @@
+- Gapps build 
+- January security patch
+- Safetynet passes out of the box
+- disable force encryption
+- Merged with latest CAF tag
+- Some kernel tweaks
+- Switch to trb clang
+- increase Doze Brightness
+- Overall stability improvement 
+
