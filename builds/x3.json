@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.1_x3-13.0-20220929-0013-BETA-OFFICIAL.zip",
-    "datetime": 1664410285,
-    "size": 1482859373,
-    "url": "https://private.projectelixiros.com/thirteen/x3/ProjectElixir_3.1_x3-13.0-20220929-0013-BETA-OFFICIAL.zip",
-    "filehash": "04631e8b5768ca33e9fb3f737f4c2afe",
+    "filename": "ProjectElixir_3.5_x3-13.0-20230123-0450-OFFICIAL.zip",
+    "datetime": 1674449400,
+    "size": 2532582151,
+    "url": "https://private.projectelixiros.com/thirteen/x3/ProjectElixir_3.5_x3-13.0-20230123-0450-OFFICIAL.zip",
+    "filehash": "cde0db553422434b35361f10919727f3",
     "version": "13.0",
-    "id": "c1f1adf69a11d3fa53db55b1fd83972b462c6de783aded72114c2037c1ee2f25",
-    "tg_username": "patriot_235",
+    "id": "02c71d4b4ed593fbeb419bf5002b6afe39dd7aeae65fa51ee1cf12f15435d3f4",
+    "tg_username": "Ak",
     "device_name": "Realme X3/X3 SuperZOOM",
     "device": "x3",
-    "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-rmx2081-project-elixir-official-unified-aosp.4499335/",
-    "is_active": false
+    "xda_thread": "https://forum.xda-developers.com/t/project-elixir-for-realme-x3-x3-superzoom-official.4545215/",
+    "is_active": true
 }
