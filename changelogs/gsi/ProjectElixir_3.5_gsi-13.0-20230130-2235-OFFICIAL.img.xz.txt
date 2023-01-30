@@ -1,0 +1,3 @@
+- Added SEPolicy to fix FOD on Samsung devices
+- Properly adapted FOD patch
+- Minor optimizations
