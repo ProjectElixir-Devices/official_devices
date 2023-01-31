@@ -1,0 +1,9 @@
+- Fixed issue with Wifi Display.
+- Fixed issue with Snapchat.
+- Fixed qs lag.
+- Fixed Live caption crash.
+- Moved thermal profiles to System settings.
+- Improved battery backup.
+- Added AOD.
+- Switched to Silvercore kernel.
+- Switched to user build.
