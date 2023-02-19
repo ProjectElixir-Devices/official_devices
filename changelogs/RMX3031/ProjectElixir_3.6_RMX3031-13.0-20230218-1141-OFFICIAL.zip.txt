@@ -1,0 +1,8 @@
+Project Elixir 3.6 for Realme X7 Max 5G
+- Fixes H.265 playback (Hotstar and other video platform)
+- Add coloros gallery from our stock rom
+- Fix camera in telegram
+- Enabled Jio 5G SA
+- Improve FOD display dimming
+- Improve FOD display dimming
+- RMX3031_C.12 Firmware is necessary
