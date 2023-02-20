@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.5_spes-13.0-20230113-0448-OFFICIAL.zip",
-    "datetime": 1673585280,
-    "size": 1572136609,
-    "url": "https://private.projectelixiros.com/thirteen/spes/ProjectElixir_3.5_spes-13.0-20230113-0448-OFFICIAL.zip",
-    "filehash": "e338991c2d8e85fa3968ab14264eb438",
+    "filename": "ProjectElixir_3.6_spes-13.0-20230219-0715-OFFICIAL.zip",
+    "datetime": 1676790900,
+    "size": 1557268495,
+    "url": "https://private.projectelixiros.com/thirteen/spes/ProjectElixir_3.6_spes-13.0-20230219-0715-OFFICIAL.zip",
+    "filehash": "11915db6de388294ad6fdd45cd03e2af",
     "version": "13.0",
-    "id": "7880a6085a491cd72a90c2bf53d960c2a0bb558dc499a758a15706e386d4af93",       
+    "id": "123fa5eeea106e8ccaca2b39dbd1b4048aed19b918676eb21a26eaf3c97594bd",
     "tg_username": "smokey_18",
     "device_name": "Redmi Note 11",
     "device": "spes",
     "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-spes-spesn-project-elixir-official-aosp.4507377/",
-    "is_active": true     
+    "is_active": true
 }
