@@ -1,0 +1,3 @@
+- Fixed Gyroscope.
+- Switched to Kawaii kernel.
+- Switched to userdebug build.
