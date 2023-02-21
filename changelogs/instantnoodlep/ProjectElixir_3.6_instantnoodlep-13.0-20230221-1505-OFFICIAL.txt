@@ -1,0 +1,15 @@
+Project Elixir 3.6 Changelog:
+
+- February security patch
+- Fw OOS13 Basis 
+- Change Kernel to Meteoric "thanks to @hellboy017
+- bump kernel toolchain to Clang 16.0.2
+- Alerte slider fixed 
+- Ship along with OnePlus firmware
+- Switch to EROFS
+- Added carrierConfig overlay from OOS 11.F.15
+- Support exFAT
+- Support NTFS
+- Add wireguard support in kernel
+- If Bugs you tell me ... :)
+- Enjoy ....
