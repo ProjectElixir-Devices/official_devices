@@ -1,5 +1,0 @@
-- Updated Bluetooth blobs.
-- Cleanup GPS, music Blobs.
-- Drop unneeded NFC & media libs.
-- GPU Tweaks.
-- January Security Patches.
