@@ -1,0 +1,6 @@
+- Updated Bluetooth, NFC blobs.
+- Added yaap DeviceSettings.
+- [FIXED] Wrong date&time bug.
+- [FIXED] Random SystemUI Restart.
+- February Security Patches.
+- [BUG] FlashLight
