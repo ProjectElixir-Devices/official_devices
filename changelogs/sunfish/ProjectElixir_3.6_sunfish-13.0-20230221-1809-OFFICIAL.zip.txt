@@ -1,0 +1,8 @@
+Elixir 3.6 Changelogs (sunfish)
+
+• Initial Build
+
+Notes:
+• SELinux Enforcing
+• GApps are included
+• CTS passed by default
