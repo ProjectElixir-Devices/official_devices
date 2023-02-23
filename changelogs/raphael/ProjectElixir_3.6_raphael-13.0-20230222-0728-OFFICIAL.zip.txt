@@ -1,0 +1,4 @@
+- CTS passes by default
+- Selinux is Enforcing
+- Fixed AOD 
+- Fixed Hotspot
