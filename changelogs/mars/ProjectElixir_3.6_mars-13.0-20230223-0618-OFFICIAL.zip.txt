@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi 11 Pro (mars)
+Device maintainer: Flower Sea
+Required firmware: build-in
+
+===== 23 February, 2023 =====
+
+* source Changelog
+Synced latest Elixir 3.6 source
