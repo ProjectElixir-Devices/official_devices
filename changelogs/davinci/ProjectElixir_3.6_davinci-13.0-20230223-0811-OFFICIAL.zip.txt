@@ -1,0 +1,4 @@
+- Remove miuicamera and switched back to Apreture
+- Built with vantom syndra kernel
+
+Kindly note this build isn't erofs build so you can use dfe if you wants
