@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.5_r5x-13.0-20230119-0947-OFFICIAL.zip",
-    "datetime": 1674121620,
-    "size": 1765553223,
-    "url": "https://private.projectelixiros.com/thirteen/r5x/ProjectElixir_3.5_r5x-13.0-20230119-0947-OFFICIAL.zip",
-    "filehash": "25424f0871ac894117b68400910f1ee6",
+    "filename": "ProjectElixir_3.6_r5x-13.0-20230224-0622-OFFICIAL.zip",
+    "datetime": 1677216120,
+    "size": 1735276625,
+    "url": "https://private.projectelixiros.com/thirteen/r5x/ProjectElixir_3.6_r5x-13.0-20230224-0622-OFFICIAL.zip",
+    "filehash": "9e64cc6265d3b64161566d2f16aad817",
     "version": "13.0",
-    "id": "5ec1477af9e56c0c204f92e84a888c84ccf4ed4ce675ed7750ac3a65146437bc",       
-    "tg_username": "AMRITOOOO",
+    "id": "802274ca00eee099f1d2f7e4bd4e58d602fa54c88fc7a7429e84cf005538678f",
+    "tg_username": "Amritoooo",
     "device_name": "Realme 5 Series",
     "device": "r5x",
     "xda_thread": "https://forum.xda-developers.com/t/rom-13-project-elixir-for-realme-5-series-r5x-oss-official.4505841/",
-    "is_active": true     
+    "is_active": true
 }
