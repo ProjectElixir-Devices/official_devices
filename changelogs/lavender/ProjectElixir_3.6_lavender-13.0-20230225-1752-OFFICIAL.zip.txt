@@ -1,0 +1,3 @@
+- Fixed amplify audio not appearing
+- Debloated build
+- Fixed night light
