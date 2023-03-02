@@ -1,0 +1,9 @@
+Project Elixir 3.6 for Realme X7 Max 5G (HotFix)
+- Switch to RUI4 F.05 firmware as base
+- Add Oplus Camera from stock RUI4 rom
+- Add Oplus Gallery from stock RUI4 rom
+- Fixed bluetooth random disconnect issue
+- Prebuilt 4.19 kernel from RUI4
+- Switched to OSS reverse engineered V4A (Thanks to its dev)
+- RMX3031_F.05 Firmware is necessary
+- Don't flash this on any other firmware than F.05
