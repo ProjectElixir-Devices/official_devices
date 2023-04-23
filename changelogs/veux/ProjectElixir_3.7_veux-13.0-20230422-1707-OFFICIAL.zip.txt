@@ -1,0 +1,20 @@
+This build you're receiving is ProjectElixir_3.7_veux-13.0-20230422-1707-OFFICIAL.zip
+
+Notes:
+CTS passes by default.
+Dirty Flash is possible.
+Gapps And Firmware are shipped default with Rom.
+AOSP Recovery is shipped by default.
+Do Clean Flash if you are coming from any build.
+
+Changelogs:
+•Comes with April Security Patch
+•Volume steps are increased to 18
+•Fixed hyper orange Night Light
+•Fixed Quicksettings Lags
+•Fixed fake Root Detection in few Apps
+•Includes Launcher 3
+•Miui Camera is shipped by default with Rom
+•Updated surfaceflinger props(Made UI much more fluent.)
+•Fixed Qs Pulldown lags
+•Improved overall stability and battery backup seems good too.
