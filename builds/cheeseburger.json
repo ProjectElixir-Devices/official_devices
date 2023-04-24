@@ -1,15 +1,15 @@
 {
-    "error": false,
-    "filename": "ProjectElixir_3.6_cheeseburger-13.0-20230220-1514-OFFICIAL.zip",
-    "datetime": 1676886240,
-    "size": 1450301802,
-    "url": "https://private.projectelixiros.com/thirteen/cheeseburger/ProjectElixir_3.6_cheeseburger-13.0-20230220-1514-OFFICIAL.zip",
-    "filehash": "97d7503055fbae8004e056b502ca1c9f",
-    "version": "13.0",
-    "id": "55dead81b94b0a4f2f218b3f52c4b188b7c5e5fda815426439513e04a566a7ca",       
-    "tg_username": "MudabbirulSaad",
-    "device_name": "Oneplus 5",
-    "device": "cheeseburger",
-    "xda_thread": "https://forum.xda-developers.com/t/rom-oss-13-august-oneplus-5-dumpling-project-elixir-beta-official-gapps.4487813/",
-    "is_active": true     
+  "error": false,
+  "filename": "ProjectElixir_3.7_cheeseburger-13.0-20230423-1725-OFFICIAL.zip",
+  "datetime": 1682270700,
+  "size": 1450897929,
+  "url": "https://private.projectelixiros.com/thirteen/cheeseburger/ProjectElixir_3.7_cheeseburger-13.0-20230423-1725-OFFICIAL.zip",
+  "filehash": "f865bb4f2035cb09f2b27564c311398b",
+  "version": "13.0",
+  "id": "94bad63928513ca889631a30443bf4c86061d0f723a72a32654aac9e4f57428f",
+  "tg_username": "MudabbirulSaad",
+  "device_name": "Oneplus 5",
+  "device": "cheeseburger",
+  "xda_thread": "https://forum.xda-developers.com/t/rom-oss-13-august-oneplus-5-dumpling-project-elixir-beta-official-gapps.4487813/",
+  "is_active": true
 }
