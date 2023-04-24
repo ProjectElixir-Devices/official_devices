@@ -1,0 +1,2 @@
+- Source upstream.
+- Fixed cracking sound on bluetooth.
