@@ -1,15 +1,15 @@
 {
-    "error": false,
-    "filename": "ProjectElixir_3.6_taimen-13.0-20230221-0959-OFFICIAL.zip",
-    "datetime": 1676969940,
-    "size": 1568478152,
-    "url": "https://private.projectelixiros.com/thirteen/taimen/ProjectElixir_3.6_taimen-13.0-20230221-0959-OFFICIAL.zip",
-    "filehash": "2c8045bb910cc86dae79ac96cffa26d2",
-    "version": "13.0",
-    "id": "63625324da42e222abbf9d78be4eae33c2eeb044f73cf6082599fc99ab7bf333",       
-    "tg_username": "asriadirahim",
-    "device_name": "Google Pixel 2 XL",
-    "device": "taimen",
-    "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-taimen-project-elixir-official-stable-aosp.4546761/",
-    "is_active": true     
+  "error": false,
+  "filename": "ProjectElixir_3.7_taimen-13.0-20230423-0709-OFFICIAL.zip",
+  "datetime": 1682233740,
+  "size": 1473279723,
+  "url": "https://private.projectelixiros.com/thirteen/taimen/ProjectElixir_3.7_taimen-13.0-20230423-0709-OFFICIAL.zip",
+  "filehash": "563477d7e18a48028396b202d2b50c31",
+  "version": "13.0",
+  "id": "b6b0554ce9b137b674188962cb947e08b3e97692cf2908e2adf33ddaa90f6d02",
+  "tg_username": "asriadirahim",
+  "device_name": "Google Pixel 2 XL",
+  "device": "taimen",
+  "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-taimen-project-elixir-official-stable-aosp.4546761/",
+  "is_active": true
 }
