@@ -1,0 +1,7 @@
+Changelog:
+- Initial official release
+- Selinux is Enforcing
+- CTS passes and banking apps working
+
+Note:
+- No need to flash gapps (included)
