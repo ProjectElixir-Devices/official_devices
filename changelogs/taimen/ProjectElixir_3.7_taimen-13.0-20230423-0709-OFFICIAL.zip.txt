@@ -1,0 +1,11 @@
+Changelog:
+- Aril security path
+- Drop kernel-su
+- Remove aptX blobs
+- Drop GoogleCamera
+- Misc
+
+Bug:
+- Wifi display
+- GoogleCamera crash
+- Live caption
