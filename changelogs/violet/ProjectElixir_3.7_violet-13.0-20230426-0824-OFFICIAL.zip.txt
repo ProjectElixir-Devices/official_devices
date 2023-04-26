@@ -1,3 +1,4 @@
+- FIXED VOLTE RELATED ISSUES
 - Remove aptX(HD) encoder shared libs (Encoder shared libraries are no longer required as of Android 13 QPR2)
 - Redefined bluetooth a2dp offload capabilities (Dropped unsupported aptx codecs)
 - Enabled enable hwui render ahead
