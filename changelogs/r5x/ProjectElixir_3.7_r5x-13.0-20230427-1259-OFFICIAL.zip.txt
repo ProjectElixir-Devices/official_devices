@@ -1,0 +1,22 @@
+### Project Elixir for Realme 5 Series (r5x) Changelogs
+
+
+### Elixir Version 3.7
+- Fixed Random Reboot
+- Fixed Electronic image stabilization (EIS)
+- Dropped dex optimization and preopt flags/props 
+- Removed flag not applicable to the target devices
+- Disabled useless LMKD stats logging
+- Removed deprecated TARGET_BOARD_PLATFORM_GPU
+- Build required HIDL libs to vendor
+- overlay: Set config_use16BitTaskSnapshotPixelFormat to true
+- Optimize native executables for Cortex-A76 CPU
+- Added realme_trinket to assert
+- Used qcom baseband strings intead of realme baseband
+- Removed deprecated TARGET_ENABLE_MEDIADRM_64
+- Compile HWUI for performance
+- Force disable iorapd (eat more RAM and slowdown device)
+- Increased SF durations
+- Enabled ro.hwui.render_ahead and set it to 20 frames
+- prop: Disable ZSL mode correctly
+- Misc. Fixes and Improvements
