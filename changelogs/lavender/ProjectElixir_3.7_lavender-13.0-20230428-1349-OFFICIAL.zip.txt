@@ -1,0 +1,5 @@
+- Fixed Hotspot crashing
+- Added Battery Health overlays
+- Shipped with GcamGO-V3
+- Debloated build
+- Camera working @Credits: Inferno
