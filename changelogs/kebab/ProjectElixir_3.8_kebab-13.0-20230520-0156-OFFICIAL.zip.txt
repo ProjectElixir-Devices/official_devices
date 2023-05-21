@@ -1,0 +1,6 @@
+- Selinux is Enforcing
+- Build is encrypted
+- CTS passes and banking apps working
+- No need to flash gapps (included)
+- Switched to evox perf kernel
+- Fixed DTW issue
