@@ -82,6 +82,8 @@ Oneplus 9R (lemonades) by manid_reddy
 
 ### - Nokia Devices
 ```
+Nokia 6.1 (PL2) by pure_soul_kk
+Nokia 6.1 Plus (DRG) by pure_soul_kk
 ```
 
 ### - Meizu Devices
