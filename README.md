@@ -23,7 +23,7 @@ Redmi 9 (lancelot) by Raizel
 Redmi K20 Pro (raphael) by pallavjparikh
 Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) by Douxx_gang
 Redmi K40/POCO F3/Mi 11x (alioth) by theangelofdead01
-Redmi K40S/ POCO F4 (munch) by SERENADE_ar
+Redmi K40S/ POCO F4 (munch) by VINC3NT
 Redmi Note 10 Pro (sweet) by zaidkhan0997
 Redmi Note 11 (spes) by smokey_18
 Redmi Note 11 Pro Plus/Poco X4 Pro (veux) by jaswal_ashish11
