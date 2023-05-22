@@ -1,2 +1,0 @@
-- [BUG] Flashlight.
-- October security patch.
