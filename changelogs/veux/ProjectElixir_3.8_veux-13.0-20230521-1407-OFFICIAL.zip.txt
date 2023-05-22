@@ -1,0 +1,15 @@
+This build you're receiving is ProjectElixir_3.8_veux-13.0-20230521-1407-OFFICIAL.zip 
+
+Notes:
+CTS passes by default.
+Dirty Flash is possible.
+Gapps And Firmware are shipped default with Rom.
+AOSP Recovery is shipped by default.
+Do Clean Flash if you are coming from any build.
+
+Changelogs:
+•Comes with May Security Patch.
+•Includes Launcher 3.
+•Miui Camera is shipped by default with Rom.
+•Overall stability and improvements.
+•Rebased trees and imported stock props from miui.
