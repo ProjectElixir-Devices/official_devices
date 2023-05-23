@@ -1,0 +1,11 @@
+This build you're receiving is ProjectElixir_3.8_veux-13.0-20230523-0607-OFFICIAL.zip
+
+Notes:
+CTS passes by default.
+Dirty Flash is possible.
+Gapps And Firmware are shipped default with Rom.
+AOSP Recovery is shipped by default.
+Do Clean Flash if you are coming from any build.
+
+HOTFIX UPDATE:
+Fixes Settings Crashes And Hotspot not working issues.
