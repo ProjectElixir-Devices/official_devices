@@ -1,8 +1,0 @@
-Elixir 3.7 Changelogs (sunfish)
-
-• April SP Merged
-
-Notes: 
-• SELinux Enforcing 
-• GApps are included
-• CTS passed by default
