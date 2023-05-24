@@ -1,0 +1,11 @@
+Build type: Monthly
+Device: Xiaomi 11 (venus)
+Device maintainer: Flower Sea
+Required firmware: build-in
+
+   * kernel/xiaomi/venus
+8c6d748b746 Flower: March:Peach-v4.0 (Kernel version: 5.4.226)
+cd3050c5be6 Merge tag 'LA.UM.9.14.r1-21600-LAHAINA.QSSI14.0'
+
+* source Changelog
+Synced latest Elixir 3.8 source
