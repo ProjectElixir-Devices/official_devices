@@ -1,0 +1,3 @@
+- Camera totally fixed now
+- Debloated build more
+- Cleaned some shits from the dt
