@@ -1,15 +1,15 @@
 {
   "error": false,
-  "filename": "ProjectElixir_3.7_walleye-13.0-20230425-0759-OFFICIAL.zip",
-  "datetime": 1682389740,
-  "size": 1464666729,
-  "url": "https://private.projectelixiros.com/thirteen/walleye/ProjectElixir_3.7_walleye-13.0-20230425-0759-OFFICIAL.zip",
-  "filehash": "742964661e0296be20404c4ade5b08dc",
+  "filename": "ProjectElixir_3.8_walleye-13.0-20230522-1512-OFFICIAL.zip",
+  "datetime": 1684761120,
+  "size": 1623205138,
+  "url": "https://private.projectelixiros.com/thirteen/walleye/ProjectElixir_3.8_walleye-13.0-20230522-1512-OFFICIAL.zip",
+  "filehash": "df367d23e8cc5081ae9eed457601dd60",
   "version": "13.0",
-  "id": "bcfe032acb17447d5349326c9acdd86fbf111fa6f4c199c82ab60ab63587b7ec",
+  "id": "d6d701a94cb9794223d0731461311f4df8d2b79c0ec0c7347a30010444880c1a",       
   "tg_username": "asriadirahim",
   "device_name": "Google Pixel 2",
   "device": "walleye",
   "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-walleye-project-elixir-official-stable-aosp.4546759/",
-  "is_active": true
+  "is_active": true     
 }
