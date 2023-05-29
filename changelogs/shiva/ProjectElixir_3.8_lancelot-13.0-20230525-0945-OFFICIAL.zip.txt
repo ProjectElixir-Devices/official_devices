@@ -1,0 +1,6 @@
+Project Elixir 3.8 HOTFIX for Poco M2
+
+- Fixed Volte Issues
+- Fixed System Ui 
+- Fixed lag in QS pannel 
+- Fixed laggy h264 playback
