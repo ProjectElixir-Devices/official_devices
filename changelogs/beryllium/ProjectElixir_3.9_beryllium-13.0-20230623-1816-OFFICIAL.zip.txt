@@ -1,0 +1,4 @@
+- Source upstream.
+- Switched to new powerhint for better smoothness.
+- Added rounded corners.
+- Fixed QS jitter.
