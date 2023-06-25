@@ -1,0 +1,8 @@
+Elixir v3.9 Changelogs (sunfish) 
+• Updated to v3.9
+• Misc. Fixes and Improvements
+
+Notes: 
+• SELinux Enforcing 
+• GApps are included 
+• CTS passed by default
