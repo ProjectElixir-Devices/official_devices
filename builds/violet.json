@@ -1,15 +1,15 @@
 {
-    "error": false,
-    "filename": "ProjectElixir_3.8_violet-13.0-20230519-1559-OFFICIAL.zip",
-    "datetime": 1684504740,
-    "size": 2017228005,
-    "url": "https://private.projectelixiros.com/thirteen/violet/ProjectElixir_3.8_violet-13.0-20230519-1559-OFFICIAL.zip",
-    "filehash": "ae657247e7addfe134ce5da2e5b8e49a",
-    "version": "13.0",
-    "id": "ed634dfaee46db8d05ff10ac7a77a31c3f06bd77923d71735bfb618ad768cb9b",       
-    "tg_username": "ugly_kid_af",
-    "device_name": "Redmi Note 7 Pro",
-    "device": "violet",
-    "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-violet-project-elixir-official-beta-aosp.4482075/",
-    "is_active": true     
-}
+     "error": false,
+     "filename": "ProjectElixir_3.9_violet-13.0-20230624-0834-OFFICIAL.zip",
+     "datetime": 1687588440,
+     "size": 2023935977,
+     "url": "https://private.projectelixiros.com/thirteen/violet/ProjectElixir_3.9_violet-13.0-20230624-0834-OFFICIAL.zip",
+     "filehash": "e58e0273057c340ab6705f7027e45cfe",
+     "version": "13.0",
+     "id": "d3e65570899c5f378aadd1183e983718925b3fa3f54fb354112fc8b4d2147049",       
+     "tg_username": "ugly_kid_af",
+     "device_name": "Redmi Note 7 Pro",
+     "device": "violet",
+     "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-violet-project-elixir-official-beta-aosp.4482075/",
+     "is_active": true     
+ }
