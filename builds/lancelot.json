@@ -1,15 +1,16 @@
+
 {
     "error": false,
-    "filename": "ProjectElixir_3.8_lancelot-13.0-20230525-0945-OFFICIAL.zip",
-    "datetime": 1685000700,
-    "size": 1800868400,
-    "url": "https://private.projectelixiros.com/thirteen/lancelot/ProjectElixir_3.8_lancelot-13.0-20230525-0945-OFFICIAL.zip",
-    "filehash": "b5ef938652d7c68669723dc27d14641f",
+    "filename": "ProjectElixir_3.9_lancelot-13.0-20230625-0935-OFFICIAL.zip",
+    "datetime": 1687678500,
+    "size": 1694365807,
+    "url": "https://private.projectelixiros.com/thirteen/lancelot/ProjectElixir_3.9_lancelot-13.0-20230625-0935-OFFICIAL.zip",
+    "filehash": "8a2a385abb1c58d8416b5cd187bd3156",
     "version": "13.0",
-    "id": "3670856ab8846a490209487cc73ca58e98adb1f302bbe1ef7176a2a72d679304",       
+    "id": "dec7e633dade89e1500ac8cca25e3d923fe7d66958cb5ace15fac4864da83b52",
     "tg_username": "acex88",
     "device_name": "Redmi 9/Poco M2",
     "device": "lancelot",
     "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-official-project-elixir-redmi-9-poco-m2-aosp.4588613/",
-    "is_active": true     
+    "is_active": true
 }
