@@ -1,0 +1,3 @@
+- May patch
+- Picked up additional things for flashlight
+- NFC broken
