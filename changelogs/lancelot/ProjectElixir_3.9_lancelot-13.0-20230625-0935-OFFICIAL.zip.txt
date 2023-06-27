@@ -1,0 +1,10 @@
+-Improved system stability
+-User interface enhancements
+-Google security patch 2023-05
+-Update Pixel props
+-CTS passed by default
+-Some misc improvements and fixes
+
+ Note:
+-SELinux Enforcing
+-GApps are included
