@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.9_lmi-13.0-20230624-1502-OFFICIAL.zip",
-    "datetime": 1687611720,
-    "size": 2125503207,
-    "url": "https://private.projectelixiros.com/thirteen/lmi/ProjectElixir_3.9_lmi-13.0-20230624-1502-OFFICIAL.zip",
-    "filehash": "0faf239ac7ee9bc50effce2d6608f461",
+    "filename": "ProjectElixir_3.9_lmi-13.0-20230626-1316-OFFICIAL.zip",
+    "datetime": 1687778160,
+    "size": 2126009936,
+    "url": "https://private.projectelixiros.com/thirteen/lmi/ProjectElixir_3.9_lmi-13.0-20230626-1316-OFFICIAL.zip",
+    "filehash": "f48d85310b1629f033dee5a07f640b00",
     "version": "13.0",
-    "id": "17a1fd9e01283b870237d35a7c6d20d8c6e74704aceb525a00c0d0dd92fe2eef",       
+    "id": "d83512f14694f79a9668c15c0f01bb95f559f0916ef79e48501c9e846ef9c206",
     "tg_username": "ZenkaBestia",
     "device_name": "Poco F2 Pro/Redmi K30 Pro",
     "device": "lmi",
     "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-lmi-project-elixir-official-beta-aosp.4506197/",
-   "is_active": true
+    "is_active": true
 }
