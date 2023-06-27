@@ -1,2 +1,2 @@
-- [FIXED] NFC Issue.
+- 3.9 Patches.
 - May security patch.
