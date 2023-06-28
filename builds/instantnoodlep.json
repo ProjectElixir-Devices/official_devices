@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.8_instantnoodlep-13.0-20230528-1203-OFFICIAL.zip",
-    "datetime": 1685268180,
-    "size": 2255845371,
-    "url": "https://private.projectelixiros.com/thirteen/instantnoodlep/ProjectElixir_3.8_instantnoodlep-13.0-20230528-1203-OFFICIAL.zip",
-    "filehash": "dd2c99e35407e9f6d9cc070554a337c6",
+    "filename": "ProjectElixir_3.9_instantnoodlep-13.0-20230627-1545-OFFICIAL.zip",
+    "datetime": 1687873500,
+    "size": 2258025746,
+    "url": "https://private.projectelixiros.com/thirteen/instantnoodlep/ProjectElixir_3.9_instantnoodlep-13.0-20230627-1545-OFFICIAL.zip",
+    "filehash": "a136d4aed950a7e017e51829f284e3a4",
     "version": "13.0",
-    "id": "567309663a1b9e594459fa8569f227243adb954ebf941ada748c667b48a38ec5",       
+    "id": "4e814807898e36f9a5b32246206d9db8b20d8816c0a5b5be9728fec3f3c4fae3",
     "tg_username": "freesoul00",
     "device_name": "Oneplus 8 Pro",
     "device": "instantnoodlep",
     "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-instantnoodlep-project-elixir-official-beta-aosp.4486561/",
-    "is_active": true     
+    "is_active": true
 }
