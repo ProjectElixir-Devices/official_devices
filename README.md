@@ -32,8 +32,6 @@ Redmi Note 7 Pro (violet) by ugly_kid_af
 Redmi Note 7/7s (lavender) by AlCoptan99
 Redmi Note 8/8T (ginkgo) by WeeboDemon
 Redmi Note 9 (merlinx) by Kaike
-Xiaomi 11 (venus) by Flower0208
-Xiaomi 11 Pro (mars) by Flower0208
 Xiaomi Mi A1 (tissot) by ugly_kid_af
 Xiaomi Mi Note 10 Lite (toco) by DennisMurimiWachira
 Xiaomi Poco F1 (beryllium) by RahulGorai
