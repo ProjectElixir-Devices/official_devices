@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.8_bluejay-13.0-20230520-1832-OFFICIAL.zip",
-    "datetime": 1684600320,
-    "size": 1868220508,
-    "url": "https://private.projectelixiros.com/thirteen/bluejay/ProjectElixir_3.8_bluejay-13.0-20230520-1832-OFFICIAL.zip",
-    "filehash": "3cc80007e729e6d719c64a8f21f3bc52",
+    "filename": "ProjectElixir_3.10_bluejay-13.0-20230802-1229-OFFICIAL.zip",
+    "datetime": 1690972140,
+    "size": 2014347370,
+    "url": "https://private.projectelixiros.com/thirteen/bluejay/ProjectElixir_3.10_bluejay-13.0-20230802-1229-OFFICIAL.zip",
+    "filehash": "4c86939b4c16028b78696e6218b67108",
     "version": "13.0",
-    "id": "cd033e7883c6bae86b8a5f1c22d802a9c3ac04c653b2607a353414c8d515b136",       
+    "id": "dd9c3a0523e500ebed2e9e733fe6c6e4f7fc47fa9d6bded010d6264ded107d38",       
     "tg_username": "universalxandroid",
     "device_name": "Google Pixel 6a",
     "device": "bluejay",
     "xda_thread": "https://forum.xda-developers.com/t/rom-official-project-elixir-3-7-android-13-0-aosp-official.4581811/",
-    "is_active": true     
+    "is_active": true
 }
