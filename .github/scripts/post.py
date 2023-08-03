@@ -21,6 +21,7 @@
 # You should have received a copy of the GNU General Public License
 # along with this program; if not, see <http://www.gnu.org/licenses/>.
 
+import re
 import telebot
 import os
 import json
@@ -53,6 +54,12 @@ bot = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
 # File directories
 jsonDir = "builds"
 idDir = ".github/scripts"
+
+# Get elixir verion using regex
+def get_elixir_version(filename: str):
+    version_regex = r"^ProjectElixir_([0-9]{1,2}\.[0-9]+)_.+(?:zip|img|xz)$"
+    match = re.search(version_regex, filename)
+    return match.group(1)
 
 # Store IDs in a fileto compare
 def update(IDs):
@@ -100,7 +107,7 @@ def get_info(ID):
     with open(f"{jsonDir}/{device}") as device_file:
         info = json.loads(device_file.read())
         ANDROID_VERSION = info['version']
-        ELIXIR_VERSION = info['filename'][14:17]
+        ELIXIR_VERSION = get_elixir_version(info['filename'])
         DEVICE_NAME = info['device_name']
         CODENAME =  info['device']
         MAINNTAINER = info['tg_username']
@@ -221,7 +228,7 @@ def get_devices():
                     "device_name": data['device_name'],
                     "codename": data['device'],
                     "maintainer": data['tg_username'],
-                    "elixir_version": data['filename'][14:17]
+                    "elixir_version": get_elixir_version(data['filename'])
                 })
     return devices
 
