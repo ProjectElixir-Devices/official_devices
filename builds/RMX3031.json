@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.9_RMX3031-13.0-20230625-0519-OFFICIAL.zip",
-    "datetime": 1687650541,
-    "size": 2822179319,
-    "url": "https://private.projectelixiros.com/thirteen/RMX3031/ProjectElixir_3.9_RMX3031-13.0-20230625-0519-OFFICIAL.zip",
-    "filehash": "79ee6f2c11ea919734a6993534a3c403",
+    "filename": "ProjectElixir_3.10_RMX3031-13.0-20230804-1246-OFFICIAL.zip",
+    "datetime": 1691145960,
+    "size": 2886977038,
+    "url": "https://private.projectelixiros.com/thirteen/RMX3031/ProjectElixir_3.10_RMX3031-13.0-20230804-1246-OFFICIAL.zip",
+    "filehash": "51847420ad8969eab6769be67282b6c9",
     "version": "13.0",
-    "id": "9494552789af990ab29029e92cba938c8a597fa2d09ee1c5abbc802d39a7bfa8",
+    "id": "4c0985a1184d37539069664fe979e7889a14efd25700019f30cc1d2024cf193d",       
     "tg_username": "NishantKumar6342",
     "device_name": "Realme X7 Max",
     "device": "RMX3031",
     "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-rmx3031-project-elixir-official-aosp.4488085/",
-    "is_active": true
+    "is_active": true     
 }
