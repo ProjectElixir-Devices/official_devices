@@ -1,0 +1,8 @@
+- Fixed some previous issues
+- Fixed some denials
+- Import some wifi configs and improved 5ghz signal tolerance
+- Disabled hvdcp_opti deamon pps control
+- Enable VoLTE/ViLTE/VoWiFi for entire 470 mcc (BD)
+- Updated clear speaker audio
+- Nexus kernel by default
+
