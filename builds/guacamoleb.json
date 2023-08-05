@@ -1,15 +1,15 @@
 {
-     "error": false,
-     "filename": "ProjectElixir_3.9_guacamoleb-13.0-20230625-1430-OFFICIAL.zip",
-     "datetime": 1687696200,
-     "size": 1588030355,
-     "url": "https://private.projectelixiros.com/thirteen/guacamoleb/ProjectElixir_3.9_guacamoleb-13.0-20230625-1430-OFFICIAL.zip",
-     "filehash": "c720f05fd34ff1822959822391bca88d",
-     "version": "13.0",
-     "id": "7c41f0668cd7c8103b04d24ef6edf9f76c61f02e8e0ddce52b3c9be03bc353fe",       
-     "tg_username": "ugly_kid_af",
-     "device_name": "OnePlus 7",
-     "device": "guacamoleb",
-     "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-guacamoleb-project-elixir-official-stable-aosp.4525255/",
-     "is_active": true     
- }
+    "error": false,
+    "filename": "ProjectElixir_3.10_guacamoleb-13.0-20230804-2212-OFFICIAL.zip",
+    "datetime": 1691179920,
+    "size": 1818286706,
+    "url": "https://private.projectelixiros.com/thirteen/guacamoleb/ProjectElixir_3.10_guacamoleb-13.0-20230804-2212-OFFICIAL.zip",
+    "filehash": "d88fa2fd42509d829f2be6d46f5865e7",
+    "version": "13.0",
+    "id": "f6e8f846122fb3f7d798cf907c79be21dce116958137ea59ed182a2b845f6ae1",       
+    "tg_username": "ugly_kid_af",
+    "device_name": "OnePlus 7",
+    "device": "guacamoleb",
+    "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-guacamoleb-project-elixir-official-stable-aosp.4525255/",
+    "is_active": true     
+}
