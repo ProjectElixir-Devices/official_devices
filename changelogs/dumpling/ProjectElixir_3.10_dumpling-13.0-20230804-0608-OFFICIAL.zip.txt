@@ -1,0 +1,3 @@
+- Volume control panel moved to left.
+- 3.10 Patches.
+- July security patch.
