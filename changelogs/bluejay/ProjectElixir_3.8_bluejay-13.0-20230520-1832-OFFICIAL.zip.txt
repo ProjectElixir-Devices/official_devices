@@ -1,2 +1,5 @@
-- May Patch
-- Use kernel modules from r0.74 instead of r0.69
+- switch to stable gs201 kernel
+- upstreamed july patch blobs
+- elixir rebased from scratch
+- instability issues fixed
+- include kernelside patches for pixelparts
