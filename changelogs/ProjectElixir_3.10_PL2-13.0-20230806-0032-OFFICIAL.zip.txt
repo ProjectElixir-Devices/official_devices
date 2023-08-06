@@ -1,0 +1,8 @@
+### 3.10 for Nokia 6.1
+- Based on android-13.0.0_r56
+- Improved system stability
+- User interface enhancements
+- Google security patch 2023-07-05
+
+Notes:
+• Clean flash this time due to many QPR3 changes
