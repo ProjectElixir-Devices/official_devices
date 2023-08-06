@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.9_a51-13.0-20230623-1328-OFFICIAL.zip",
-    "datetime": 1687519680,
-    "size": 1623891338,
-    "url": "https://private.projectelixiros.com/thirteen/a51/ProjectElixir_3.9_a51-13.0-20230623-1328-OFFICIAL.zip",
-    "filehash": "684d3c15cc69f02d5922cc67f0e9364c",
+    "filename": "ProjectElixir_3.10_a51-13.0-20230806-1007-OFFICIAL.zip",
+    "datetime": 1691309220,
+    "size": 1576003222,
+    "url": "https://private.projectelixiros.com/thirteen/a51/ProjectElixir_3.10_a51-13.0-20230806-1007-OFFICIAL.zip",
+    "filehash": "adcb136d9ecfebd7ea283bbd79030d95",
     "version": "13.0",
-    "id": "942820796c7ecf9c90ace0c56689fa7d6f2f04704f3400b01f25d472810df7a3",       
+    "id": "af2fe76ad3492e98bdb272d4b5f237e92645cdea0699b4bd2302043fdb414825",
     "tg_username": "universalxandroid",
     "device_name": "Samsung Galaxy A51",
     "device": "a51",
     "xda_thread": "https://forum.xda-developers.com/t/rom-official-project-elixir-3-9-a51-android-13-0-aosp-official.4599513/",
-    "is_active": true     
+    "is_active": true
 }
