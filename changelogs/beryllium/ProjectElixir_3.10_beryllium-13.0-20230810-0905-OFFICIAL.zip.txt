@@ -1,0 +1,3 @@
+- Fixed Cracking BT sound.
+- Switched to fastest rendering graphics firmware & its more sharp now.
+- Fixed Combined signal issue.
