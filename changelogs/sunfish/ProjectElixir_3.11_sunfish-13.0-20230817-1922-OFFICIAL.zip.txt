@@ -1,6 +1,5 @@
-Elixir v3.10 Changelogs (sunfish) 
-• Based on July Security Patch 
-• CTS passed by default
+Elixir v3.11 Changelogs (sunfish) 
+• Based on August Security Patch 
 • Misc. Fixes and Improvements 
 
 Notes: 
