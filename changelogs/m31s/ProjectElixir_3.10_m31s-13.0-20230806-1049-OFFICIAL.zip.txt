@@ -1,3 +1,0 @@
-- July patch
-- Fixed NFC
-- Kernel updated
