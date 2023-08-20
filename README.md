@@ -56,6 +56,13 @@ realme GT Master (RMX3360) by itsXRP
 
 ### - Samsung Devices
 ```
+Galaxy S10e (beyond0lte) by FrEeRuNnEr4EvEr
+Galaxy S10 (beyond1lte) by FrEeRuNnEr4EvEr
+Galaxy S10+ (beyond2lte) by FrEeRuNnEr4EvEr
+Galaxy S10 5G (beyondx) by FrEeRuNnEr4EvEr
+Galaxy Note 10 (d1) by FrEeRuNnEr4EvEr
+Galaxy Note 10+ (d2s) by FrEeRuNnEr4EvEr
+Galaxy Note 10 5G (d2x) by FrEeRuNnEr4EvEr
 ```
 
 ### - Asus Devices
