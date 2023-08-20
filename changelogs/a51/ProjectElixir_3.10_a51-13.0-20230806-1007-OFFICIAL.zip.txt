@@ -1,2 +1,0 @@
-- July patch
-- Updated kernel
