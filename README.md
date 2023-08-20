@@ -52,6 +52,7 @@ Realme X3/X3 SuperZOOM (x3) by Ak
 Realme X7 Max (RMX3031) by NishantKumar6342
 Realme XT (RMX1921) by dhruvesh_23
 realme GT Master (RMX3360) by itsXRP
+Realme G70 Series (RMX2020) by KoushikDey
 ```
 
 ### - Samsung Devices
