@@ -102,6 +102,13 @@ Nokia 6.1 Plus (DRG) by pure_soul_kk
 ```
 Nothing Phone (1) (Spacewar) by NotHarshhaa
 ```
+
+### - Motorola Devices
+```
+Moto G32 (devon) by FPSensor
+Moto G42 (hawao) by FPSensor
+Moto G52 (rhode) by FPSensor
+```
 <!--END_SECTION:devices-->
 
 ### Some important links below
