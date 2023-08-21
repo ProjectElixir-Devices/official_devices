@@ -55,6 +55,18 @@ realme GT Master (RMX3360) by itsXRP
 Realme X50 Pro 5G (bladerunner) by Sreelekshman
 ```
 
+### - Google Devices
+```
+Google Pixel 4 (flame) by Yul_nicolai
+Google Pixel 4a (sunfish) by xioyo
+Google Pixel 2 XL (taimen) by asriadirahim
+Google Pixel 4 XL (coral) by Yul_nicolai
+Google Pixel 2 (walleye) by asriadirahim
+Google Pixel 6a (bluejay) by universalxandroid
+Google Pixel 3 (blueline) by jrjmt
+Google Pixel 3 XL (crosshatch) by jrjmt
+```
+
 ### - Samsung Devices
 ```
 Galaxy S10e (beyond0lte) by FrEeRuNnEr4EvEr
