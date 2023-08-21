@@ -1,0 +1,6 @@
+v3.11 for Nokia 6.1
+
+- Merged August Security Patch
+- Fixed broken GCam
+- Switched back to Elixir Launcher
+- Enjoy the update!
