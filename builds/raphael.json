@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.10_raphael-13.0-20230803-2315-OFFICIAL.zip",
-    "datetime": 1691097300,
-    "size": 2165148568,
-    "url": "https://private.projectelixiros.com/thirteen/raphael/ProjectElixir_3.10_raphael-13.0-20230803-2315-OFFICIAL.zip",
-    "filehash": "4a9624d89a45aa8f0006bad4d5d45dd0",
+    "filename": "ProjectElixir_3.11_raphael-13.0-20230822-0234-OFFICIAL.zip",
+    "datetime": 1692664440,
+    "size": 2102746345,
+    "url": "https://private.projectelixiros.com/thirteen/raphael/ProjectElixir_3.11_raphael-13.0-20230822-0234-OFFICIAL.zip",
+    "filehash": "7cacd2806cad3e4b27564f123c23ad73",
     "version": "13.0",
-    "id": "cfb2ab4e8ac8c07a8f9f5803e2fd1250d5a0921648b82196a9f7a5517a7d09e9",       
+    "id": "d80e3964764b33ae9a6f585bf82155b4429114403c1eeadc23e4e983af7782f1",
     "tg_username": "YourDulavai",
     "device_name": "Redmi K20 Pro/Mi 9T Pro",
     "device": "raphael",
     "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-raphael-project-elixir-official-aosp.4513251/",
-    "is_active": true     
+    "is_active": true
 }
