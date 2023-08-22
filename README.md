@@ -15,7 +15,7 @@ Project Elixir basically offers a premium minimal UI enhancement & close to Stoc
 ```
 Mi 10T/Pro (apollo) by mhmdeveloper
 Poco F2 Pro/Redmi K30 Pro (lmi) by ZenkaBestia
-Poco M2 Pro/Redmi Note 9 Pro/Max/9s/10 Lite (miatoll) by Lopster_70
+Poco M2 Pro/Redmi Note 9 Pro/Max/9s/10 Lite (miatoll) by CRUECY
 Poco M3 & Redmi 9T / 9 Power / Note 9 4G (chime) by imanigg
 Poco X3 Pro (vayu) by chandlerbigg
 Poco M2 (shiva) by Raizel
