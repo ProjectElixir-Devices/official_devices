@@ -116,7 +116,7 @@ Moto G52 (rhode) by FPSensor
 * [**Maintainers Requirements**](https://projectelixiros.com/documentation)
 * [**Device Requirements**](https://projectelixiros.com/documentation)
 * [**Apply for Maintainership**](https://docs.google.com/forms/d/1eme8i0nXFNpv2fEfbskoANIwLUGy4KcYXssluWv6obE)
-* [**XDA Template**](https://raw.githubusercontent.com/Project-Elixir/docs/Tiramisu/xda_template.txt)
+* [**XDA Template**](https://github.com/Project-Elixir/docs/blob/Tiramisu/xda_template.txt)
 
 <br>
 
@@ -135,13 +135,6 @@ Have you joined it already? Okay, good. Now if you need to contact us, well, you
  * [**Elixir Team**](https://projectelixiros.com/team)
  * [**Elixir Downloads**](https://projectelixiros.com/download)
  * [**Elixir Changelog**](https://projectelixiros.com/changelog)
-
-
-### Crowdin for Project Elixir
- * [**Elixir Crowdin**](https://crowdin.com/profile/ProjectElixir)
-
-### Contact on Emergency
-* [**Saurav - Founder/lead Dev**](https://telegram.me/ugly_kid_af) - [**[Github Profile]**](https://github.com/ugly-kid-af)
 
 For urgent need feel free to contact us on provided links. And for personal build request, patreon, donation, suggestions, sponsor, personal device support join telegram group or respective platform like patreon chat. Don't PM unnecessarily !!
 
