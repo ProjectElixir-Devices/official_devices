@@ -1,0 +1,4 @@
+- Initial build
+- Upstream Kernel to v4.14.320  
+- Fixed some lags 
+- Fixed snapchat camera
