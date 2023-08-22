@@ -1,0 +1,22 @@
+The build you are receiving is ProjectElixir_3.11_veux-13.0-20230822-0147-OFFICIAL.zip is based on August Security Patch.
+==========================================
+Notes:
+==========================================
+CTS passes by default.
+Dirty Flash is possible.
+AOSP Recovery is shipped by default.
+Firmware And Gapps are shipped default with Rom.
+==========================================
+ROM Changelogs:
+==========================================
+Comes wit August Security patch.
+drop old non used stuff.
+switch to VEUX ril stack (5G should really work fine).
+Drop input boost (less battery drain).
+Optimise dex flags.
+Fixed statusbar padding.
+Updated vendor and kernel to latest global v14.0.2.0
+Updated firmware to latest global
+fixed nfc for global users
+Dolby and spatial audio comes with in the rom
+launcher 3 is shipped by default
