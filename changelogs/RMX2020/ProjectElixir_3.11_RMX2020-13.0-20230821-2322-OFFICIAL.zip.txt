@@ -1,0 +1,2 @@
+Hotfix Build
+Settings crash issue fixed while setting up Setup Wizard
