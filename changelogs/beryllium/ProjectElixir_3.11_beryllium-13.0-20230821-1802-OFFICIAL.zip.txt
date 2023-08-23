@@ -1,0 +1,4 @@
+- Augest patch.
+- Some kernel optimization.
+- tried to resolve battery backup issue.
+- Misc optimazations.
