@@ -28,6 +28,7 @@ import json
 import datetime
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 from time import sleep
+from NoobStuffs.libtelegraph import TelegraphHelper
 
 # Get configs from workflow secrets
 def getConfig(config_name: str):
@@ -50,6 +51,9 @@ except:
 
 # Init bot
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
+
+# Init telegraph
+telegraph = TelegraphHelper("Project-Elixir", "https://t.me/projectelixir_bot")
 
 # File directories
 jsonDir = "builds"
@@ -214,6 +218,14 @@ def tg_message():
 def send_log(chat_id, text):
     return bot.send_message(chat_id=chat_id, text=text, disable_web_page_preview=True)
 
+def send_log_button(chat_id, text, button):
+    return bot.send_message(
+        chat_id=chat_id,
+        text=text,
+        reply_markup=button,
+        disable_web_page_preview=True
+    )
+
 # Get all the devices which are in official repo
 def get_devices():
     files = []
@@ -236,6 +248,7 @@ def get_devices():
 def tg_log():
     Updated = []
     YetToUpdate = []
+    buttons = InlineKeyboardMarkup()
     for device in get_devices():
         if device['elixir_version'] == ELIXIR_VERSION_CHECK:
             Updated.append(device)
@@ -243,29 +256,37 @@ def tg_log():
             YetToUpdate.append(device)
     count = 1
     msg = ""
-    msg += f"<b>Project Elixir Devices Tiramisu Update Status</b>\n\n"
+    msg += f"<b>Project Elixir Devices Tiramisu Update Status</b><br><br>"
     msg += f"<b>The following devices have been updated to the version</b> <code>{ELIXIR_VERSION_CHECK}</code> <b>in the current month:</b> "
     if len(Updated) == 0:
         msg += f"<code>None</code>"
     else:
         for device in Updated:
-            msg += f"\n<b>{count}.</b> <code>{device['device_name']} ({device['codename']})</code> <b>-</b> <a href='https://t.me/{device['maintainer']}'>{device['maintainer']}</a>"
+            msg += f"<br><b>{count}.</b> <code>{device['device_name']} ({device['codename']})</code> <b>-</b> <a href='https://t.me/{device['maintainer']}'>{device['maintainer']}</a>"
             count += 1
-    msg += "\n\n"
+    msg += "<br><br>"
     count = 1
     msg += f"<b>The following devices have not been updated to the version</b> <code>{ELIXIR_VERSION_CHECK}</code> <b>in the current month:</b> "
     if len(YetToUpdate) == 0:
         msg += f"<code>None</code>"
     else:
         for device in YetToUpdate:
-            msg += f"\n<b>{count}.</b> <code>{device['device_name']} ({device['codename']})</code> <b>-</b> <a href='https://t.me/{device['maintainer']}'>{device['maintainer']}</a>"
+            msg += f"<br><b>{count}.</b> <code>{device['device_name']} ({device['codename']})</code> <b>-</b> <a href='https://t.me/{device['maintainer']}'>{device['maintainer']}</a>"
             count += 1
-    msg += "\n\n"
-    msg += f"<b>Total Official Devices:</b> <code>{str(len(get_devices()))}</code>\n"
-    msg += f"<b>Updated during current month:</b> <code>{str(len(Updated))}</code>\n"
-    msg += f"<b>Not Updated during current month:</b> <code>{str(len(YetToUpdate))}</code>\n\n"
+    msg += "<br><br>"
+    msg += f"<b>Total Official Devices:</b> <code>{str(len(get_devices()))}</code><br>"
+    msg += f"<b>Updated during current month:</b> <code>{str(len(Updated))}</code><br>"
+    msg += f"<b>Not Updated during current month:</b> <code>{str(len(YetToUpdate))}</code><br><br>"
     msg += f"<b>Information as on:</b> <code>{str(datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M'))} hours (UTC)</code>"
-    send_log(PRIV_CHAT_ID, msg)
+    text = f"<b>Project Elixir Devices Tiramisu Update Status</b>\n\n"
+    text += f"<b>Total Official Devices:</b> <code>{str(len(get_devices()))}</code>\n"
+    text += f"<b>Updated during current month:</b> <code>{str(len(Updated))}</code>\n"
+    text += f"<b>Not Updated during current month:</b> <code>{str(len(YetToUpdate))}</code>\n"
+    text += f"<b>Information as on:</b> <code>{str(datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M'))} hours (UTC)</code>"
+    telegph_url = telegraph.create_page(title="Device Update Status", content=msg)
+    button1 = InlineKeyboardButton("More Info", telegph_url['url'].replace("telegra.ph", "graph.org"))
+    buttons.add(button1)
+    send_log_button(PRIV_CHAT_ID, text, buttons)
 
 # Final stuffs
 tg_message()
