@@ -74,7 +74,7 @@ Asus Zenfone Max Pro M1 (X00TD) by NotHarshhaa
 
 ### - OnePlus Devices
 ```
-OnePlus 6T (fajita) by CR7Raees
+OnePlus 6T (fajita) by Legendleo90
 OnePlus 7 (guacamoleb) by ugly_kid_af
 OnePlus 7 Pro (guacamole) by mhmdeveloper
 OnePlus 7T (hotdogb) by Master & Saurav

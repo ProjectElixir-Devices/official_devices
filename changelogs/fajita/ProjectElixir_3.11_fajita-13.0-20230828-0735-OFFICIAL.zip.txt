@@ -1,0 +1,5 @@
+v3.11 for Oneplus 6T
+
+- Initial Official Build
+- Encrypted by default
+- crDroid-next kernel by default
