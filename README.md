@@ -55,6 +55,7 @@ Realme XT (RMX1921) by dhruvesh_23
 realme GT Master (RMX3360) by itsXRP
 Realme X50 Pro 5G (bladerunner) by Sreelekshman
 Realme X50 Pro Player (bladerunner_48m) by Sreelekshman
+Realme GT Neo 3T/Q5 Pro (RMX3371) by Abhishek Shukla
 ```
 
 ### - Samsung Devices
