@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.1_fajita-13.0-20220922-0834-BETA-OFFICIAL.zip",
-    "datetime": 1663835565,
-    "size": 1436925878,
-    "url": "https://private.projectelixiros.com/thirteen/fajita/ProjectElixir_3.1_fajita-13.0-20220922-0834-BETA-OFFICIAL.zip",
-    "filehash": "29ed1094b7a5f7c3e38dfbf07160aac3",
+    "filename": "ProjectElixir_3.11_fajita-13.0-20230828-0735-OFFICIAL.zip",
+    "datetime": 1693200900,
+    "size": 1557893600,
+    "url": "https://private.projectelixiros.com/thirteen/fajita/ProjectElixir_3.11_fajita-13.0-20230828-0735-OFFICIAL.zip",
+    "filehash": "9b2491046425f83dbed507fb24f11020",
     "version": "13.0",
-    "id": "891d9ea5c0058d5648608e28a0d9195d59f7ca042c9b3626d52c2a28a8e3a52e",
-    "tg_username": "CR7Raees",
+    "id": "0a25cc86b0b0012d536ee7f4f1d446a9b8abc0854bf2ad9efe197bf36869e464",       
+    "tg_username": "Legendleo90",
     "device_name": "OnePlus 6T",
     "device": "fajita",
-    "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-fajita-project-elixir-beta-oneplus-6t-aosp.4485487/",
-    "is_active": false
+    "xda_thread": "https://forum.xda-developers.com/t/rom-13-fajita-project-elixir-official-thirteen-aosp.4621637/",
+    "is_active": true     
 }
