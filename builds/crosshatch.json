@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.10_crosshatch-13.0-20230805-1105-OFFICIAL.zip",
-    "datetime": 1691226300,
-    "size": 1494866511,
-    "url": "https://private.projectelixiros.com/thirteen/crosshatch/ProjectElixir_3.10_crosshatch-13.0-20230805-1105-OFFICIAL.zip",
-    "filehash": "4a79c347bddc24247ef7ba037d43eafa",
+    "filename": "ProjectElixir_3.12_crosshatch-13.0-20230925-1952-OFFICIAL.zip",
+    "datetime": 1695664320,
+    "size": 1679132076,
+    "url": "https://private.projectelixiros.com/thirteen/crosshatch/ProjectElixir_3.12_crosshatch-13.0-20230925-1952-OFFICIAL.zip",
+    "filehash": "af0e5c3b7da9e645da6b13f5a455100b",
     "version": "13.0",
-    "id": "19c40f961543446138fd002e6ef7de30ec773eed11957d8295b039692f98e4d1",       
+    "id": "b6d9dba346a641e3b8132e80491a72144d35e8d60ddf1519dce4f1dad5116074",       
     "tg_username": "jrjmt",
     "device_name": "Google Pixel 3 XL",
     "device": "crosshatch",
     "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-crosshatch-project-elixir-official-stable-aosp.4579771/",
-    "is_active": true     
+    "is_active": true   
 }
