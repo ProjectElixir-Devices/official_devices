@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.6_haydn-13.0-20230221-1253-OFFICIAL.zip",
-    "datetime": 1676980380,
-    "size": 2161326230,
-    "url": "https://private.projectelixiros.com/thirteen/haydn/ProjectElixir_3.6_haydn-13.0-20230221-1253-OFFICIAL.zip",
-    "filehash": "ee40180646268c4791bac69f870d6b61",
+    "filename": "ProjectElixir_3.12_haydn-13.0-20230925-1219-OFFICIAL.zip",
+    "datetime": 1695637140,
+    "size": 2388035938,
+    "url": "https://private.projectelixiros.com/Private/thirteen/haydn/ProjectElixir_3.12_haydn-13.0-20230925-1219-OFFICIAL.zip",
+    "filehash": "7d69da6c094e71e1038c9b11a157ac29",
     "version": "13.0",
-    "id": "bbd488743ce271cf492883562d79507dec8d0fbe1ea70fb4cbbe068a6aed90f5",
-    "tg_username": "Douxx_gang",
+    "id": "c7bf77fc3b44b9b2ce29b372122970e565939aef29fe15306a885b77a7cddbe9",       
+    "tg_username": "INNUENDOCODM",
     "device_name": "Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro",
     "device": "haydn",
-    "xda_thread": "https://forum.xda-developers.com/t/rom-13-haydn-project-elixir-official-aosp.4486977/",
-    "is_active": false
+    "xda_thread": "https://forum.xda-developers.com/t/rom-13-haydn-project-elixir-official-aosp.4631323/",
+    "is_active": true     
 }

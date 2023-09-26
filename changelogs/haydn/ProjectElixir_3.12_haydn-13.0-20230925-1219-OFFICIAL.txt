@@ -1,0 +1,8 @@
+## haydn 3.12
+
+- Initial Offcial Build
+- September Security Patch
+- Updated leica cam to 5.0
+
+## Note
+ - Dont Flash Anything, Everything is Included
