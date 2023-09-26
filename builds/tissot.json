@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.10_tissot-13.0-20230806-0754-OFFICIAL.zip",
-    "datetime": 1691301240,
-    "size": 1228966951,
-    "url": "https://private.projectelixiros.com/thirteen/tissot/ProjectElixir_3.10_tissot-13.0-20230806-0754-OFFICIAL.zip",
-    "filehash": "6f303ca5aff5c2e24d1160177064f527",
+    "filename": "ProjectElixir_3.12_tissot-13.0-20230925-0907-OFFICIAL.zip",
+    "datetime": 1695625620,
+    "size": 1229849600,
+    "url": "https://private.projectelixiros.com/thirteen/tissot/ProjectElixir_3.12_tissot-13.0-20230925-0907-OFFICIAL.zip",
+    "filehash": "fab4a759d819d8fe068c2907cb6ddef2",
     "version": "13.0",
-    "id": "987764d723f7af55e8269391fa14c4bea127839feaa8328b4dd9a35a159d3297",       
+    "id": "cfef871a0cdc38949f0e19886d313c8b76ab3c966c3df6cfae5649e7d56056d2",       
     "tg_username": "ugly_kid_af",
     "device_name": "Xiaomi Mi A1",
     "device": "tissot",
     "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-tissot-project-elixir-official-aosp.4513527/",
-    "is_active": false     
+    "is_active": true     
 }
