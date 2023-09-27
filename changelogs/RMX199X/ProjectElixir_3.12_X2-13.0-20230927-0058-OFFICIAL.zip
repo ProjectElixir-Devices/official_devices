@@ -1,0 +1,7 @@
+Elixir v3.12
+- Tune vibration
+- Update dolby configs
+- Remove some packages
+- Update surfaceflinger
+- Added missing qti thermal
+- some under the hood optimazation
