@@ -1,0 +1,22 @@
+ Merged latest September Security patch
+ Added Parallel Space
+ Exclusive: Added 2 new lock screen clock
+ Added App Lock and hide in launcher
+ Added Statusbar Clock background chip
+ Added XuiMod: Toast Animations
+ Added brightness slider styles
+ Added Themes: Data icon style
+ Added Add option to launch statusbar tuner
+ Added SystemUI: Custom QS header image
+ Added Power Menu animations
+ Settings: Add greeting in homepage of settings
+ Added charging icon to the charging animation
+ SystemUI: QS header gradient improvements
+ Enable and tune new keyguard user switcher
+ Add statubar clock customisations
+ Merge translations from crowdin
+ Settings: Update Essence icon
+ Settings: Don't turn on smart 5g by default
+ Settings: Rework icons
+ Fixed many bugs related to battery backup, heating and ui glitch
+ Improved stability and performance
