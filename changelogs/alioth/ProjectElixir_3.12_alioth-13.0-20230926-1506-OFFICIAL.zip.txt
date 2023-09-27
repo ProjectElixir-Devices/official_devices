@@ -1,0 +1,7 @@
+// v3.12 Chnagelogs alioth //
+
+- Switched to los kernel
+- Some vendor side chnages
+- Improved overall smoothness
+
+(Note: Los kernel break dc dimming and hbm. use any other kernel to use those)
