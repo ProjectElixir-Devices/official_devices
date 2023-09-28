@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.11_tulip-13.0-20230822-1413-OFFICIAL.zip",
-    "datetime": 1692706380,
-    "size": 1525420515,
-    "url": "https://private.projectelixiros.com/thirteen/tulip/ProjectElixir_3.11_tulip-13.0-20230822-1413-OFFICIAL.zip",
-    "filehash": "25007cc62a6796fabca3e76a9d596493",
+    "filename": "ProjectElixir_3.12_tulip-13.0-20230926-1044-OFFICIAL.zip",
+    "datetime": 1695717840,
+    "size": 1588823096,
+    "url": "https://private.projectelixiros.com/thirteen/tulip/ProjectElixir_3.12_tulip-13.0-20230926-1044-OFFICIAL.zip",
+    "filehash": "32c1ba585612bb703dc936462221733e",
     "version": "13.0",
-    "id": "7216748dea0c9022abfa24ee4ac882eb03d4a26ab25cab40ee4012ceeb1cc9c4",
+    "id": "36b1f22d49adb1cf3f1ca40a53519e3f638b4bc57f12082cd551ec1c4c525b29",       
     "tg_username": "official_mocha",
     "device_name": "Redmi Note 6 Pro",
     "device": "tulip",
     "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-tulip-project-elixir-official-stable-aosp.4579351/",
-    "is_active": true
+    "is_active": true     
 }
