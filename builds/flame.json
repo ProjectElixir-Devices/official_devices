@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.11_flame-13.0-20230819-1928-OFFICIAL.zip",
-    "datetime": 1692466080,
-    "size": 1565246807,
-    "url": "https://private.projectelixiros.com/thirteen/flame/ProjectElixir_3.11_flame-13.0-20230819-1928-OFFICIAL.zip",
-    "filehash": "c111cf8d8be3e76580a180c4247949b4",
+    "filename": "ProjectElixir_3.12_flame-13.0-20230927-0515-OFFICIAL.zip",
+    "datetime": 1695784500,
+    "size": 1632666592,
+    "url": "https://private.projectelixiros.com/thirteen/flame/ProjectElixir_3.12_flame-13.0-20230927-0515-OFFICIAL.zip",
+    "filehash": "40ceea74268ff918d1bc3a73528a0c66",
     "version": "13.0",
-    "id": "db5d33728bba632d1641a9bd257c462bda2b136ca181d3b848402cab76423c31",       
+    "id": "a341c05c2d055aa41cd47be9ca95157c81175d4baaca10d76e906d30a1cba070",       
     "tg_username": "Yul_Nicolai",
     "device_name": "Google Pixel 4",
     "device": "flame",
-    "xda_thread": "https://forum.xda-developers.com/t/official-projectelixir-v3-11-flame-android-13.4617855/",
+    "xda_thread": "https://forum.xda-developers.com/t/official-projectelixir-v3-12-flame-android-13.4617855/",
     "is_active": true     
 }
