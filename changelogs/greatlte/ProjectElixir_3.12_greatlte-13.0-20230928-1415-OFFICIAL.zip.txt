@@ -1,0 +1,2 @@
+- Fixed NFC
+- Based on the September Security Patch
