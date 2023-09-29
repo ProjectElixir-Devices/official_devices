@@ -1,0 +1,6 @@
+- Switch to AOSP Wifi service
+- Drop unused overlays
+- Switch to clang-r437112b
+- Address oppo charger denials
+- Update Realme Settings (Device Settings)
+- Misc. Fixes and Improvements
