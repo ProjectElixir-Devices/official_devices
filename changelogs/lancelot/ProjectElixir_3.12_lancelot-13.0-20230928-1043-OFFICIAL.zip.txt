@@ -1,4 +1,4 @@
-### v3.12 merlinx
+### v3.12 
 
 - Fix power off alarm 
 - use Zram 
