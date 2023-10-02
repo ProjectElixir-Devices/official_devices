@@ -1,0 +1,5 @@
+- Add erofs support
+- Fix up hotspot issue
+- Fix up Settings crash issue
+- Adjust the status bar
+- Further improve the r/w performance
