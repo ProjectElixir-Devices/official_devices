@@ -1,5 +1,0 @@
-- Initial Official ProjectElixir build.
-- October 5th, 2022 Security Patch.
-- Used pie chromatix libs for better camera quality.
-- Updated MIUI blobs from V12.5.2.0.RCOMIXM.
-- Misc changes, fixes & source upsteam.

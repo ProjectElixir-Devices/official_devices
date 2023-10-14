@@ -1,4 +1,0 @@
-February 5th, 2023 Security Patch.
-Minor cleanup on fingerprint HAL.
-Enable USB FastCharge by default.
-Source side upsteams & Misc changes.

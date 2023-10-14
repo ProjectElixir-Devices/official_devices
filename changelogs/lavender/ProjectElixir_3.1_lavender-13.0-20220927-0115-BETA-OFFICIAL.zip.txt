@@ -1,4 +1,0 @@
-initial A13 build
-ROM is encrypted by default
-Gapps is shipped by default
-Better use latest OFOX stable 

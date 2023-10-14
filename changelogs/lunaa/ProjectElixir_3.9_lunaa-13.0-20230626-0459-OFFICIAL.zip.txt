@@ -1,8 +1,0 @@
--May Sp
--Updated trees to newer oneplus base
--Import haptics configuration from realme GT2
--Revert back to older bluetooth audio blobs
--Fixed auto brightness issues
--Added realme Camera and Gallery
-
-Special Thanks to @pjgowtham for base trees.

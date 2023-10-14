@@ -1,8 +1,0 @@
-- Feb security path
-- Increase rounded corner radius adjustment (This fixes the top corner radius on the lockscreen)
-- Bring back GoogleCamera
-- Switch to lineage kernel
-- Implement kernelsu
-- Update multiple vibration strength levels overlay for 13
-- Disable use buffer age to workaround driver issue (Fixed lag issue)
-- Drop xz ramdisk

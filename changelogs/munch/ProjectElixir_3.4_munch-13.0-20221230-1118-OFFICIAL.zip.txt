@@ -1,5 +1,0 @@
-- Fixed compatibility issue with Orange Fox & TWRP custom recovery
-- Updated Security patch to December 2022
-- Added GcamGo
-- Fixed all other issues that have existed since Elixir 3.1
-- Other minor improvements

@@ -1,4 +1,0 @@
-- Fixed issue with Netflix.
-- Fixed issue with Snapchat.
-- Addressed some denials.
-- Switched to user build.

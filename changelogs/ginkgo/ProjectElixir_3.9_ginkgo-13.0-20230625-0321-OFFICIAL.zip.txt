@@ -1,3 +1,0 @@
-Added Some Gboard side padding.
-Added Battery Health section.
-Some minor improvements under the hood.

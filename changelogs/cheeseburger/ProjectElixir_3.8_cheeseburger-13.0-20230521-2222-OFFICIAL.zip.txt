@@ -1,3 +1,0 @@
-- [FIXED] NFC Issue.
-- [BUG] FlashLight Issue.
-- May security patch.

@@ -1,4 +1,0 @@
-CLEAN FLASH MANDATORY
-switched to decrypted build.
-switched to Cuh-v1 kernel.
-some minor improvements here n there.

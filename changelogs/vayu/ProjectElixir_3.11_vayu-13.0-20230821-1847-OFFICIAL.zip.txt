@@ -1,2 +1,0 @@
- - No device changes since 3.1o. 
- - Source Upstreamed to 3.11

@@ -1,9 +1,0 @@
-Initial OFFICIAL Build
-Rom is decrypted by default
-Gapps shipped with ROM
-CTS passes by default
-No Need to flash DFE
-VoLTE working (Icon will not show)
-Native video call viLTE working
-Wifi Display Working
-No bugs from my side

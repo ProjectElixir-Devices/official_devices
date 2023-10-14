@@ -1,8 +1,0 @@
-- Move to common libpiex_shim
-- Fix compilation for QPR1 merge
-- Set default wifi country code to '00
-- Disable VSync for CPU rendered apps
-- MiuiCamera v4.3.004180.4 is included
-- Compile HWUI for performance
-- Switch back to vantom kernel ( playgound clang 16)
-- Nuked oneplus dolby

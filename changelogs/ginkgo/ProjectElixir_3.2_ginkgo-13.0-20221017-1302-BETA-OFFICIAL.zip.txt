@@ -1,7 +1,0 @@
-- HotFix build for Project-Elixir 3.2.
-- Fixed Double Tap to Wake.
-- Fixed Hotspot bug.
-- Fixed Settings crash.
-- Miui Camera replaced by GCamGo.
-- Fixed Fast charging issue.
-- Move to QuickSliveR-2.5 (4.14.256) kernel.

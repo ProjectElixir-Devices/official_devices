@@ -1,6 +1,0 @@
-### Project Elixir for Realme GT Neo 3T/Q5 Pro RMX3371 Changelogs
-
-### v3.11 RMX3371
-
-- Fixed Hotspot Tile crashing
-- Included Gcam as default camera

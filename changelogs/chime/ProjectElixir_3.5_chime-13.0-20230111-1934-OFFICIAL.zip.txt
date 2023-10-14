@@ -1,3 +1,0 @@
-- January sec patch
-- Shipped with anya kernel
-- Misc changes & improvements

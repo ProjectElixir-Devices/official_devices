@@ -1,5 +1,0 @@
-Initial Project Elixir 3.1 (A13) release
-Add peak and min refresh rate switch
-Switch to SkiaGL Threaded
-Added MI Sound Enhancer
-Rework thermal

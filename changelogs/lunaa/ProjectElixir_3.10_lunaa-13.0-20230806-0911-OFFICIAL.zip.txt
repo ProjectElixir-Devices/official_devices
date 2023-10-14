@@ -1,9 +1,0 @@
-Elixir v3.10 Changelogs:
--July Sp
--Fixed Hotspot issue 
--Fixed Whatsapp/telegram calls volume always full issue
--Fixed in games mic issue
--Fixed audio in some apps plays always at high pitch
--Updated Blobs to RMX3363 Global F09
-
-Special Thanks to @pjgowtham for base trees.

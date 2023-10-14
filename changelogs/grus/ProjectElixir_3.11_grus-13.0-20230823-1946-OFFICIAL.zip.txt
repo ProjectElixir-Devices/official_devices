@@ -1,4 +1,0 @@
-- Initial OFFICIAL Build
-- CTS passes by default
-- Wifi Display Working
-- Augest patch.

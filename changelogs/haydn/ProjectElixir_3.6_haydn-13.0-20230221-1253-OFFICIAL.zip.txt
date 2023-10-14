@@ -1,5 +1,0 @@
-## haydn 3.6
-
-- February security patch.
-- Dropped moto dolby.
-- Based on Lineage common sm8350 trees.

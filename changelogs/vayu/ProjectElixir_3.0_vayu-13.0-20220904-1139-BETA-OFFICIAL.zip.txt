@@ -1,7 +1,0 @@
-Changelogs:
-Initial official build based on Android 13 with almost all device side changes from Android 12 builds :)
-
-Notes:
-G Apps shipped with Rom.
-CTS passes by default.
-Clean Flash Mandatory (If you report things without clean flashing, I will simply ignore you).

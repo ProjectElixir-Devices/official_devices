@@ -1,6 +1,0 @@
-Project Elixir 3.2 for Realme X7 Max 5G
-- Fix Bluetooth audio
-- Misc changes and fixes lazy to write also bsy with personal life
-- Selinux is Enforcing
-- Build is encrypted
-- CTS passes and banking apps working

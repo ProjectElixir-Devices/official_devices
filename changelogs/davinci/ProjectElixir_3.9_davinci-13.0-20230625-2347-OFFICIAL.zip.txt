@@ -1,8 +1,0 @@
-Kindly note this build isn't erofs build so you can use dfe if you wants
-
-- Update Miuicamera to leica+miui version
-- Update moto dolby
-- Set display mode to DCI-P3
-- Under the hood improvements and fixes
-
-Bugs: Screen off fod is not working on this build

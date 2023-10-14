@@ -1,4 +1,0 @@
-- Fixed Video lag/delay issues
-- Synced latest Elixir 3.4 source
-- Clean flash recommended
-- Misc changes and fixes 

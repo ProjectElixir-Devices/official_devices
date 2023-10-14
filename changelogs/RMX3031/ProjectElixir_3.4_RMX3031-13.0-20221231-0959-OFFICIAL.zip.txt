@@ -1,6 +1,0 @@
-Project Elixir 3.4 for Realme X7 Max 5G
-- Initial OSS vendor based build
-- RMX3031_C.12 Firmware is mandatory else device brick
-- Dont't Dirty flash this
-- More info on website
-- Special thanks to @ManshuTyagi for OSS

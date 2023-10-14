@@ -1,3 +1,0 @@
-- Update parts backend
-- Update kernel
-- July patch

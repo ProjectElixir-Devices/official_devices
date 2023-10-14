@@ -1,7 +1,0 @@
-• Enable LTE+ icon
-• Camera freeze fixed
-• Disable Blur on App Lunch
-• Source upstream (may patch)
-• Some Misc changes and fixes
-• Disable VSync for CPU rendered apps
-• Improved performance and Stability

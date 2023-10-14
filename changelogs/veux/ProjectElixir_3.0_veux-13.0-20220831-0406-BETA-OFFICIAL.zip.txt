@@ -1,9 +1,0 @@
-This build you're receiving is ProjectElixir_3.0_veux-13.0-20220831-0406-BETA-OFFICIAL.zip
-
-Notes:
-Gapps And Firmware are shipped with Rom.
-CTS passes by default.
-Clean Flash Mandatory(If you report things without clean flashing, I will simply ignore you).
-
-Changelogs:
-Initial build based on Android 13 :)

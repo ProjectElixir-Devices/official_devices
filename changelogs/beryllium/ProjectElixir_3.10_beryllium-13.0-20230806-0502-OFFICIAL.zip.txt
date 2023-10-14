@@ -1,4 +1,0 @@
-- July patch.
-- Fixed booting issue in some devices.
-- Enabled apk fs-verify.
-- misc optimazations.

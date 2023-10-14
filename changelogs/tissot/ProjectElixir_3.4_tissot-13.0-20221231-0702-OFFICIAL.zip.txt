@@ -1,4 +1,0 @@
-- parts: Added Clear Speaker
-- Build Aperture Cam app
-- Source changes of v3.4
-- Misc changes and fixes 

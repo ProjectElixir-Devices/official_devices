@@ -1,8 +1,0 @@
-- Initial Android 13 build
-- Shipped with anya kernel
-- Enable adaptive charging feature
-- Build GPS stack from source
-- Enable blur by default
-- Disable app launch blur
-- Convert overlays into RRO overlays
-- Enable Multi-Gen LRU

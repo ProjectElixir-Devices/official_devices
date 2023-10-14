@@ -1,5 +1,0 @@
-- switch to stable gs201 kernel
-- upstreamed july patch blobs
-- elixir rebased from scratch
-- instability issues fixed
-- include kernelside patches for pixelparts

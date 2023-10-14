@@ -1,3 +1,0 @@
-- Initial release
-- Based on August security patch
-- Stable

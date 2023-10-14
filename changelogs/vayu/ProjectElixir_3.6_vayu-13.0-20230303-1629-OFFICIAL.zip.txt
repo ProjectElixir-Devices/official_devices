@@ -1,2 +1,0 @@
- - Remove depricated entries from Audio Configs
- - Update carrier config from LA.QSSI.13.0.r1-07400-qssi.0 and MIUI 13.0.5.0

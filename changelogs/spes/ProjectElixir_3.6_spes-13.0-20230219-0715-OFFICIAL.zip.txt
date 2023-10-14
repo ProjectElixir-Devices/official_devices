@@ -1,5 +1,0 @@
-Changelog:
-• Updated rounded corner overlay from stock
-• Downgraded prebuilt kernel from SPESGlobal V13.0.16.0-A11
-• Downgraded blobs from SPESGlobal V13.0.16.0-A11
-• Misc. Fixes and Improvements

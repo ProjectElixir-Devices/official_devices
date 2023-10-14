@@ -1,8 +1,0 @@
-Project Elixir v3.10
- - Upstream kernel to Linux v4.14.320 
- - Optimize audio codec 
- - Drop unused props and configs 
- - Revert back to proprietary perf 
- - Add CIT sensor service for better adaptive brightness 
- - Update vendor blobs from MIUI 14.0.3.0 Global 
- - Patch IMS APK from MIUI 14.0.3.0 Global 

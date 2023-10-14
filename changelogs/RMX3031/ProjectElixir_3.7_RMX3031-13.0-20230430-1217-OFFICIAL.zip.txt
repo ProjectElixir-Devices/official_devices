@@ -1,8 +1,0 @@
-Project Elixir 3.7 for Realme X7 Max 5G
-- Switch to RUI4 F.12 firmware as base
-- Fixed crash in Oplus gallery share button
-- Switched to OSS kernel and kernel modules
-- Re-Added screen off touch gestures (Only DT2W not working RN)
-- Switched to google dialer (Patched apk so no call recording announcement)
-- RMX3031_F.12 Firmware is necessary
-- Don't flash this on any other firmware than F.12

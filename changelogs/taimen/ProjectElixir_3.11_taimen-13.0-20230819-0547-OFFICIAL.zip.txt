@@ -1,7 +1,0 @@
-### v3.11 Taimen
-- August security patch
-- Correct the slot ID of non-removable ESIM
-- Dumpstate: Don't dump serial number
-- Ueventd: Remove all permissions from /sys/devices/soc0/serial_number
-- Sepolicy: Restrict access to /sys/devices/soc0/serial_number
-- Build GcamMod 8.4

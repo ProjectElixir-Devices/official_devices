@@ -1,8 +1,0 @@
-- Fixed Tint when switching between landscape and portrait during video playback 
-- Fixed issue where some videos were getting stuck in apps like Instagram
-- Enabled display protected contents in SF (required for PIP in Netflix and other widevine apps) 
-- Disabled Async MTE on System Server
-- Offloaded WM shell to another thread (improves performance)
-- Enabled QR scanner shortcut in lockscreen 
-- Added hwui props from RUI2.0
-- Miscellaneous other changes to make rom smoother and better

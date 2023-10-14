@@ -1,8 +1,0 @@
-This build you're receiving is ProjectElixir_3.11_raphael-13.0-20230822-0234-OFFICIAL.zip
-
-- Fixed Encryption
-- Enabled pocket mode
-- Leica+Miui camera preinstalled
-- CTS passes by default
-- Dropped some Gapps packages
-- Some more under the hood changes

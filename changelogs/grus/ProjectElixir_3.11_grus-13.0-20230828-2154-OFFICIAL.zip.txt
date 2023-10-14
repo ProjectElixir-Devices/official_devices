@@ -1,4 +1,0 @@
-- Move to GCamGo(Google Camera Go)
-- Remove install Test apps
-- Smarter decisions on whether to use a 2- or 5Ghz WLAN
-- Enable QPower and Deep Sleep leads to amazing power savings

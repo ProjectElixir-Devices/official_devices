@@ -1,7 +1,0 @@
-- Fix zoom
-- Kang runtime cpusets from coral
-- Update blobs from miui_LIME_V13.0.4.0.SJQCNXM_88d1d76919_12.0
-- Import camxoverride settings configuration
-- Switch BtAudio to AIDL
-- Apply MIUI build fingerprint for each variants
-- Add blkio tuning from sunfish

@@ -1,9 +1,0 @@
-### v3.9 Taimen
-Device Changelog:
-- May security patch
-- Enable AOSP surfaceflinger
-- Switch to AutoSingleLayer Android 13 Setting
-- Enable ro.hwui.render_ahead
-- Lower gps debug level
-- Drop Google Camera
-- Fixed live captions

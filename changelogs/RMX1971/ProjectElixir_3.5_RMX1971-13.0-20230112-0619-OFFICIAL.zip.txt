@@ -1,7 +1,0 @@
-******* CLEAN FLASH IS MUST FOR THIS VERSION *****
-- Based on January Security Patch
-- Fixed video playback tinting issue in apps like Instagram
-- Fixed boot animation lags/freezes
-- Fixed triple frame buffer regression
-- Upstreamed Kharame Kernel to latest 4.9.337
-- Miscellaneous other changes to make rom smoother and better

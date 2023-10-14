@@ -1,9 +1,0 @@
-Elixir v3.11 Changelogs (coral)
-• Based on August Security Patch
-• CTS passed by default
-• Misc. Fixes and Improvements
-
-Notes: 
-• SELinux Enforcing
-• GApps are included
-• CTS passed by default

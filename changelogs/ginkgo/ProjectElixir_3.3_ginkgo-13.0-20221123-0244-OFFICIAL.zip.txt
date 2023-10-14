@@ -1,6 +1,0 @@
-November 5th, 2022 Security Patch.
-Fixed NFC for willow users.
-Fixed HDR in Gcam Mods.
-Fixed some minor crashes.
-Upstream Display Blob.
-Misc changes, fixes & source upsteam.

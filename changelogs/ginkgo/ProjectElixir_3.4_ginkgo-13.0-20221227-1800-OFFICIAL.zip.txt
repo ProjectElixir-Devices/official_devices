@@ -1,6 +1,0 @@
-December 5th, 2022 Security Patch.
-Replaced GCamGo with Aparture Camera.
-Fixed call recording issue.
-Updated Display, Audio & media blobs to latest CLO.
-Fixed fastcharging in chineese varrient.
-Many more changes under the hood.

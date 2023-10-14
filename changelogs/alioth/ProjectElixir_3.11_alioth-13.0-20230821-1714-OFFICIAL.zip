@@ -1,7 +1,0 @@
-v3.11 Alioth:
-
-- Fixed the issue where audio volume goes low and High
-- If you face Delay in FP, switch to NoKernel
-- Disabled SDM rotator downscaler
-- Enabled Optimized Power Management
-- Droped slim_daemon
