@@ -16,7 +16,7 @@ env:
   PRIV_CHAT_ID: ${{ secrets.PRIV_CHAT_ID }}
   ELIXIR_VERSION_CHECK: ${{ secrets.ELIXIR_VERSION_CHECK }}
   STICKER_ID: ${{ secrets.STICKER_ID }}
-  BANNER_URL_T: ${{ secrets.BANNER_URL_T }}
+  BANNER_URL_U: ${{ secrets.BANNER_URL_U }}
   NOTES: ${{ secrets.NOTES }}
 
 jobs:
@@ -45,4 +45,4 @@ jobs:
           COMMIT_MESSAGE=$(cat commit_mesg.txt)
           rm commit_mesg.txt
           git add . && git commit -sm "$COMMIT_MESSAGE"
-          git push origin A13
+          git push origin A14

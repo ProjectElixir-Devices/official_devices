@@ -38,7 +38,7 @@ try:
     CHAT_ID = getConfig("CHAT_ID")
     PRIV_CHAT_ID = getConfig("PRIV_CHAT_ID")
     STICKER_ID =  getConfig("STICKER_ID")
-    BANNER_URL = getConfig("BANNER_URL_T")
+    BANNER_URL = getConfig("BANNER_URL_U")
     ELIXIR_VERSION_CHECK = getConfig("ELIXIR_VERSION_CHECK")
 except KeyError:
     print("Fill all the configs plox..\nExiting...")
@@ -163,8 +163,8 @@ def message_content(information):
     msg += f"<b>Rom Version:</b> <code>{information['elixir_version']}</code>\n"
     msg += f"<b>Build Date:</b> <code>{information['datetime']} UTC</code>\n\n"
     msg += f"<b>Source Changelogs:</b> <a href='https://projectelixiros.com/changelog'>Here</a>\n"
-    msg += f"<b>Device Changelogs:</b> <a href='https://github.com/ProjectElixir-Devices/Changelogs/blob/tiramisu/{information['codename']}.md'>Here</a>\n\n"
-    msg += f"<b>Installation Guide:</b> <a href='https://github.com/ProjectElixir-Devices/Wiki/blob/tiramisu/{information['codename']}.md'>Here</a>\n" 
+    msg += f"<b>Device Changelogs:</b> <a href='https://github.com/ProjectElixir-Devices/Changelogs/blob/UNO/{information['codename']}.md'>Here</a>\n\n"
+    msg += f"<b>Installation Guide:</b> <a href='https://github.com/ProjectElixir-Devices/Wiki/blob/UNO/{information['codename']}.md'>Here</a>\n" 
     msg += f"<b>Screenshots:</b> <a href='https://projectelixiros.com/gallery'>Here</a>\n"
     msg += f"<b>MD5:</b> <code>{information['md5']}</code>\n"
     if NOTES is not None and len(NOTES) > 1:
@@ -256,7 +256,7 @@ def tg_log():
             YetToUpdate.append(device)
     count = 1
     msg = ""
-    msg += f"<b>Project Elixir Devices Tiramisu Update Status</b><br><br>"
+    msg += f"<b>Project Elixir Devices UpsideDownCake Update Status</b><br><br>"
     msg += f"<b>The following devices have been updated to the version</b> <code>{ELIXIR_VERSION_CHECK}</code> <b>in the current month:</b> "
     if len(Updated) == 0:
         msg += f"<code>None</code>"
