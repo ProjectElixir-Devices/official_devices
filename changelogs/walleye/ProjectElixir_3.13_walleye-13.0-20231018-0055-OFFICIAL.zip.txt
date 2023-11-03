@@ -1,0 +1,5 @@
+### v3.13 Walleye EOL
+- Sept security patch
+
+Note:
+If u got bootloop when reboot to recovery, just flash reovey from PixelExperience
