@@ -1,0 +1,9 @@
+## haydn 3.13
+
+- Synced the latest source
+- September patch
+- Added 6ghz wifi support
+
+## Note
+- Dont Flash Anything, Everything is Included
+- Lieca Cam Included 
