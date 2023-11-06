@@ -1,0 +1,6 @@
+### v3.13 Taimen EOL
+- September security patch merge
+- Minor updates on device side
+
+## Note:
+- If u got bootloop when reboot to recovery, just flash reovey from PixelExperience
