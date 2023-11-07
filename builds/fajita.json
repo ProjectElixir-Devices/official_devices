@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.12_fajita-13.0-20230926-2241-OFFICIAL.zip",
-    "datetime": 1695760860,
-    "size": 1621370576,
-    "url": "https://private.projectelixiros.com/thirteen/fajita/ProjectElixir_3.12_fajita-13.0-20230926-2241-OFFICIAL.zip",
-    "filehash": "c22966908b809febf91ce08dabd4a0a1",
+    "filename": "ProjectElixir_3.13_fajita-13.0-20231107-0715-OFFICIAL.zip",
+    "datetime": 1699337700,
+    "size": 1663786962,
+    "url": "https://private.projectelixiros.com/thirteen/fajita/ProjectElixir_3.13_fajita-13.0-20231107-0715-OFFICIAL.zip",
+    "filehash": "c8dc5c1ff2de52b41615bf309022643a",
     "version": "13.0",
-    "id": "5bf25bcad80179cf75273ff17e1d6e1d42b93c14a03e7365685723b831d72d77",       
+    "id": "3c585fa58a402be7dbb183089a9db5631ade92237653b556f37c721acabfe849",
     "tg_username": "Legendleo90",
     "device_name": "OnePlus 6T",
     "device": "fajita",
     "xda_thread": "https://forum.xda-developers.com/t/rom-13-fajita-project-elixir-official-thirteen-aosp.4621637/",
-    "is_active": true     
+    "is_active": true
 }
