@@ -1,0 +1,9 @@
+The build you are receiving is ProjectElixir_3.13_veux-13.0-20231106-0923-OFFICIAL.zip is based on August Security Patch.
+==========================================
+Notes:
+==========================================
+CTS passes by default.
+Dirty Flash is possible.
+AOSP Recovery is shipped by default.
+Firmware And Gapps are shipped default with Rom.
+FINAL A13 RELEASE [EOL]
