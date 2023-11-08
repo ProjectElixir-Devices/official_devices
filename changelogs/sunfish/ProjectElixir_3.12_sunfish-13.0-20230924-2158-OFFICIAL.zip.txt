@@ -1,8 +1,0 @@
-Elixir v3.12 Changelogs (sunfish) 
-• Based on September Security Patch 
-• Misc. Fixes and Improvements 
-
-Notes: 
-• SELinux Enforcing 
-• GApps are included
-• CTS passed by default

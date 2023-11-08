@@ -1,0 +1,8 @@
+  Elixir v3.13 Changelogs (sunfish)
+• Last Android13 Update
+• Misc. Fixes and Improvements
+
+Notes:
+• SELinux Enforcing
+• GApps are included
+• CTS passed by default
