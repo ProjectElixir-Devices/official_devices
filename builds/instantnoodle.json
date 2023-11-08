@@ -1,15 +1,15 @@
 {
     "error": false,
-    "filename": "ProjectElixir_3.10_instantnoodle-13.0-20230805-0536-OFFICIAL.zip",
-    "datetime": 1691206560,
-    "size": 2468735425,
-    "url": "https://private.projectelixiros.com/thirteen/instantnoodle/ProjectElixir_3.10_instantnoodle-13.0-20230805-0536-OFFICIAL.zip",
-    "filehash": "54b28a69f5a2c7a1b316dd967c6c5227",
+    "filename": "ProjectElixir_3.13_instantnoodle-13.0-20231105-1710-OFFICIAL.zip",
+    "datetime": 1699200600,
+    "size": 2811463838,
+    "url": "https://private.projectelixiros.com/thirteen/instantnoodle/ProjectElixir_3.13_instantnoodle-13.0-20231105-1710-OFFICIAL.zip",
+    "filehash": "d933770a934a6fcb9d4d68efb8836d23",
     "version": "13.0",
-    "id": "5a3aeb08f2c214aed28a7671aff520203e0a681c23942e4c168996baad7f0ca2",
+    "id": "60bed2167277a0b019231daeaa58d03fe050de1cb10b4d02a4526a10e100be99",
     "tg_username": "manid_reddy",
     "device_name": "Oneplus 8",
     "device": "instantnoodle",
     "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-instantnoodle-project-elixir-3-7-official-aosp.4582929/",
-    "is_active": false
+    "is_active": true
 }
