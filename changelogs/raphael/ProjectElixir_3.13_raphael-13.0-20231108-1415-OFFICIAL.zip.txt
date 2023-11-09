@@ -1,0 +1,19 @@
+This build you're receiving is ProjectElixir_3.13_raphael-13.0-20231108-1415-OFFICIAL.zip
+
+### v3.13 | changelog ###
+- Fixed haptic level adjustment
+- Fixed many log spams/denials
+- Drop QCOM perf
+- Create dummy libqti-perfd-clint
+- Import carrier config from MIUI
+- Extend buffer size to 256kb for offload playback
+- Redefine bluetooth a2dp offload capabilities
+- Set permissions for KGSL sysfs node
+- Shim the GetPreviewImageData symbol on libpiex
+- CTS passes by default
+
+### Notes ###
+- Latest Soviet kernel
+- Leica+Miui camera pre-installed
+- Encrypted by default (fbev1)
+- Flash DFE and use official ofox for decryption
