@@ -1,0 +1,10 @@
+### Project Elixir for Realme GT Neo 3T/Q5 Pro RMX3371 Changelogs
+
+### v3.13 RMX3371
+
+- Increased mic input volume
+
+Note: 
+SELinux Enforcing
+Encrytpted
+This is Final Build for Android 13[EOL]
