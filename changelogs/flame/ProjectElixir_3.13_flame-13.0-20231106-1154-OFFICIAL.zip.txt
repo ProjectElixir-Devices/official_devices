@@ -1,0 +1,8 @@
+Elixir v3.13 Changelogs (flame)
+• CTS passed by default
+• Misc. Fixes and Improvements
+
+Notes: 
+• SELinux Enforcing
+• GApps are included
+• CTS passed by default
