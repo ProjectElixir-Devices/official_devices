@@ -1,15 +1,15 @@
 {
   "error": false,
-  "filename": "ProjectElixir_3.12_blueline-13.0-20230925-1323-OFFICIAL.zip",
-  "datetime": 1695640980,
-  "size": 1678942660,
-  "url": "https://private.projectelixiros.com/thirteen/blueline/ProjectElixir_3.12_blueline-13.0-20230925-1323-OFFICIAL.zip",
-  "filehash": "f5e69e6f6a934c01117e2dd052633bc6",
+  "filename": "ProjectElixir_3.13_blueline-13.0-20231106-1541-OFFICIAL.zip",
+  "datetime": 1699281660,
+  "size": 1726324155,
+  "url": "https://private.projectelixiros.com/thirteen/blueline/ProjectElixir_3.13_blueline-13.0-20231106-1541-OFFICIAL.zip",
+  "filehash": "826a655a5e6e9f0e0d6158b2708ffa3a",
   "version": "13.0",
-  "id": "1066af7f01340e8819770a2ccdcb52caa3be174626313a3eb78d525019a98fb6",       
+  "id": "73f266991b7f59f031cd4045a47c01ed1856776a4a13805a96c65caa4705f519",       
   "tg_username": "jrjmt",
   "device_name": "Google Pixel 3",
   "device": "blueline",
   "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-blueline-project-elixir-official-stable-aosp.4579367/",
-  "is_active": true 
+  "is_active": true     
 }
