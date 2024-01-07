@@ -21,7 +21,7 @@ Poco X3 Pro (vayu) by chandlerbigg
 Poco M2 (shiva) by Raizel
 Redmi 9 (lancelot) by Raizel
 Redmi K20 Pro (raphael) by Mohammad Al Arabi
-Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) by Douxx_gang
+Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) by INNUENDOCODM
 Redmi K40/POCO F3/Mi 11x (alioth) by theangelofdead01
 Redmi K40S/ POCO F4 (munch) by VINC3NT
 Redmi Note 10 Pro (sweet) by pure_soul_kk
