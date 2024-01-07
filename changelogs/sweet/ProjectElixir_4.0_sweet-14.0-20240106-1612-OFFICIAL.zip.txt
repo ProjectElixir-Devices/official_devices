@@ -1,0 +1,8 @@
+# v4.0 sweet/sweetin
+- Initial A14 buid
+- Update blobs from MIUI V14.0.9.0.TKFMIXM
+- Switch to Leica Camera 4.7 
+- Nuke EROFS changes ( non-erofs build ) 
+- Perf+ Kernel is by default
+- Other Misc. fixes and changes
+
