@@ -1,0 +1,14 @@
+Elixir 4.0 Changelogs (haydn/haydnin)
+
+- Intial Android 14 Release
+- Based on Janvary 2024 Security Patch
+- Improved Smoothness
+- Improved Touch Responsiveness
+
+
+Notes:
+
+- SELinux Enforcing
+- Lieca Camera included
+- Gapps Included
+- CLEAN FLASH COMPULSORY
