@@ -278,7 +278,7 @@ def tg_log():
     msg += f"<b>Updated during current month:</b> <code>{str(len(Updated))}</code><br>"
     msg += f"<b>Not Updated during current month:</b> <code>{str(len(YetToUpdate))}</code><br><br>"
     msg += f"<b>Information as on:</b> <code>{str(datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M'))} hours (UTC)</code>"
-    text = f"<b>Project Elixir Devices Tiramisu Update Status</b>\n\n"
+    text = f"<b>Project Elixir Devices UpsideDownCake Update Status</b>\n\n"
     text += f"<b>Total Official Devices:</b> <code>{str(len(get_devices()))}</code>\n"
     text += f"<b>Updated during current month:</b> <code>{str(len(Updated))}</code>\n"
     text += f"<b>Not Updated during current month:</b> <code>{str(len(YetToUpdate))}</code>\n"
