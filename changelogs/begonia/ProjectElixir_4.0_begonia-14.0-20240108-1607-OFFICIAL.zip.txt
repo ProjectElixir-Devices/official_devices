@@ -1,0 +1,10 @@
+### Project Elixir for Redmi Note 8 Pro (begonia) Changelogs ###
+
+- Initial Official A14 build
+- PBRP & FW Included
+- Aperture Cam included
+- Shifted to Hardware encryption(Beanpod)
+- Enable usage of dex2oat64
+- Fixed FPS stuck issue in chrome/youtube etc apps
+- Suppressed some Sepolicy Denails
+
