@@ -1,0 +1,5 @@
+- vili: Initial Release of A14 for vili
+- vili: Leica Camera added as default camera
+- vili: Lineage kernel is included
+
+### Credits: A very special thanks to Sector 5 Devs team of vili
