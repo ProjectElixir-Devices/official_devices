@@ -1,0 +1,10 @@
+### Project Elixir for Google Pixel 4a (sunfish) Changelogs ###
+
+- Initial Official A14 build
+- Aperture Cam included
+- Misc. Fixes and Improvements
+
+Notes:
+• SELinux Enforcing
+• GApps are included
+• CTS passed by default
