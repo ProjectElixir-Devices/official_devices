@@ -1,0 +1,5 @@
+# v4.0 lisa
+- Initial A14 buid
+- Switch to Leica Camera 5.0 
+- userdebug + enforce build 
+- QuickSilver Kernel is by default
