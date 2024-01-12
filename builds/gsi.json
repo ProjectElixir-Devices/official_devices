@@ -1,0 +1,15 @@
+{
+    "error": false,
+    "filename": "ProjectElixir_4.0_arm64_bgN-14.0-20240108-1305-OFFICIAL.img.xz",
+    "datetime": 1704722120,
+    "size": 1583677564,
+    "url": "https://private.projectelixiros.com/Private/fourteen/arm64_bgN/ProjectElixir_4.0_arm64_bgN-14.0-20240108-1305-OFFICIAL.img.xz",
+    "filehash": "11dbe7cd306d07f6f0479241c2b9b083",
+    "version": "14.0",
+    "id": "4d40f71df7f49ad5e8acc30391fadf563de3d7632b6215cdecddf7bd290770cc",
+    "tg_username": "universalgsi",
+    "device_name": "Generic System Image",
+    "device": "gsi",
+    "xda_thread": "https://forum.xda-developers.com/t/gsi-rom-project-elixir-3-5-android-13-0-aosp-official-13-01-2023.4541063/",
+    "is_active": true
+}
