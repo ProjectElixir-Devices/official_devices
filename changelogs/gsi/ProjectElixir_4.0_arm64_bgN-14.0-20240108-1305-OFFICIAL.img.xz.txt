@@ -1,0 +1,1 @@
+Initial build of v4.0, mediateks and certain exynos may not boot, try at your own risk
