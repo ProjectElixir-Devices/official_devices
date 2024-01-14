@@ -1,0 +1,7 @@
+Project Elixir v4.0 for Realme C3/Narzo 10A
+- Initial A14 release
+- Upstreamed Kernel to v4.14.335 Stable
+- Move Overlays to Product
+- Force OpenGL renderer
+- Disable display refresh rate override
+- Misc. Fixes & Improvements
