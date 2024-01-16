@@ -1,0 +1,4 @@
+# v4.0 redwood
+- Initial A14 buid
+- Shipped with Stock Prebuilt kernel (5.4.233)  
+- Shipped with oneplus dolby support
