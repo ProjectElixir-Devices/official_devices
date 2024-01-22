@@ -1,0 +1,7 @@
+Project Elixir v4.0 for Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G
+- Initial A14 release
+- Synced latest Elixir v4.0 changes
+- Upstreamed Kernel to v4.14.336 Stable
+- Compiled kernel with AOSP clang version 17.0.4
+- Disable display refresh rate override
+- Misc. Fixes & Improvements
