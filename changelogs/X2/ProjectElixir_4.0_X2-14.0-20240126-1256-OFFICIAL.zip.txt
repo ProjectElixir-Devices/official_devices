@@ -1,0 +1,2 @@
+Project Elixir v4.0 for Realme X2
+- Initial A14 release
