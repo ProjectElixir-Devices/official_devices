@@ -1,0 +1,11 @@
+# v4.0 veux/peux
+- Initial A14 build.
+- Updated blobs from MIUI V14.0.4.0.TKCMIXM.
+- Added Moto Dolby Support.
+- Added tweaks for Brightness.
+- Comes with January Security Patch.
+- Gcam is the default cam fo now.
+- Synced with the latest source changes.
+- CTS passes by default.
+- NFC works for Global Devices only.
+- Many More Misc. Fixes and Changes.
