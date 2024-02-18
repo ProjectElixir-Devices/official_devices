@@ -33,6 +33,7 @@ Redmi Note 11 Pro Plus/Poco X4 Pro (veux) by FreakyPrateek
 Redmi Note 7 Pro (violet) by ugly_kid_af
 Redmi Note 7/7s (lavender) by AlCoptan99
 Redmi Note 8/8T (ginkgo) by WeeboDemon
+Redmi Note 8 pro (begonia) by Saikrishna1504
 Xiaomi 9 SE (grus) by SakuraKyuo
 Xiaomi Mi Note 10 Lite (toco) by DennisMurimiWachira
 Xiaomi Poco F1 (beryllium) by RahulGorai
