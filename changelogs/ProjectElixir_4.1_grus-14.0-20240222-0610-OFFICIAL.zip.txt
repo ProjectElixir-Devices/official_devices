@@ -1,0 +1,7 @@
+- Switch to Twilight Kernel
+- Add Clear Speaker
+- Update UDFPS values to fix fingerprint misalignment
+- Switch to Aperture Camera
+- Switch to Lawnchair
+- Fix deep sleep not working in certain cases
+- Synchronize February security patch
