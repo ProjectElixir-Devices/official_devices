@@ -107,6 +107,12 @@ Nothing Phone (1) (Spacewar) by NotHarshhaa
 ### - Motorola Devices
 ```
 ```
+
+### - Google Device
+```
+Google Pixel 2 (walleye) by Asriadi Rahim
+Google Pixel 2XL (taimen) by Asriadi Rahim
+```
 <!--END_SECTION:devices-->
 
 ### Some important links below
