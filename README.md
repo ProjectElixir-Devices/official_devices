@@ -60,6 +60,11 @@ Galaxy Note 10+ (d2s) by FrEeRuNnEr4EvEr
 Galaxy Note 10 5G (d2x) by FrEeRuNnEr4EvEr
 ```
 
+### - Sony Devices
+```
+Sony Xperia 5 II (pdx206) by Ahnet
+```
+
 ### - Asus Devices
 ```
 Asus Zenfone Max Pro M1 (X00TD) by NotHarshhaa
