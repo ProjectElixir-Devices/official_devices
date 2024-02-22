@@ -1,0 +1,9 @@
+Elixir 4.1 Changelogs (pdx206)
+
+Intial Android 14 Release
+Based on Feburary 2024 Security Patch
+
+> Note: 
+SELinux Enforcing
+GApps are included
+Clean Flash Required.
