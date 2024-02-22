@@ -21,6 +21,7 @@ Project Elixir is an AOSP-based custom Android ROM with great performance, secur
 <!--START_SECTION:devices-->
 ### - Xiaomi Devices
 ```
+Mi 11T (agate/amber) by Ziad
 Mi 10T/Pro (apollo) by mhmdeveloper
 Poco F2 Pro/Redmi K30 Pro (lmi) by ZenkaBestia
 Poco M2 Pro/Redmi Note 9 Pro/Max/9s/10 Lite (miatoll) by CRUECY
