@@ -1,0 +1,11 @@
+### Project Elixir v4.1 for Redmi Note 8 Pro (begonia) Changelogs ###
+
+- Added MiuiLeica Cam
+- Added BCR
+- Fixed NFC
+- Fixed Engineering Mode
+- Improved UI/UX performance
+- Drop unneeded vendor cacerts
+- Debloated More apps like velvet etc by default
+- Supressed Drm log spam
+- Some more misc changes
