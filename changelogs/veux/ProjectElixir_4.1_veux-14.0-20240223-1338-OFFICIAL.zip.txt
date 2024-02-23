@@ -1,0 +1,13 @@
+# v4.0 veux/peux
+- Comes with Feburary Security Patch.
+- Gcam is the default cam for now.
+- Synced with the latest source changes.
+- CTS passes by default.
+- NFC works for Global Devices only.
+- Many More Misc. Fixes and Changes.
+- Added BCR (Basic Call Recording) Support
+- Shipped with Lawnchair launcher 
+- Changed ZRAM from 3GB size to 75%
+- Removed Smooth Display Feature (may causes screen flickering)
+- Introduced PERFORMANCE TUNING
+- Enabled VoNR Calls Support
