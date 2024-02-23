@@ -1,6 +1,6 @@
 ### Project Elixir for Xiaomi SD720G Devices (miatoll) Changelogs
 
-### v4.1 MIATOLL
+### v4.1 miatoll
 
 - Android Security Patch 2024-02
 - Fix fingerprint bugs
@@ -9,6 +9,7 @@
 - Switch to OSS audio
 - fixup! Spatial audio for bluetooth headsets (ec3 codec now loads while playing the supported content)
 - fixup! fingerprint indicator sign to the correct location
+- fixup! DRM service entry
 - Switch to Pixel Power & Thermal HAL
 - Switch from time daemon to Sony timekeep
 - Upstreamed Forza Kernel v4.14.336 [EOL]
