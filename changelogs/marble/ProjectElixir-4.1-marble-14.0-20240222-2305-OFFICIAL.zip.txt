@@ -1,0 +1,4 @@
+Project Elixir v4.0 for Marble
+- Synced latest Elixir v4.1 changes
+- Initial Build with Google Gki non ksu kernel
+- Includes dirac+oplusdolby+viper
