@@ -1,0 +1,11 @@
+Elixir 4.1 Changelogs (haydn/haydnin)
+
+- Based on February 2024 Security Patch
+- Improved Smoothness
+- Improved Touch Responsiveness
+
+Notes:
+
+- SELinux Enforcing
+- Lieca Camera included
+- Gapps Included
