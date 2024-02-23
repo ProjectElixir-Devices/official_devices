@@ -1,0 +1,6 @@
+Elixir 4.1 Changelogs (Camellia)
+
+- Based on February 2024 Security Patch
+- Added Aperture Camera 
+- Some improvements and fixes
+
