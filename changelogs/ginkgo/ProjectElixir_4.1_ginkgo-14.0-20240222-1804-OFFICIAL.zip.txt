@@ -1,0 +1,3 @@
+- Fixed statusbar clock position.
+- Fixed Fingerprint missing for some users.
+- Added Aparture as default camera.
