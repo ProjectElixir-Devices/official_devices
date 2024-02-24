@@ -1,7 +1,7 @@
 ### Project Elixir for Google Pixel 4a (sunfish) Changelogs ###
 
-- Initial Official A14 build
-- Aperture Cam included
+- February SP merged
+- Fixed video playback issues
 - Misc. Fixes and Improvements
 
 Notes:
