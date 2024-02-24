@@ -9,4 +9,7 @@
 - Enabled Smooth Display
 - Nuked some BT log spams
 
+HOTFIX
+-Reverted Leica repo changes to fix it
+
 ### Credits: A very special thanks to Sector 5 Devs team of vili
