@@ -1,0 +1,8 @@
+Project Elixir v4.1 for Realme C3/Narzo 10A (RMX2020/RMX2027)
+- February Security Patch 
+- Upstreamed Kernel to v4.14.336 Stable
+- Compiled kernel with AOSP clang v17.0.4
+- Added Viper4AndroidFX support
+- Debloat some packages
+- Reduce number of CPUs for system-background apps
+- Misc. Fixes & Improvements
