@@ -1,0 +1,3 @@
+- Uses Lawnchair
+- Add Aperture
+- Initial release

@@ -12,14 +12,16 @@ Your experience while using our ROM will be buttery smooth without compromising 
 <br>
 <br>
 
-[![Download Project Elixir [Custom ROM]](https://img.shields.io/sourceforge/dm/project-elixir.svg)](https://projectelixiros.com/download) <img src="https://komarev.com/ghpvc/?username=Project-Elixir&style=flat-square" alt="Project-Elixir" />  [![Download Project Elixir [Custom ROM]](https://img.shields.io/sourceforge/dt/project-elixir.svg)](https://projectelixiros.com/download) 
+[![Download Project Elixir [Custom ROM]](https://img.shields.io/sourceforge/dm/project-elixir.svg)](https://projectelixiros.com/download) <img src="https://komarev.com/ghpvc/?username=Project-Elixir&style=flat-square" alt="Project-Elixir" /> [![Download Project Elixir [Custom ROM]](https://img.shields.io/sourceforge/dt/project-elixir.svg)](https://projectelixiros.com/download)
 
-Project Elixir is an AOSP-based custom Android ROM with great performance, security and stability. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. 
+Project Elixir is an AOSP-based custom Android ROM with great performance, security and stability. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android.
 
 ### OFFICIAL Maintainers of Project Elixir
 
 <!--START_SECTION:devices-->
+
 ### - Xiaomi Devices
+
 ```
 Mi 11T (agate/amber) by Ziad
 Mi 10T/Pro (apollo) by mhmdeveloper
@@ -31,6 +33,7 @@ Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) by INNUENDOCODM
 Redmi K40/POCO F3/Mi 11x (alioth) by AbrarNoob
 Redmi Note 10 Pro (sweet) by pure_soul_kk
 Redmi Note 11 Pro Plus/Poco X4 Pro (veux) by FreakyPrateek
+Redmi Note 11 (spes/spesn) by DragonFox
 Redmi Note 7 Pro (violet) by ugly_kid_af
 Redmi Note 6 Pro (tulip) by xyz-mocha
 Redmi Note 7/7s (lavender) by AlCoptan99
@@ -43,9 +46,10 @@ Xiaomi Redmi 5 Plus/Note 5 (vince) by PrajjuS
 ```
 
 ### - Realme Devices
+
 ```
 Realme 5 Series (r5x) by AMRITOOOO
-Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G (RM6785) by EvilAnsh 
+Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G (RM6785) by EvilAnsh
 Realme 7 Pro (RMX2170) by marshmello_61
 Realme X7 Max (RMX3031) by NishantKumar6342
 Realme X50 Pro 5G (bladerunner) by Sreelekshman
@@ -54,6 +58,7 @@ Realme GT Neo 3T/Q5 Pro (RMX3371) by Abhishek Shukla
 ```
 
 ### - Samsung Devices
+
 ```
 Galaxy S10e (beyond0lte) by FrEeRuNnEr4EvEr
 Galaxy S10 (beyond1lte) by FrEeRuNnEr4EvEr
@@ -65,16 +70,19 @@ Galaxy Note 10 5G (d2x) by FrEeRuNnEr4EvEr
 ```
 
 ### - Sony Devices
+
 ```
 Sony Xperia 5 II (pdx206) by Ahnet
 ```
 
 ### - Asus Devices
+
 ```
 Asus Zenfone Max Pro M1 (X00TD) by NotHarshhaa
 ```
 
 ### - OnePlus Devices
+
 ```
 OnePlus 6T (fajita) by Legendleo90
 OnePlus 7 (guacamoleb) by ugly_kid_af
@@ -87,64 +95,77 @@ Oneplus 9R (lemonades) by manid_reddy
 ```
 
 ### - Lenovo Devices
+
 ```
+
 ```
 
 ### - Nokia Devices
+
 ```
 Nokia 6.1 (PL2) by pure_soul_kk
 Nokia 6.1 Plus (DRG) by pure_soul_kk
 ```
 
 ### - Meizu Devices
+
 ```
+
 ```
 
 ### - Nothing Devices
+
 ```
 Nothing Phone (1) (Spacewar) by NotHarshhaa
 ```
 
 ### - Motorola Devices
+
 ```
+
 ```
 
 ### - Google Device
+
 ```
 Google Pixel 2 (walleye) by Asriadi Rahim
 Google Pixel 2XL (taimen) by Asriadi Rahim
 ```
+
 <!--END_SECTION:devices-->
 
 ### Some important links below
-* [**Maintainers Requirements**](https://projectelixiros.com/documentation)
-* [**Device Requirements**](https://projectelixiros.com/documentation)
-* [**Apply for Maintainership**](https://docs.google.com/forms/d/1eme8i0nXFNpv2fEfbskoANIwLUGy4KcYXssluWv6obE)
-* [**XDA Template**](https://github.com/Project-Elixir/docs/blob/UNO/xda_template.txt)
- 
+
+- [**Maintainers Requirements**](https://projectelixiros.com/documentation)
+- [**Device Requirements**](https://projectelixiros.com/documentation)
+- [**Apply for Maintainership**](https://docs.google.com/forms/d/1eme8i0nXFNpv2fEfbskoANIwLUGy4KcYXssluWv6obE)
+- [**XDA Template**](https://github.com/Project-Elixir/docs/blob/UNO/xda_template.txt)
 
 <p align="center">
   <img src="https://i.imgur.com/Qhxd9nL.png" />
 </p>
 
 ### Official Support Group & Channel
- * [**Elixir Telegram Channel**](https://telegram.me/Elixir_Updates)
- * [**Elixir Telegram Group**](https://telegram.me/Elixir_Discussion)
- 
+
+- [**Elixir Telegram Channel**](https://telegram.me/Elixir_Updates)
+- [**Elixir Telegram Group**](https://telegram.me/Elixir_Discussion)
+
 Have you joined it already? Okay, good. Now if you need to contact us, well, you may ask in our [**Telegram**](https://telegram.me/Elixir_Discussion) Support Group, ~~we may or may not answer.~~
- 
- ### Official Website and Downloads
- * [**Elixir Website**](https://projectelixiros.com/)
- * [**Elixir Team**](https://projectelixiros.com/team)
- * [**Elixir Downloads**](https://projectelixiros.com/download)
- * [**Elixir Changelog**](https://projectelixiros.com/changelog)
 
+### Official Website and Downloads
 
-### Crowdin for Project Elixir 
- * [**Elixir Crowdin**](https://crowdin.com/project/project-elixir) 
+- [**Elixir Website**](https://projectelixiros.com/)
+- [**Elixir Team**](https://projectelixiros.com/team)
+- [**Elixir Downloads**](https://projectelixiros.com/download)
+- [**Elixir Changelog**](https://projectelixiros.com/changelog)
+
+### Crowdin for Project Elixir
+
+- [**Elixir Crowdin**](https://crowdin.com/project/project-elixir)
 
 ### Contact on Emergency
-* [**Saurav - Founder/lead Dev**](https://telegram.me/ugly_kid_af) - [**[Github Profile]**](https://github.com/ugly-kid-af)
+
+- [**Saurav - Founder/lead Dev**](https://telegram.me/ugly_kid_af) - [**[Github Profile]**](https://github.com/ugly-kid-af)
 
 For urgent need feel free to contact us on provided links. And for personal build request, patreon, donation, suggestions, sponsor, personal device support join telegram group or respective platform like patreon chat. Don't PM unnecessarily !!
 
@@ -157,9 +178,10 @@ For urgent need feel free to contact us on provided links. And for personal buil
 ```
 UPI: dwarmachine24@oksbi
 ```
+
 - PayPal: https://www.paypal.me/uglykid24
 - Get early build access: https://www.patreon.com/join/uglykid24
-- Buy me a coffee: https://www.buymeacoffee.com/Uglykid/membership    
+- Buy me a coffee: https://www.buymeacoffee.com/Uglykid/membership
 
 <br>
 
