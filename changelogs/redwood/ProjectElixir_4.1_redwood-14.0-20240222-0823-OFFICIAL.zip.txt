@@ -1,0 +1,4 @@
+- Synced latest Elixir v4.1 changes
+- February SP merged
+- Aperture Cam included
+- Fixed NFC service
