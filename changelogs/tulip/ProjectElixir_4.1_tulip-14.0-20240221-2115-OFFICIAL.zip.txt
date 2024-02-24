@@ -1,0 +1,8 @@
+Elixir 4.1 Changelogs (tulip)
+
+Intial Android 14 Release
+Based on February 2024 Security Patch
+
+Notes:
+• SELinux Enforcing
+• Switched To Retrofit Dynamic Partitions
