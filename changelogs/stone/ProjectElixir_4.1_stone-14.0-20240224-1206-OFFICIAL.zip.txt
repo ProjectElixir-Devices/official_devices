@@ -1,0 +1,2 @@
+- Initial official release
+- Synced latest Elixir v4.1 changes
