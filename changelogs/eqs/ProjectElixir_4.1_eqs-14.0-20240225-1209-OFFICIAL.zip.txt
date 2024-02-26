@@ -1,0 +1,7 @@
+- Added Viper4Android driver (App not included)
+- Added Dolby support (App included)
+- Added minimal support for richtap vibration
+- Drop 32Bit support
+- Switch to Lawnchair
+- Fixed some bugs from previous build
+- Synchronize February security patch
