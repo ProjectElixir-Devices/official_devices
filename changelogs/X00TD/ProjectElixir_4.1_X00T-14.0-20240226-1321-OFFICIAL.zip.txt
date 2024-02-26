@@ -1,0 +1,21 @@
+Elixir 4.1 Changelogs (X00TD)
+
+Based on Febvuary 2024 Security Patch
+Shipped with Lawnchair
+Added Parrot GCam as default camera 
+Disable HWUI's Skia tracing
+Removed legacy verity support
+Dropped imsdaemon
+Fixed qti_power_hal
+Fixed Fingerprint issues on social media apps
+Fixed Calling issues
+CTS passed by default
+Some misc improvements and fixes
+
+Note: 
+SELinux Enforcing
+GApps are included
+Based on 4.19 kernel, NON-FBE
+Orfox R11.1/BRP/Twrp-3.6.19.0 recovery is recommended
+Recommended Firmware : 063,087 and higher
+Clean flash is necessary
