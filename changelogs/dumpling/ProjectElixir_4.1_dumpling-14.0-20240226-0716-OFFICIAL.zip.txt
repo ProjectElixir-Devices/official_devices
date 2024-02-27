@@ -1,0 +1,6 @@
+- Initial Release (With LOS Tree)
+- No camera as of now
+- Firmware is already included in zip no need to flash additionally
+- Gapps is already included in the zip
+- Synced latest Elixir v4.1 changes
+- Some misc changes and improvements
