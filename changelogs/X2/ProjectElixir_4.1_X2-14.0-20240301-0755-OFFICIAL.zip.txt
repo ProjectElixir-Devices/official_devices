@@ -1,0 +1,3 @@
+Project Elixir v4.1 for Realme X2
+- Sync Latest Source (Feb. Security Patch)
+- Address more Sepolicy Denials (Should fix jio sim not working)
