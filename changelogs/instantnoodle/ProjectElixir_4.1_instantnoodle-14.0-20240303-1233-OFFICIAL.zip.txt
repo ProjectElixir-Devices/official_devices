@@ -1,0 +1,11 @@
+### Project Elixir for Oneplus 8(Instantnoodle) Changelogs
+
+### v4.1 Instantnoodle
+
+- Updated things for Jio to work properly
+- Updated to latest source changes
+- Upstreamed kernel and other device sources
+
+Note: 
+SELinux Enforcing
+Encrytpted
