@@ -1,0 +1,11 @@
+### Project Elixir for Oneplus 8T(Kebab) Changelogs
+
+### v4.1 Kebab
+
+- Updated things for Jio to work properly
+- Updated to latest source changes
+- Upstreamed kernel and other device sources
+
+Note: 
+SELinux Enforcing
+Encrytpted
